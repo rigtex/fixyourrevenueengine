@@ -216,8 +216,8 @@ section.alt { background: var(--off-white); }
   display: inline-block;
 }
 
-.section-head { max-width: 760px; margin-bottom: 50px; }
-.section-head p { font-size: 1.1rem; color: #334; }
+.section-head { max-width: 960px; margin-bottom: 50px; }
+.section-head p { font-size: 1.1rem; color: #334; text-wrap: pretty; }
 
 /* ---------- Grid cards ---------- */
 .grid-3 {
@@ -414,7 +414,7 @@ section.alt { background: var(--off-white); }
 .post h3 a { text-decoration: none; color: inherit; }
 .post h3 a:hover { color: var(--light-blue); }
 .post .post-meta span:last-child { color: var(--light-blue); font-weight: 600; }
-.page-hero p { font-size: 1.15rem; color: rgba(255,255,255,0.9); max-width: 700px; margin-top: 16px; }
+.page-hero p { font-size: 1.15rem; color: rgba(255,255,255,0.9); max-width: 900px; margin-top: 16px; text-wrap: pretty; }
 
 /* ---------- Footer ---------- */
 .site-footer {
