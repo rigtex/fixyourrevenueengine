@@ -1,12 +1,12 @@
-# Revved for Growth — Full Content Snapshot
+# Revved for Growth, Full Content Snapshot
 
 > Full content snapshot of fixyourrevenueengine.com for large language model ingestion. Last updated: 2026-05.
 
-Revved for Growth is an embedded revenue engine transformation practice for founder-led or family-owned B2B firms ($2M–$15M, sweet spot $5M–$10M) stuck in stalled, inconsistent growth. The work is not advisory, not an agency, and not a fractional leadership placement — it is operating inside the business and taking ownership of how revenue is produced across marketing, sales, and customer success. Founded and led by Jason Rigolli.
+Revved for Growth is an embedded revenue engine transformation practice for founder-led or family-owned B2B firms ($2M–$15M, sweet spot $5M–$10M) stuck in stalled, inconsistent growth. The work is not advisory, not an agency, and not a fractional leadership placement. It is operating inside the business and taking ownership of how revenue is produced across marketing, sales, and customer success. Founded and led by Jason Rigolli.
 
 ---
 
-## Home — https://fixyourrevenueengine.com/
+## Home, https://fixyourrevenueengine.com/
 
 ### Hero
 **Revved for Growth.**
@@ -15,10 +15,10 @@ Founder-led or family-owned firms don't stall because the team isn't trying. The
 
 CTA: Let's Meet (https://cal.com/jrigolli/meeting).
 
-### ICP — Built for the Stalled Scale Founder
+### ICP, Built for the Stalled Scale Founder
 **Your revenue problem isn't marketing. It's system fragmentation.**
 
-At $2M–$15M, the business has grown past instinct but hasn't reached the structure that makes growth predictable. Marketing, sales, and customer success run in parallel lanes that never quite hand off. The business runs the founder, not the other way around — and there is never a quiet week to actually fix the system.
+At $2M–$15M, the business has grown past instinct but hasn't reached the structure that makes growth predictable. Marketing, sales, and customer success run in parallel lanes that never quite hand off. The business runs the founder, not the other way around, and there is never a quiet week to actually fix the system.
 
 Hiring and firing sales staff hasn't fixed it. Agencies haven't fixed it. Tactical changes deliver temporary lifts and then revert.
 
@@ -34,9 +34,9 @@ ICP criteria:
 
 **Fix.** For stalled $5M–$15M firms where marketing, sales, and customer success are misaligned. We get inside the system, find where the engine is leaking revenue, and repair the structural gaps.
 
-**Rebuild.** For firms whose revenue engine has outgrown the design that got them here. We redesign how marketing, sales, and customer success produce growth together — turning inconsistent performance into predictable, measurable, repeatable revenue.
+**Rebuild.** For firms whose revenue engine has outgrown the design that got them here. We redesign how marketing, sales, and customer success produce growth together, turning inconsistent performance into predictable, measurable, repeatable revenue.
 
-**Build.** For earlier-stage firms that need structure, not experimentation chaos. We install the revenue engine from zero — messaging, motion, measurement.
+**Build.** For earlier-stage firms that need structure, not experimentation chaos. We install the revenue engine from zero, messaging, motion, measurement.
 
 ### Proof
 - FinTech SaaS: 205% of revenue targets
@@ -44,7 +44,7 @@ ICP criteria:
 - Founder-led + PE-influenced: 33–67% margin growth
 - Cross-function alignment: 44–57% efficiency lift
 
-> "Finally having a business that runs without me carrying it on my back." — Founder, B2B services
+> "Finally having a business that runs without me carrying it on my back.", Founder, B2B services
 
 ### Why this is different
 - **Operator, not advisor.** Strategy that never lands inside the business is just commentary.
@@ -53,13 +53,13 @@ ICP criteria:
 
 ---
 
-## Insights index — https://fixyourrevenueengine.com/insights.html
+## Insights index, https://fixyourrevenueengine.com/insights.html
 
 Three sections: Coming Soon (2 upcoming), Featured Series (2025 Founder-Led Report, 7 parts), Field Notes (1 original thought-leadership piece + 6 Mahdlo-canonical pieces).
 
 ### Coming soon
-- **The business that runs without you** (May 2026) — One founder described the outcome as "finally having a business that runs without me carrying it on my back." That's not delegation — it's externalizing revenue mechanics out of the founder's head into systems other people can run.
-- **The $4.2M pipeline gap** (June 2026) — Sales–marketing alignment is not a meeting cadence. A founder showed me a pipeline figure her CMO and VP Sales had each been reporting separately — they were $4.2M apart.
+- **The business that runs without you** (May 2026), One founder described the outcome as "finally having a business that runs without me carrying it on my back." That's not delegation, it's externalizing revenue mechanics out of the founder's head into systems other people can run.
+- **The $4.2M pipeline gap** (June 2026), Sales–marketing alignment is not a meeting cadence. A founder showed me a pipeline figure her CMO and VP Sales had each been reporting separately. They were $4.2M apart.
 
 ---
 
@@ -67,43 +67,34 @@ Three sections: Coming Soon (2 upcoming), Featured Series (2025 Founder-Led Repo
 
 The first piece below is original to fixyourrevenueengine.com. Every other post lives at fixyourrevenueengine.com/insights/[slug].html with a canonical tag pointing to the original mahdlo.net URL where it was first published. Author: Jason Rigolli.
 
-### Field note — More fuel in a broken engine
+### Field note: More fuel in a broken engine
 - URL: https://fixyourrevenueengine.com/insights/more-fuel-broken-engine.html
 - First published: May 28, 2026 · 4 min read
 - Canonical: self (original to this site)
 - Format: thought leadership
-- Thesis: If you already cut marketing and revenue is still stalled, the problem was never marketing — and the next hire, agency, or tool you're about to buy won't fix it either.
+- Thesis: If you already cut marketing and revenue is still stalled, the problem was never marketing, and the next hire, agency, or tool you're about to buy won't fix it either.
 - Summary: Stalled $5M–$15M founders who cut marketing and watched pipeline fail to recover are now reaching for the next category of spend (SDR pod, agency, RevOps tool) on the same diagnosis that didn't work the first time. Three operational tests to run before signing the next $250K hire plan: recent SQL→closed-won conversion rate, whether the existing commercial team can name the same three reasons deals stall, and what happens to existing pipeline if you do nothing for sixty days.
 - Quotable line: "More fuel in a broken engine just produces more expensive stagnation."
 
 
 
-### 2025 Founder-Led Report — Part 1: Why 2025 Demands a New Chapter for Founder-Led Businesses
+### 2025 Founder-Led Report, Part 1: Why 2025 Demands a New Chapter for Founder-Led Businesses
 - URL: https://fixyourrevenueengine.com/insights/founder-led-report-part-1.html
 - First published: May 13, 2025 · 9 min read
 - Canonical: https://www.mahdlo.net/blog/why-2025-demands-a-new-chapter-for-founder-led-businesses
-- Summary: Intro to the seven-part series. The qualities that fueled early founder-led growth — speed, control, deep personal investment — can become the very forces that stall it. 2025 is a turning point: founders need sustainable leadership, structured growth, and strategic delegation to move past day-to-day firefighting.
+- Summary: Intro to the seven-part series. The qualities that fueled early founder-led growth, speed, control, deep personal investment, can become the very forces that stall it. 2025 is a turning point: founders need sustainable leadership, structured growth, and strategic delegation to move past day-to-day firefighting.
 
-### 2025 Founder-Led Report — Part 2: The Founder's Dilemma: Success Becomes a Ceiling
+### 2025 Founder-Led Report, Part 2: The Founder's Dilemma: Success Becomes a Ceiling
 - URL: https://fixyourrevenueengine.com/insights/founder-led-report-part-2.html
 - First published: May 15, 2025 · 11 min read
 - Canonical: https://www.mahdlo.net/blog/fractional-cro-founder-growth
-- Summary: Founder's Syndrome — micromanagement, resistance to change, reluctance to delegate, decision-making bottlenecks. The unseen costs: missed market shifts, slow decision cycles, team burnout, stifled innovation. How a Fractional CRO bridges founder vision and scalable execution.
+- Summary: Founder's Syndrome: micromanagement, resistance to change, reluctance to delegate, decision-making bottlenecks. The unseen costs: missed market shifts, slow decision cycles, team burnout, stifled innovation. How a Fractional CRO bridges founder vision and scalable execution.
 
-### 2025 Founder-Led Report — Part 3: Strategic Planning for Founder-Led Businesses
+### 2025 Founder-Led Report, Part 3: Strategic Planning for Founder-Led Businesses
 - URL: https://fixyourrevenueengine.com/insights/founder-led-report-part-3.html
 - First published: May 20, 2025 · 10 min read
 - Canonical: https://www.mahdlo.net/blog/fractional-cro-strategic-planning
 - Summary: Why strategic planning, structure, and clear sales direction are essential. Building a vision-driven strategic plan: define vision and mission, set clear priorities, measure progress, get buy-in at every level. How Fractional CROs drive execution and accountability.
 
-### 2025 Founder-Led Report — Part 4: Agile Growth Strategies
-- URL: https://fixyourrevenueengine.com/insights/founder-led-report-part-4.html
-- First published: May 22, 2025 · 10 min read
-- Canonical: https://www.mahdlo.net/blog/fractional-cro-founder-agility
-- Summary: Founder-driven decision making produces faster pivots, sharper focus, unified vision. Practical strategies: structured customer feedback loops, rapid experimentation cycles, flexible leadership. Avoiding bureaucracy and keeping innovation aligned with vision and values.
-
-### 2025 Founder-Led Report — Part 5: Succession Planning for Founders
-- URL: https://fixyourrevenueengine.com/insights/founder-led-report-part-5.html
-- First published: May 27, 2025 · 10 min read
-- Canonical: https://www.mahdlo.net/blog/fractional-cro-succession-planning
-- Summary: Succession isn't a transaction — it's a revenue strategy. Why early planning matters, role of a Fractional CRO in designing leadership pipelines and facilitating
+### 2025 Founder-Led Report, Part 4: Agile Growth Strategies
+- URL: https://fixyourrevenueengine.

@@ -1,6 +1,6 @@
 # Revved for Growth
 
-> Revved for Growth is an embedded revenue engine transformation practice for founder-led or family-owned B2B firms ($2M–$15M, sweet spot $5M–$10M) stuck in stalled, inconsistent growth. We are not advisory, not an agency, and not a fractional leadership placement — we operate inside the business and take ownership of how revenue is produced.
+> Revved for Growth is an embedded revenue engine transformation practice for founder-led or family-owned B2B firms ($2M–$15M, sweet spot $5M–$10M) stuck in stalled, inconsistent growth. We are not advisory, not an agency, and not a fractional leadership placement. We operate inside the business and take ownership of how revenue is produced.
 
 Tagline: **Revved for Growth.** · **From Stalled to Scalable Revenue.**
 
@@ -9,22 +9,21 @@ Core positioning: most options sit at the strategy, marketing, or advisory layer
 ## Pages
 
 - [Home](https://fixyourrevenueengine.com/index.html): Hero, insights teaser, ICP, three ways to work together, proof, differentiation, CTA.
-- [Insights](https://fixyourrevenueengine.com/insights.html): Three sections — Coming Soon (3 upcoming pieces), Featured Series (2025 Founder-Led Report, 7 parts), Notes from the Field (5 standalone pieces). All posts are hosted on fixyourrevenueengine.com; each carries a canonical tag pointing to its first-published location on mahdlo.net.
+- [Insights](https://fixyourrevenueengine.com/insights.html): Three sections: Coming Soon (3 upcoming pieces), Featured Series (2025 Founder-Led Report, 7 parts), Notes from the Field (5 standalone pieces). All posts are hosted on fixyourrevenueengine.com; each carries a canonical tag pointing to its first-published location on mahdlo.net.
 - [Contact](https://fixyourrevenueengine.com/contact.html): Embedded Cal.com booking calendar.
+- [About](https://fixyourrevenueengine.com/about.html): Jason Rigolli, two-time co-founder and CRO with 24+ years rebuilding revenue engines. Past roles include CRO, VP Sales, and VP Operations. Co-founded, scaled, and exited two businesses early in career (since 2002). Brand experience includes Nestlé, Walmart, Spin Master, Virgin Mobile, Robbins Research International, CSS Group. Also embeds Cal.com booking calendar.
 
-## Insights — published posts
+## Insights, published posts
 
 ### Featured series: The 2025 Founder-Led Report (7 parts)
-- [Part 1 — Why 2025 Demands a New Chapter for Founder-Led Businesses](https://fixyourrevenueengine.com/insights/founder-led-report-part-1.html) (May 13, 2025)
-- [Part 2 — The Founder's Dilemma: Success Becomes a Ceiling](https://fixyourrevenueengine.com/insights/founder-led-report-part-2.html) (May 15, 2025)
-- [Part 3 — Strategic Planning for Founder-Led Businesses](https://fixyourrevenueengine.com/insights/founder-led-report-part-3.html) (May 20, 2025)
-- [Part 4 — Agile Growth Strategies for Founder-Led Companies](https://fixyourrevenueengine.com/insights/founder-led-report-part-4.html) (May 22, 2025)
-- [Part 5 — Succession Planning for Founders: Secure Your Legacy](https://fixyourrevenueengine.com/insights/founder-led-report-part-5.html) (May 27, 2025)
-- [Part 6 — Role Clarity Boosts Business Growth & Efficiency](https://fixyourrevenueengine.com/insights/founder-led-report-part-6.html) (May 29, 2025)
-- [Part 7 — Future-Proof and Build Enduring Success](https://fixyourrevenueengine.com/insights/founder-led-report-part-7.html) (June 3, 2025)
+- [Part 1: Why 2025 Demands a New Chapter for Founder-Led Businesses](https://fixyourrevenueengine.com/insights/founder-led-report-part-1.html) (May 13, 2025)
+- [Part 2: The Founder's Dilemma: Success Becomes a Ceiling](https://fixyourrevenueengine.com/insights/founder-led-report-part-2.html) (May 15, 2025)
+- [Part 3: Strategic Planning for Founder-Led Businesses](https://fixyourrevenueengine.com/insights/founder-led-report-part-3.html) (May 20, 2025)
+- [Part 4: Agile Growth Strategies for Founder-Led Companies](https://fixyourrevenueengine.com/insights/founder-led-report-part-4.html) (May 22, 2025)
+- [Part 5: Succession Planning for Founders: Secure Your Legacy](https://fixyourrevenueengine.com/insights/founder-led-report-part-5.html) (May 27, 2025)
+- [Part 6: Role Clarity Boosts Business Growth & Efficiency](https://fixyourrevenueengine.com/insights/founder-led-report-part-6.html) (May 29, 2025)
+- [Part 7: Future-Proof and Build Enduring Success](https://fixyourrevenueengine.com/insights/founder-led-report-part-7.html) (June 3, 2025)
 
 ### Notes from the field (7 posts)
-- [More fuel in a broken engine](https://fixyourrevenueengine.com/insights/more-fuel-broken-engine.html) (May 28, 2026) — original thought-leadership piece. If you already cut marketing and revenue is still stalled, the problem was never marketing — and the next hire, agency, or tool you're about to sign won't fix it either.
-- [Is SaaS Dead? How Fractional CROs Are Redefining the Future](https://fixyourrevenueengine.com/insights/is-saas-dead.html) (February 4, 2025)
-- [Insights for Founder-Led Businesses on the Road to Exit Success](https://fixyourrevenueengine.com/insights/founder-led-exit-success.html) (January 23, 2025) — also published on LinkedIn
-- [RevOps Metrics That
+- [More fuel in a broken engine](https://fixyourrevenueengine.com/insights/more-fuel-broken-engine.html) (May 28, 2026), original thought-leadership piece. If you already cut marketing and revenue is still stalled, the problem was never marketing, and the next hire, agency, or tool you're about to sign won't fix it either.
+- [Is SaaS Dead? How Fractional CROs 
