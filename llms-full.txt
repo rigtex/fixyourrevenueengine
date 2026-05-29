@@ -55,10 +55,9 @@ ICP criteria:
 
 ## Insights index — https://fixyourrevenueengine.com/insights.html
 
-Three sections: Coming Soon (3 upcoming), Featured Series (2025 Founder-Led Report, 7 parts), Notes from the Field (5 standalones).
+Three sections: Coming Soon (2 upcoming), Featured Series (2025 Founder-Led Report, 7 parts), Field Notes (1 original thought-leadership piece + 6 Mahdlo-canonical pieces).
 
 ### Coming soon
-- **More fuel in a broken engine** (May 2026) — Most founders are trying to fix a revenue problem with a marketing budget. That's the misdiagnosis. More fuel in a broken engine just produces more expensive stagnation.
 - **The business that runs without you** (May 2026) — One founder described the outcome as "finally having a business that runs without me carrying it on my back." That's not delegation — it's externalizing revenue mechanics out of the founder's head into systems other people can run.
 - **The $4.2M pipeline gap** (June 2026) — Sales–marketing alignment is not a meeting cadence. A founder showed me a pipeline figure her CMO and VP Sales had each been reporting separately — they were $4.2M apart.
 
@@ -66,7 +65,18 @@ Three sections: Coming Soon (3 upcoming), Featured Series (2025 Founder-Led Repo
 
 ## Published posts
 
-Each post below lives at fixyourrevenueengine.com/insights/[slug].html with a canonical tag pointing to the original mahdlo.net URL where it was first published. Author: Jason Rigolli.
+The first piece below is original to fixyourrevenueengine.com. Every other post lives at fixyourrevenueengine.com/insights/[slug].html with a canonical tag pointing to the original mahdlo.net URL where it was first published. Author: Jason Rigolli.
+
+### Field note — More fuel in a broken engine
+- URL: https://fixyourrevenueengine.com/insights/more-fuel-broken-engine.html
+- First published: May 28, 2026 · 4 min read
+- Canonical: self (original to this site)
+- Format: thought leadership
+- Thesis: If you already cut marketing and revenue is still stalled, the problem was never marketing — and the next hire, agency, or tool you're about to buy won't fix it either.
+- Summary: Stalled $5M–$15M founders who cut marketing and watched pipeline fail to recover are now reaching for the next category of spend (SDR pod, agency, RevOps tool) on the same diagnosis that didn't work the first time. Three operational tests to run before signing the next $250K hire plan: recent SQL→closed-won conversion rate, whether the existing commercial team can name the same three reasons deals stall, and what happens to existing pipeline if you do nothing for sixty days.
+- Quotable line: "More fuel in a broken engine just produces more expensive stagnation."
+
+
 
 ### 2025 Founder-Led Report — Part 1: Why 2025 Demands a New Chapter for Founder-Led Businesses
 - URL: https://fixyourrevenueengine.com/insights/founder-led-report-part-1.html

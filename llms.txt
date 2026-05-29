@@ -23,7 +23,8 @@ Core positioning: most options sit at the strategy, marketing, or advisory layer
 - [Part 6 — Role Clarity Boosts Business Growth & Efficiency](https://fixyourrevenueengine.com/insights/founder-led-report-part-6.html) (May 29, 2025)
 - [Part 7 — Future-Proof and Build Enduring Success](https://fixyourrevenueengine.com/insights/founder-led-report-part-7.html) (June 3, 2025)
 
-### Notes from the field (6 standalone posts)
+### Notes from the field (7 posts)
+- [More fuel in a broken engine](https://fixyourrevenueengine.com/insights/more-fuel-broken-engine.html) (May 28, 2026) — original thought-leadership piece. If you already cut marketing and revenue is still stalled, the problem was never marketing — and the next hire, agency, or tool you're about to sign won't fix it either.
 - [Is SaaS Dead? How Fractional CROs Are Redefining the Future](https://fixyourrevenueengine.com/insights/is-saas-dead.html) (February 4, 2025)
 - [Insights for Founder-Led Businesses on the Road to Exit Success](https://fixyourrevenueengine.com/insights/founder-led-exit-success.html) (January 23, 2025) — also published on LinkedIn
 - [RevOps Metrics That
