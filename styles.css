@@ -278,6 +278,64 @@ section.alt { background: var(--off-white); }
   grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
   gap: 28px;
 }
+
+/* ---------- Proof / Track record stats ---------- */
+.grid-4 {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  gap: 24px;
+  margin-bottom: 56px;
+}
+.stat {
+  background: #fff;
+  border: 1px solid var(--border);
+  border-top: 3px solid var(--light-blue);
+  border-radius: 2px;
+  padding: 32px 26px 26px;
+  text-align: left;
+  transition: transform 0.2s, box-shadow 0.2s;
+}
+.stat:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 8px 24px rgba(8,48,88,0.12);
+}
+.stat .num {
+  display: block;
+  font-family: 'Italiana', Georgia, serif;
+  font-size: 3rem;
+  line-height: 1;
+  color: var(--dark-blue);
+  letter-spacing: 0.5px;
+  margin-bottom: 12px;
+}
+.stat .lbl {
+  display: block;
+  font-size: 0.92rem;
+  color: #334;
+  line-height: 1.45;
+}
+.pull-quote {
+  font-family: 'Italiana', Georgia, serif;
+  font-size: 1.7rem;
+  line-height: 1.4;
+  color: var(--dark-blue);
+  max-width: 920px;
+  margin: 20px auto 0;
+  padding: 32px 36px;
+  background: #fff;
+  border-left: 3px solid var(--light-blue);
+  border-radius: 2px;
+  text-wrap: pretty;
+}
+.pull-quote cite {
+  display: block;
+  margin-top: 16px;
+  font-family: Helvetica, Arial, sans-serif;
+  font-size: 0.92rem;
+  font-style: normal;
+  color: var(--mid-blue);
+  letter-spacing: 0.3px;
+}
 .card {
   background: var(--white);
   border: 1px solid var(--border);
