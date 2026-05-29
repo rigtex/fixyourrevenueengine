@@ -6,7 +6,7 @@ Revved for Growth is an embedded revenue engine transformation practice for foun
 
 ---
 
-## Home — https://www.fixyourrevenueengine.com/
+## Home — https://fixyourrevenueengine.com/
 
 ### Hero
 **Revved for Growth.**
@@ -53,7 +53,7 @@ ICP criteria:
 
 ---
 
-## Insights index — https://www.fixyourrevenueengine.com/insights.html
+## Insights index — https://fixyourrevenueengine.com/insights.html
 
 Three sections: Coming Soon (3 upcoming), Featured Series (2025 Founder-Led Report, 7 parts), Notes from the Field (5 standalones).
 
@@ -69,31 +69,31 @@ Three sections: Coming Soon (3 upcoming), Featured Series (2025 Founder-Led Repo
 Each post below lives at fixyourrevenueengine.com/insights/[slug].html with a canonical tag pointing to the original mahdlo.net URL where it was first published. Author: Jason Rigolli.
 
 ### 2025 Founder-Led Report — Part 1: Why 2025 Demands a New Chapter for Founder-Led Businesses
-- URL: https://www.fixyourrevenueengine.com/insights/founder-led-report-part-1.html
+- URL: https://fixyourrevenueengine.com/insights/founder-led-report-part-1.html
 - First published: May 13, 2025 · 9 min read
 - Canonical: https://www.mahdlo.net/blog/why-2025-demands-a-new-chapter-for-founder-led-businesses
 - Summary: Intro to the seven-part series. The qualities that fueled early founder-led growth — speed, control, deep personal investment — can become the very forces that stall it. 2025 is a turning point: founders need sustainable leadership, structured growth, and strategic delegation to move past day-to-day firefighting.
 
 ### 2025 Founder-Led Report — Part 2: The Founder's Dilemma: Success Becomes a Ceiling
-- URL: https://www.fixyourrevenueengine.com/insights/founder-led-report-part-2.html
+- URL: https://fixyourrevenueengine.com/insights/founder-led-report-part-2.html
 - First published: May 15, 2025 · 11 min read
 - Canonical: https://www.mahdlo.net/blog/fractional-cro-founder-growth
 - Summary: Founder's Syndrome — micromanagement, resistance to change, reluctance to delegate, decision-making bottlenecks. The unseen costs: missed market shifts, slow decision cycles, team burnout, stifled innovation. How a Fractional CRO bridges founder vision and scalable execution.
 
 ### 2025 Founder-Led Report — Part 3: Strategic Planning for Founder-Led Businesses
-- URL: https://www.fixyourrevenueengine.com/insights/founder-led-report-part-3.html
+- URL: https://fixyourrevenueengine.com/insights/founder-led-report-part-3.html
 - First published: May 20, 2025 · 10 min read
 - Canonical: https://www.mahdlo.net/blog/fractional-cro-strategic-planning
 - Summary: Why strategic planning, structure, and clear sales direction are essential. Building a vision-driven strategic plan: define vision and mission, set clear priorities, measure progress, get buy-in at every level. How Fractional CROs drive execution and accountability.
 
 ### 2025 Founder-Led Report — Part 4: Agile Growth Strategies
-- URL: https://www.fixyourrevenueengine.com/insights/founder-led-report-part-4.html
+- URL: https://fixyourrevenueengine.com/insights/founder-led-report-part-4.html
 - First published: May 22, 2025 · 10 min read
 - Canonical: https://www.mahdlo.net/blog/fractional-cro-founder-agility
 - Summary: Founder-driven decision making produces faster pivots, sharper focus, unified vision. Practical strategies: structured customer feedback loops, rapid experimentation cycles, flexible leadership. Avoiding bureaucracy and keeping innovation aligned with vision and values.
 
 ### 2025 Founder-Led Report — Part 5: Succession Planning for Founders
-- URL: https://www.fixyourrevenueengine.com/insights/founder-led-report-part-5.html
+- URL: https://fixyourrevenueengine.com/insights/founder-led-report-part-5.html
 - First published: May 27, 2025 · 10 min read
 - Canonical: https://www.mahdlo.net/blog/fractional-cro-succession-planning
 - Summary: Succession isn't a transaction — it's a revenue strategy. Why early planning matters, role of a Fractional CRO in designing leadership pipelines and facilitating
