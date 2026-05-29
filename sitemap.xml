@@ -18,4 +18,6 @@
   <url><loc>https://fixyourrevenueengine.com/insights/founder-led-report-part-5.html</loc><changefreq>yearly</changefreq><priority>0.6</priority></url>
   <url><loc>https://fixyourrevenueengine.com/insights/founder-led-report-part-6.html</loc><changefreq>yearly</changefreq><priority>0.6</priority></url>
   <url><loc>https://fixyourrevenueengine.com/insights/founder-led-report-part-7.html</loc><changefreq>yearly</changefreq><priority>0.6</priority></url>
-  <url><loc>https://fixyourrevenueengine.com/llms.txt</loc><changefreq>monthly<
+  <url><loc>https://fixyourrevenueengine.com/llms.txt</loc><changefreq>monthly</changefreq><priority>0.5</priority></url>
+  <url><loc>https://fixyourrevenueengine.com/llms-full.txt</loc><changefreq>monthly</changefreq><priority>0.5</priority></url>
+</urlset>
