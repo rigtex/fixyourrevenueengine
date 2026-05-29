@@ -272,4 +272,122 @@
           For firms whose revenue engine has outgrown the design that got them
           here. We redesign how marketing, sales, and customer success produce
           growth together — turning inconsistent performance into predictable,
-          measurable, repeatable revenue that the founder c
+          measurable, repeatable revenue that the founder c          measurable, repeatable revenue that the founder can finally step back from.
+        </p>
+      </article>
+
+      <article class="card">
+        <h3>Build</h3>
+        <p>
+          For earlier-stage firms that need structure, not experimentation
+          chaos. We install the revenue engine from zero — messaging, motion,
+          measurement — so the team has something real to execute against
+          instead of inventing it on the fly.
+        </p>
+      </article>
+    </div>
+
+    <div style="text-align:center;margin-top:42px;">
+      <a class="btn btn-primary" href="contact.html">Let's Meet</a>
+    </div>
+  </div>
+</section>
+
+<!-- ====================== PROOF ====================== -->
+<section class="alt" id="proof" aria-labelledby="proof-h">
+  <div class="container">
+    <div class="section-head">
+      <span class="eyebrow">Track record</span>
+      <h2 id="proof-h">Where the engine has been rebuilt.</h2>
+    </div>
+    <div class="grid-4">
+      <div class="stat"><span class="num">205%</span><span class="lbl">of revenue targets · FinTech SaaS</span></div>
+      <div class="stat"><span class="num">41–75%</span><span class="lbl">higher conversion · $5M–$12M B2B</span></div>
+      <div class="stat"><span class="num">33–67%</span><span class="lbl">margin growth · Founder-led + PE-influenced</span></div>
+      <div class="stat"><span class="num">44–57%</span><span class="lbl">efficiency lift · Cross-function alignment</span></div>
+    </div>
+    <blockquote class="pull-quote">
+      "Finally having a business that runs without me carrying it on my back."
+      <cite>— Founder, B2B services</cite>
+    </blockquote>
+  </div>
+</section>
+
+<!-- ====================== WHY THIS IS DIFFERENT ====================== -->
+<section id="why" aria-labelledby="why-h">
+  <div class="container">
+    <div class="section-head">
+      <span class="eyebrow">Why this is different</span>
+      <h2 id="why-h">Operator, not advisor.</h2>
+    </div>
+    <div class="grid-3">
+      <article class="card">
+        <h3>Operator, not advisor.</h3>
+        <p>Strategy that never lands inside the business is just commentary. We work inside the engine.</p>
+      </article>
+      <article class="card">
+        <h3>System, not function.</h3>
+        <p>Marketing, sales, and customer success treated as one engine — not three separate hires.</p>
+      </article>
+      <article class="card">
+        <h3>Ownership, not influence.</h3>
+        <p>Decks and dashboards don't fix revenue. We take responsibility for how growth gets produced.</p>
+      </article>
+    </div>
+  </div>
+</section>
+
+<!-- ====================== CTA ====================== -->
+<section class="cta-strip">
+  <h2>Ready to rebuild the engine?</h2>
+  <p>30-minute working call. No pitch deck, no metrics required.</p>
+  <a class="btn btn-primary" href="contact.html">Let's Meet</a>
+</section>
+
+</main>
+
+<footer class="site-footer">
+  <div class="container">
+    <div class="footer-grid">
+      <div>
+        <a href="index.html" class="nav-logo">Revved for Growth<span class="dot" style="color:var(--light-blue);">.</span></a>
+        <p>Embedded revenue engine transformation for founder-led or family-owned B2B firms going from stalled to scalable.</p>
+      </div>
+      <div>
+        <h4>Explore</h4>
+        <ul>
+          <li><a href="index.html">Home</a></li>
+          <li><a href="insights.html">Insights</a></li>
+          <li><a href="contact.html">Contact</a></li>
+          <li><a href="contact.html">Let's Meet</a></li>
+        </ul>
+      </div>
+      <div>
+        <h4>Connect</h4>
+        <ul>
+          <li><a href="https://cal.com/jrigolli/meeting" target="_blank" rel="noopener">Schedule</a></li>
+          <li><a href="https://www.linkedin.com/in/jasonrigolli/" target="_blank" rel="noopener">LinkedIn</a></li>
+        </ul>
+      </div>
+    </div>
+    <div class="footer-bottom">
+      <span>© <span id="yr">2026</span> Revved for Growth. All rights reserved.</span>
+    </div>
+  </div>
+</footer>
+
+<script>
+document.getElementById('yr').textContent = new Date().getFullYear();
+// Clickable post cards
+document.querySelectorAll('article.post').forEach(function(card){
+  var link = card.querySelector('h3 a');
+  if (!link) return;
+  card.classList.add('clickable');
+  card.addEventListener('click', function(e){
+    if (e.target.closest('a')) return;
+    window.location = link.href;
+  });
+});
+</script>
+</body>
+</html>

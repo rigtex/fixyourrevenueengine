@@ -408,20 +408,12 @@ section.alt { background: var(--off-white); }
 .linkedin-badge:hover { background: rgba(255,255,255,0.22); border-color: rgba(255,255,255,0.6); text-decoration: none; }
 .linkedin-badge svg { vertical-align: -2px; }
 
-/* Clickable post cards — kills the dead "Read →" affordance */
-.post { position: relative; }
-.post h3 a {
-  text-decoration: none; color: inherit;
-}
-.post h3 a::after {
-  content: ""; position: absolute; inset: 0; z-index: 1;
-}
-.post .post-meta, .post .post-tag, .post p { position: relative; z-index: 2; }
-.post:hover { transform: translateY(-2px); box-shadow: 0 8px 24px rgba(8,48,88,0.12); }
-.post { transition: transform 0.2s, box-shadow 0.2s; }
-.post .post-meta span:last-child {
-  color: var(--light-blue); font-weight: 600;
-}
+/* Clickable post cards — JS adds .clickable, then the whole card navigates */
+.post.clickable { cursor: pointer; transition: transform 0.2s, box-shadow 0.2s; }
+.post.clickable:hover { transform: translateY(-2px); box-shadow: 0 8px 24px rgba(8,48,88,0.12); }
+.post h3 a { text-decoration: none; color: inherit; }
+.post h3 a:hover { color: var(--light-blue); }
+.post .post-meta span:last-child { color: var(--light-blue); font-weight: 600; }
 .page-hero p { font-size: 1.15rem; color: rgba(255,255,255,0.9); max-width: 700px; margin-top: 16px; }
 
 /* ---------- Footer ---------- */

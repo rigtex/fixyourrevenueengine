@@ -308,6 +308,18 @@
     </div>
   </div>
 </footer>
-<script>document.getElementById('yr').textContent = new Date().getFullYear();</script>
+<script>
+document.getElementById('yr').textContent = new Date().getFullYear();
+// Clickable post cards
+document.querySelectorAll('article.post').forEach(function(card){
+  var link = card.querySelector('h3 a');
+  if (!link) return;
+  card.classList.add('clickable');
+  card.addEventListener('click', function(e){
+    if (e.target.closest('a')) return;
+    window.location = link.href;
+  });
+});
+</script>
 </body>
 </html>
