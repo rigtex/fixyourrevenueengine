@@ -164,6 +164,30 @@ a:hover { color: var(--mid-blue); text-decoration: underline; }
   text-align: center;
   max-width: 820px;
   margin: 0 auto;
+  z-index: 2;
+}
+
+/* Decorative side accents — vertical line + dot patterns flanking the centered hero copy on wide monitors. Hidden below 1100px so the text never feels crowded. */
+.hero-accent {
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  width: 80px;
+  height: 320px;
+  opacity: 0;
+  pointer-events: none;
+  z-index: 1;
+  transition: opacity 0.3s ease;
+}
+.hero-accent-left { left: 4vw; }
+.hero-accent-right { right: 4vw; }
+@media (min-width: 1100px) {
+  .hero-accent { opacity: 0.4; }
+}
+@media (min-width: 1400px) {
+  .hero-accent { opacity: 0.55; width: 100px; height: 380px; }
+  .hero-accent-left { left: 6vw; }
+  .hero-accent-right { right: 6vw; }
 }
 .hero h1 { color: var(--white); margin-bottom: 24px; }
 .hero h1 em {
