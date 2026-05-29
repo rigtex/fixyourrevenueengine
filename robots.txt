@@ -1,2 +1,70 @@
 # Revved for Growth — robots.txt
-# From Stalled to Scalable Revenu
+# From Stalled to Scalable Revenue.
+# Welcomes traditional search engines and AI/LLM crawlers.
+
+User-agent: *
+Allow: /
+
+# Major AI / LLM crawlers (explicitly allowed)
+User-agent: GPTBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: OAI-SearchBot
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: Claude-Web
+Allow: /
+
+User-agent: anthropic-ai
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: Perplexity-User
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+User-agent: GoogleOther
+Allow: /
+
+User-agent: Applebot-Extended
+Allow: /
+
+User-agent: Bytespider
+Allow: /
+
+User-agent: CCBot
+Allow: /
+
+User-agent: cohere-ai
+Allow: /
+
+User-agent: Meta-ExternalAgent
+Allow: /
+
+User-agent: Amazonbot
+Allow: /
+
+User-agent: DuckAssistBot
+Allow: /
+
+User-agent: YouBot
+Allow: /
+
+User-agent: MistralAI-User
+Allow: /
+
+Sitemap: https://fixyourrevenueengine.com/sitemap.xml
+
+# LLM discovery (https://llmstxt.org)
+# llms.txt:      https://fixyourrevenueengine.com/llms.txt
+# llms-full.txt: https://fixyourrevenueengine.com/llms-full.txt

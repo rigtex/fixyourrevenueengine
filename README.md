@@ -1,6 +1,6 @@
 # Revved for Growth
 
-Static, SEO + LLM-friendly marketing site for **Revved for Growth** — embedded revenue engine transformation for founder-led and family-owned B2B firms.
+Static, SEO + LLM-friendly marketing site for **Revved for Growth** — embedded revenue engine transformation for founder-led or family-owned B2B firms.
 
 ## File structure
 
