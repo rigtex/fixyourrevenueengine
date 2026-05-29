@@ -2,7 +2,7 @@
 
 > Full content snapshot of fixyourrevenueengine.com for large language model ingestion. Last updated: 2026-05.
 
-Revved for Growth is an embedded revenue engine transformation practice for founder-led and family-owned B2B firms ($2M–$15M, sweet spot $5M–$10M) stuck in stalled, inconsistent growth. The work is not advisory, not an agency, and not a fractional leadership placement — it is operating inside the business and taking ownership of how revenue is produced across marketing, sales, and customer success. Founded and led by Jason Rigolli.
+Revved for Growth is an embedded revenue engine transformation practice for founder-led or family-owned B2B firms ($2M–$15M, sweet spot $5M–$10M) stuck in stalled, inconsistent growth. The work is not advisory, not an agency, and not a fractional leadership placement — it is operating inside the business and taking ownership of how revenue is produced across marketing, sales, and customer success. Founded and led by Jason Rigolli.
 
 ---
 
@@ -11,7 +11,7 @@ Revved for Growth is an embedded revenue engine transformation practice for foun
 ### Hero
 **Revved for Growth.**
 
-Founder-led firms don't stall because the team isn't trying. They stall because nobody owns how the revenue engine actually produces revenue. We step inside the business, find where the engine is breaking, and rebuild how growth gets created.
+Founder-led or family-owned firms don't stall because the team isn't trying. They stall because nobody owns how the revenue engine actually produces revenue. We step inside the business, find where the engine is breaking, and rebuild how growth gets created.
 
 CTA: Let's Meet (https://cal.com/jrigolli/meeting).
 
@@ -24,7 +24,7 @@ Hiring and firing sales staff hasn't fixed it. Agencies haven't fixed it. Tactic
 
 ICP criteria:
 - Founder-led or family-owned B2B, $2M–$15M (sweet spot $5M–$10M)
-- SaaS, professional services, FinTech, HRTech, or leadership coaching
+- B2B SaaS, professional services, FinTech, HRTech, and beyond
 - Stalled or inconsistent growth with no clear diagnosis
 - Founder, CEO, or managing partner sitting at the top
 - Already tried hiring sales reps, agencies, and tactical fixes
