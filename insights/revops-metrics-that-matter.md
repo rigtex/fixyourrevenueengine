@@ -7,6 +7,10 @@ source: https://fixyourrevenueengine.com/insights/revops-metrics-that-matter.htm
 
 # RevOps Metrics That Matter: Navigating the Data Deluge
 
+**By Jason Rigolli**, Founder of Revved for Growth
+
+24+ years rebuilding revenue engines for founder-led or family-owned B2B firms. Two-time co-founder. Two-time CRO.
+
 > **TL;DR.** Most revenue dashboards measure activity, not health. The metrics that actually predict whether the engine is working are pipeline coverage, stage conversion rates, sales cycle length, CAC payback, net revenue retention, and forecast accuracy. Everything else is noise.
 
 In the fast-paced world of sales and revenue operations, focusing on the right metrics can make or break your success. As a Chief Revenue Officer (CRO) or sales leader, you're likely bombarded with an overwhelming amount of data. But which RevOps metrics truly matter?

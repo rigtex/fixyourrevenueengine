@@ -7,6 +7,10 @@ source: https://fixyourrevenueengine.com/insights/founder-led-exit-success.html
 
 # Insights for Founder-Led Businesses on the Road to Exit Success
 
+**By Jason Rigolli**, Founder of Revved for Growth
+
+24+ years rebuilding revenue engines for founder-led or family-owned B2B firms. Two-time co-founder. Two-time CRO.
+
 > **TL;DR.** An exit isn't an event you plan a year out, it's a system you build for years before. Founders who exit well treat the business as transferable from day one: documented processes, repeatable revenue, a leadership team that runs without them, and clean financials.
 
 Stepping into the realm of entrepreneurship is akin to embarking on a grand adventure. With passion as our compass and ambition as our fuel. We navigate uncharted waters, building our vision into reality one step at a time. Yet, as the journey unfolds, there comes a point when we must contemplate the next chapter: the exit.

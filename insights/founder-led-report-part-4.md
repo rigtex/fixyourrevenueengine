@@ -7,6 +7,10 @@ source: https://fixyourrevenueengine.com/insights/founder-led-report-part-4.html
 
 # 2025 Founder-Led Report Part 4: Agile Growth Strategies
 
+**By Jason Rigolli**, Founder of Revved for Growth
+
+24+ years rebuilding revenue engines for founder-led or family-owned B2B firms. Two-time co-founder. Two-time CRO.
+
 > **TL;DR.** Agile growth in a founder-led or family-owned business means short feedback loops, willingness to kill what isn't working, and a small set of bets you can actually run. The trap is mistaking activity for agility. Real agility is structural: how fast you can decide, deploy, and learn.
 
 Staying nimble is the lifeblood of every founder-led company. When markets shift overnight and opportunities vanish just as quickly, being able to pivot, without hesitation, sets true leaders apart. Innovation happens when you combine sharp vision, decisive action, and the willingness to test bold ideas.

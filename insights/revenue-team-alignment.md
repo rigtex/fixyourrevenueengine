@@ -7,6 +7,10 @@ source: https://fixyourrevenueengine.com/insights/revenue-team-alignment.html
 
 # From Conflict to Collaboration: Aligning Revenue Teams
 
+**By Jason Rigolli**, Founder of Revved for Growth
+
+24+ years rebuilding revenue engines for founder-led or family-owned B2B firms. Two-time co-founder. Two-time CRO.
+
 > **TL;DR.** Sales, marketing, and customer success fight when their incentives, definitions, and hand-offs are unaligned. Real alignment is structural, not cultural. Shared revenue targets, one definition of a qualified lead, documented hand-off SLAs, and a single source of truth in the CRM.
 
 In today's business world, there is a noticeable trend of increasing tension and finger-pointing between Sales, Marketing, and Customer Success teams. This friction is not only counterproductive but also detrimental to a company's growth and customer satisfaction. Let's delve into the existence of this trend, its causes, and potential solutions.

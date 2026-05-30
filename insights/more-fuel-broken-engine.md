@@ -7,6 +7,10 @@ source: https://fixyourrevenueengine.com/insights/more-fuel-broken-engine.html
 
 # More fuel in a broken engine
 
+**By Jason Rigolli**, Founder of Revved for Growth
+
+24+ years rebuilding revenue engines for founder-led or family-owned B2B firms. Two-time co-founder. Two-time CRO.
+
 > **TL;DR.** When pipeline stalls, most founders default to more spend or more headcount. Both make the problem worse if the engine itself is broken. The real fix is diagnostic before additive: figure out which stage of the revenue system is leaking, then redesign it. Adding fuel to a broken engine just buys more expensive stagnation.
 
 Maya cut her marketing director six months ago. Pipeline didn't recover.

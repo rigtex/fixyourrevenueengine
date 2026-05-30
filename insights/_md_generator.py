@@ -48,6 +48,10 @@ def node_to_md(node, depth=0):
         return ''
     if 'related-posts' in (node.get('class') or []):
         return ''
+    if 'post-byline' in (node.get('class') or []):
+        return ''
+    if 'related-compare' in (node.get('class') or []):
+        return ''
 
     # TL;DR block
     if 'tldr' in (node.get('class') or []):

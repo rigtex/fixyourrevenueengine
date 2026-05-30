@@ -7,6 +7,10 @@ source: https://fixyourrevenueengine.com/insights/founder-led-report-part-1.html
 
 # 2025 Founder-Led Report Part 1: Why 2025 Demands a New Chapter
 
+**By Jason Rigolli**, Founder of Revved for Growth
+
+24+ years rebuilding revenue engines for founder-led or family-owned B2B firms. Two-time co-founder. Two-time CRO.
+
 > **TL;DR.** The market founder-led businesses were built for has changed. Capital is more expensive, buyers are more skeptical, and the playbook that produced the first $5M to $15M no longer scales. 2025 demands a new chapter built on systems, not heroics.
 
 Founder-led businesses are the heartbeat of innovation and resilience. Built on passion, vision, and sheer determination. These businesses are responsible for some of the most remarkable success stories in modern industry. Yet, as we reach the mid-point of 2025, the world founders once mastered is shifting. This seven-part series, the 2025 Founder-Led Report, will dive into the world of founders and share what they can do to navigate these shifts.

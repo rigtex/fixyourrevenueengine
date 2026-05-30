@@ -7,6 +7,10 @@ source: https://fixyourrevenueengine.com/insights/founder-led-report-part-2.html
 
 # 2025 Founder-Led Report Part 2: The Founder's Dilemma
 
+**By Jason Rigolli**, Founder of Revved for Growth
+
+24+ years rebuilding revenue engines for founder-led or family-owned B2B firms. Two-time co-founder. Two-time CRO.
+
 > **TL;DR.** Founder's Syndrome is the moment when the same traits that built the business start to throttle it. Tight control, instinct over process, and resistance to outside expertise are assets at $2M and liabilities at $10M. Recognizing the transition is the first step.
 
 Many founder-led companies hit a wall when rapid growth exposes cracks in their decision-making and leadership approach. Founder's Syndrome: where leaders hold tight to every detail, resist change, or struggle to let go, can quietly stall progress and hurt team morale. Recognizing these signs early is the first step toward building a business that grows beyond one person's hands.

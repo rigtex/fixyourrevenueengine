@@ -7,6 +7,10 @@ source: https://fixyourrevenueengine.com/insights/founder-led-report-part-7.html
 
 # 2025 Founder-Led Report Part 7: Future-Proof and Build Enduring Success
 
+**By Jason Rigolli**, Founder of Revved for Growth
+
+24+ years rebuilding revenue engines for founder-led or family-owned B2B firms. Two-time co-founder. Two-time CRO.
+
 > **TL;DR.** Future-proofing a founder-led or family-owned business isn't about predicting the market. It's about building systems that absorb shocks: documented operations, a leadership bench that can decide without the founder, diversified revenue, and a culture that adapts faster than the next disruption.
 
 The journey of a founder-led business is extraordinary, marked by grit, innovation, and an unrelenting belief in a better future. But the next chapter requires a new kind of leadership.
