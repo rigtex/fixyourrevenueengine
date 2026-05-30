@@ -4,6 +4,8 @@ Single source of truth for what gets mirrored to Medium and Substack on which da
 
 **Cadence rule.** Medium publishes Saturdays. Substack the day after (Sunday). One piece per weekend. The week between pieces is for monitoring traction.
 
+**Lead time.** The daily digest reminds 3 days before the `due` date, not on the day. This gives Jason time to draft, paste, and either publish-immediately on Saturday or use the platform's scheduled-publish feature (Substack supports it free; Medium only on paid Membership). Reminder repeats every morning until status flips to `published`.
+
 **Status values:** `pending` (waiting to publish), `published` (live, includes public_url), `skipped` (decided not to mirror).
 
 **To mark something done after publishing:** edit the line, change `status: pending` to `status: published`, paste the public URL on the `public_url:` field. The next morning's digest will skip it.
@@ -71,10 +73,18 @@ To queue any of these: copy a block from the active queue above, swap the canoni
 
 ## Reminder format the digest uses
 
-Every morning the digest checks for entries where status=pending and due<=today. Each match becomes one line in the email like:
+Every morning the digest checks for entries where status=pending and `due <= today + 3 days`. Each match becomes one line in the email. Examples:
 
-> **Substack mirror due today:** The 2026 Founder-Led Report  
-> File: multi-surface-publishing/2-founder-led-report-2026-SUBSTACK.docx  
-> Canonical: https://fixyourrevenueengine.com/insights/founder-led-report-2026.html
+> **Substack mirror due in 3 days (Sun Jun 7):** More Fuel in a Broken Engine  
+> File: multi-surface-publishing/1-more-fuel-broken-engine-SUBSTACK.docx  
+> Canonical: https://fixyourrevenueengine.com/insights/more-fuel-broken-engine.html
 
-Overdue items (due date in the past, still pending) show up with an OVERDUE prefix until they're marked published or rescheduled.
+> **Medium mirror due TODAY:** Fractional CRO vs Marketing Agency  
+> File: multi-surface-publishing/3-fractional-cro-vs-marketing-agency-MEDIUM.docx  
+> Canonical: https://fixyourrevenueengine.com/revenue-engine-rebuild-vs-marketing-agency.html
+
+> **OVERDUE since Sat Jun 6:** Medium mirror — More Fuel in a Broken Engine  
+> File: multi-surface-publishing/1-more-fuel-broken-engine-MEDIUM.docx  
+> Canonical: https://fixyourrevenueengine.com/insights/more-fuel-broken-engine.html
+
+Reminder repeats every morning across the 3-day window AND every day after the due date until status flips to `published`.
