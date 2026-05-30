@@ -13,7 +13,7 @@ source: https://fixyourrevenueengine.com/insights/founder-led-report-2026.html
 
 A year ago I wrote a seven-part series called the 2025 Founder-Led Report. The argument was that founder-led businesses scale on heroics and stall on systems, and that 2025 was the year that pattern stopped being a generic operator observation and became a survival question for firms in the $5M to $15M range.
 
-It is now May 2026. The thesis held. The thing that changed is the runway. What used to take 24 months to expose now takes 12, because tighter capital and AI-leveraged competitors compress the time founders have to rebuild before the market or the cap table forces a decision.
+It is now June 2026. The thesis held. The thing that changed is the runway. What used to take 24 months to expose now takes 12, because tighter capital and AI-leveraged competitors compress the time founders have to rebuild before the market or the cap table forces a decision.
 
 This is the field report on what changed, what the data actually says, and what founder-led or family-owned B2B firms need to do in the back half of 2026.
 
