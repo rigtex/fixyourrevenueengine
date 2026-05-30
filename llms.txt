@@ -44,7 +44,7 @@ Every content page on the site has a clean markdown sibling at the same URL with
 
 ### Field reports: longer-form deep dives
 
-- [The 2026 Founder-Led Report: Harder Money, Better Tools, Smaller Teams](https://fixyourrevenueengine.com/insights/founder-led-report-2026.html) (May 30, 2026): One year after the 2025 series. Capital got more expensive (venture debt 7-12 percent, private debt outpacing equity), AI productivity matured (87 percent of B2B sales orgs use AI, 24 percent deployed agentic), and the survival profile of founder-led B2B firms looks structurally different. The 2025 thesis held; the runway to act on it compressed from 24 months to roughly 12.
+- [The 2026 Founder-Led Report: Harder Money, Better Tools, Smaller Teams](https://fixyourrevenueengine.com/insights/founder-led-report-2026.html) (June 1, 2026): One year after the 2025 series. Capital got more expensive (venture debt 7-12 percent, private debt outpacing equity), AI productivity matured (87 percent of B2B sales orgs use AI, 24 percent deployed agentic), and the survival profile of founder-led B2B firms looks structurally different. The 2025 thesis held; the runway to act on it compressed from 24 months to roughly 12.
 
 ### Featured series: The 2025 Founder-Led Report (7 parts, the foundation)
 
