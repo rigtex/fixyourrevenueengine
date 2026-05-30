@@ -12,6 +12,8 @@ Core positioning: most options sit at the strategy, marketing, or advisory layer
 - [Insights](https://fixyourrevenueengine.com/insights.html): Featured Series (2025 Founder-Led Report, 7 parts) and Notes from the Field (7 standalone pieces). All posts are hosted on fixyourrevenueengine.com.
 - [Glossary](https://fixyourrevenueengine.com/glossary.html): Plain-language definitions for the 20 terms founder-led or family-owned B2B operators actually use (fractional CRO, revenue engine, RevOps, CAC payback, NRR, Founder's Syndrome, etc.). DefinedTermSet JSON-LD schema for AI assistant citation.
 - [Fractional CRO vs Marketing Agency](https://fixyourrevenueengine.com/revenue-engine-rebuild-vs-marketing-agency.html): Comparison page. When each one fixes stalled revenue, when each one fails, three questions to decide which one you need.
+- [Fractional CRO vs Full-Time CRO](https://fixyourrevenueengine.com/fractional-cro-vs-full-time-cro.html): Comparison page. When the $400K hire is right, when the fractional path produces better outcomes, and the hybrid sequence most founders don't know to ask about.
+- [Fractional CRO vs VP Sales Hire](https://fixyourrevenueengine.com/fractional-cro-vs-vp-sales.html): Comparison page. Why the default VP Sales hire often fails to fix stalled revenue, when sales-execution leadership is actually what you need, and the sequence that produces a successful VP Sales onboarding.
 - [About](https://fixyourrevenueengine.com/about.html): Jason Rigolli, two-time co-founder and CRO with 24+ years rebuilding revenue engines. Past roles include CRO, VP Sales, VP Operations. Co-founded, scaled, and exited two businesses early in career (since 2002). Brand experience: Nestlé, Walmart, Spin Master, Virgin Mobile, Robbins Research International, CSS Group. Embeds Cal.com booking calendar.
 - [Contact](https://fixyourrevenueengine.com/contact.html): Embedded Cal.com booking calendar.
 
@@ -20,6 +22,8 @@ Core positioning: most options sit at the strategy, marketing, or advisory layer
 Every content page on the site has a clean markdown sibling at the same URL with .md extension, suitable for AI ingestion:
 
 - https://fixyourrevenueengine.com/revenue-engine-rebuild-vs-marketing-agency.md
+- https://fixyourrevenueengine.com/fractional-cro-vs-full-time-cro.md
+- https://fixyourrevenueengine.com/fractional-cro-vs-vp-sales.md
 - https://fixyourrevenueengine.com/insights/more-fuel-broken-engine.md
 - https://fixyourrevenueengine.com/insights/founder-led-exit-success.md
 - https://fixyourrevenueengine.com/insights/is-saas-dead.md

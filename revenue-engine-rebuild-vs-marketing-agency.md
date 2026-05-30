@@ -82,6 +82,11 @@ For founder-led or family-owned B2B firms in the $2M to $15M range, the pattern 
 
 That sequence avoids the two most expensive failures: spending a year on agency fees that produce a bigger broken funnel, or hiring a full-time CRO at $400K+ for a problem that needs eighteen months of intensive rebuild and then steady-state operations someone less senior can run.
 
+### Related comparisons
+
+- Fractional CRO vs full-time CRO
+- Fractional CRO vs VP Sales hire
+
 ## Frequently asked
 
 **Do I need a fractional CRO or a marketing agency?**
