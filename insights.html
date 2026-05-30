@@ -308,4 +308,39 @@
       <div>
         <h4>Explore</h4>
         <ul>
-          <li><a href="index.
+          <li><a href="index.html">Home</a></li>
+          <li><a href="insights.html">Insights</a></li>
+          <li><a href="index.html#proof">Work</a></li>
+          <li><a href="about.html">About</a></li>
+          <li><a href="contact.html">Let's Meet</a></li>
+        </ul>
+      </div>
+      <div>
+        <h4>Connect</h4>
+        <ul>
+          <li><a href="https://cal.com/jrigolli/meeting" target="_blank" rel="noopener">Schedule</a></li>
+          <li><a href="https://www.linkedin.com/in/jasonrigolli/" target="_blank" rel="noopener">LinkedIn</a></li>
+        </ul>
+      </div>
+    </div>
+    <div class="footer-bottom">
+      <span>© <span id="yr">2026</span> Revved for Growth. All rights reserved.</span>
+    </div>
+  </div>
+</footer>
+
+<script>
+document.getElementById('yr').textContent = new Date().getFullYear();
+// Clickable post cards — whole card navigates to the H3 link's href
+document.querySelectorAll('article.post').forEach(function(card){
+  var link = card.querySelector('h3 a');
+  if (!link) return;
+  card.classList.add('clickable');
+  card.addEventListener('click', function(e){
+    if (e.target.closest('a')) return;
+    window.location = link.href;
+  });
+});
+</script>
+</body>
+</html>
