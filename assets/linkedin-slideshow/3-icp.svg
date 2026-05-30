@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1584 396" width="1584" height="396">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#083058"/>
+      <stop offset="50%" stop-color="#185892"/>
+      <stop offset="100%" stop-color="#0D86E2"/>
+    </linearGradient>
+    <pattern id="stripes" patternUnits="userSpaceOnUse" width="80" height="80" patternTransform="rotate(115)">
+      <line x1="0" y1="0" x2="0" y2="80" stroke="#fff" stroke-width="1" stroke-opacity="0.04"/>
+    </pattern>
+  </defs>
+  <rect width="1584" height="396" fill="url(#bg)"/>
+  <rect width="1584" height="396" fill="url(#stripes)"/>
+  <ellipse cx="1380" cy="100" rx="450" ry="220" fill="#0D86E2" fill-opacity="0.18"/>
+  <text x="440" y="120" font-family="Helvetica, Arial, sans-serif" font-size="24" letter-spacing="5" fill="#cfe9ff" font-weight="500">BUILT FOR</text>
+  <text x="440" y="215" font-family="Playfair Display, Georgia, serif" font-weight="700" font-size="68" fill="#ffffff" letter-spacing="0.5">Founder-led or family-owned</text>
+  <text x="440" y="285" font-family="Playfair Display, Georgia, serif" font-weight="700" font-size="52" fill="#cfe9ff" letter-spacing="0.5">B2B firms, $2M to $15M.</text>
+  <rect x="0" y="392" width="1584" height="4" fill="#0D86E2"/>
+</svg>
