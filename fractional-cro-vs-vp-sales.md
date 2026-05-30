@@ -7,10 +7,6 @@ source: https://fixyourrevenueengine.com/fractional-cro-vs-vp-sales.html
 
 # Fractional CRO vs VP Sales Hire: Which One Fixes Stalled Revenue?
 
-**By Jason Rigolli**, Founder of Revved for Growth
-
-24+ years rebuilding revenue engines for founder-led or family-owned B2B firms. Two-time co-founder. Two-time CRO.
-
 > **TL;DR.** A VP Sales owns the sales function. A fractional CRO owns the full revenue engine: marketing, sales, customer success, and the hand-offs between them. If the engine works and you need someone to scale sales execution, hire a VP Sales. If marketing doesn't feed sales properly, deals stall mid-cycle, or customer success can't expand what sales closes, a new VP Sales inherits the same broken system and usually misses their first two quarters before leaving or being replaced.
 
 > *A new VP Sales walking into a broken engine doesn't fix the engine. They inherit it.*
@@ -75,11 +71,6 @@ If yes, sales is the bottleneck and you need execution leadership. If no (becaus
 For founder-led or family-owned B2B firms in the $5M to $15M range with stalled revenue, the highest-success-rate sequence looks like this. A fractional CRO engagement of six to nine months to diagnose, rebuild, and prove the revenue system. In the back half of that engagement, the CRO writes the VP Sales role spec from the actual work, runs the search, and onboards the hire. The new VP Sales walks into a working system with documented operating tempo, defined hand-offs, and a comp plan that rewards the right behavior.
 
 The economics work out. A six to nine month fractional engagement runs $90K to $270K. A failed VP Sales hire costs 12 months of base, severance, recruiting fees twice, and the opportunity cost of a missed year. The math is usually obvious after the second one.
-
-### Related comparisons
-
-- Fractional CRO vs marketing agency
-- Fractional CRO vs full-time CRO
 
 ## Frequently asked
 

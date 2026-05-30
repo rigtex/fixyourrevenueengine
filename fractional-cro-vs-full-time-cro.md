@@ -7,10 +7,6 @@ source: https://fixyourrevenueengine.com/fractional-cro-vs-full-time-cro.html
 
 # Fractional CRO vs Full-Time CRO: Which One Does Your Business Actually Need?
 
-**By Jason Rigolli**, Founder of Revved for Growth
-
-24+ years rebuilding revenue engines for founder-led or family-owned B2B firms. Two-time co-founder. Two-time CRO.
-
 > **TL;DR.** A full-time CRO is a scale operator: right when the revenue engine is working and needs senior leadership to run it at the next level. A fractional CRO is a system builder: right when the engine itself needs rebuilding, when the business isn't yet at the size that justifies a $400K+ comp load, or when you need senior capability for a defined chapter. The trap is hiring a full-time CRO into a system that hasn't been diagnosed yet.
 
 > *Hiring a full-time CRO into an undiagnosed engine is the most expensive way to find out what was actually broken.*
@@ -77,11 +73,6 @@ The most expensive CRO mis-hires happen when the role spec was written by people
 The best engagements for $5M to $15M founder-led businesses often look like this. Six to nine months of fractional CRO work to diagnose, rebuild, and prove the system. In the back half of that engagement, the fractional CRO writes the role spec for the eventual full-time hire, runs the search, and onboards the successor. The fractional then steps down or transitions to advisory cadence.
 
 That sequence avoids the two most expensive failures: paying $400K+ for a CRO who spends a year trying to figure out what's broken, or building a working engine and then losing it when the business outgrows the fractional model without a clean hand-off.
-
-### Related comparisons
-
-- Fractional CRO vs marketing agency
-- Fractional CRO vs VP Sales hire
 
 ## Frequently asked
 

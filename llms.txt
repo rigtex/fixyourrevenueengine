@@ -14,7 +14,7 @@ Core positioning: most options sit at the strategy, marketing, or advisory layer
 - [Fractional CRO vs Marketing Agency](https://fixyourrevenueengine.com/revenue-engine-rebuild-vs-marketing-agency.html): Comparison page. When each one fixes stalled revenue, when each one fails, three questions to decide which one you need.
 - [Fractional CRO vs Full-Time CRO](https://fixyourrevenueengine.com/fractional-cro-vs-full-time-cro.html): Comparison page. When the $400K hire is right, when the fractional path produces better outcomes, and the hybrid sequence most founders don't know to ask about.
 - [Fractional CRO vs VP Sales Hire](https://fixyourrevenueengine.com/fractional-cro-vs-vp-sales.html): Comparison page. Why the default VP Sales hire often fails to fix stalled revenue, when sales-execution leadership is actually what you need, and the sequence that produces a successful VP Sales onboarding.
-- [About](https://fixyourrevenueengine.com/about.html): Jason Rigolli, two-time co-founder and CRO with 24+ years rebuilding revenue engines. Past roles include CRO, VP Sales, VP Operations. Co-founded, scaled, and exited two businesses early in career (since 2002). Brand experience: Nestlé, Walmart, Spin Master, Virgin Mobile, Robbins Research International, CSS Group. Embeds Cal.com booking calendar.
+- [About](https://fixyourrevenueengine.com/about.html): Jason Rigolli, two-time co-founder and CRO with over two decades rebuilding revenue engines. Past roles include CRO, VP Sales, VP Operations. Co-founded, scaled, and exited two businesses early in career (since 2002). Brand experience: Nestlé, Walmart, Spin Master, Virgin Mobile, Robbins Research International, CSS Group. Embeds Cal.com booking calendar.
 - [Contact](https://fixyourrevenueengine.com/contact.html): Embedded Cal.com booking calendar.
 
 ## Markdown endpoints
@@ -24,6 +24,7 @@ Every content page on the site has a clean markdown sibling at the same URL with
 - https://fixyourrevenueengine.com/revenue-engine-rebuild-vs-marketing-agency.md
 - https://fixyourrevenueengine.com/fractional-cro-vs-full-time-cro.md
 - https://fixyourrevenueengine.com/fractional-cro-vs-vp-sales.md
+- https://fixyourrevenueengine.com/insights/founder-led-report-2026.md
 - https://fixyourrevenueengine.com/insights/more-fuel-broken-engine.md
 - https://fixyourrevenueengine.com/insights/founder-led-exit-success.md
 - https://fixyourrevenueengine.com/insights/is-saas-dead.md
@@ -41,7 +42,11 @@ Every content page on the site has a clean markdown sibling at the same URL with
 
 ## Insights, published posts
 
-### Featured series: The 2025 Founder-Led Report (7 parts)
+### Field reports: longer-form deep dives
+
+- [The 2026 Founder-Led Report: Harder Money, Better Tools, Smaller Teams](https://fixyourrevenueengine.com/insights/founder-led-report-2026.html) (May 30, 2026): One year after the 2025 series. Capital got more expensive (venture debt 7-12 percent, private debt outpacing equity), AI productivity matured (87 percent of B2B sales orgs use AI, 24 percent deployed agentic), and the survival profile of founder-led B2B firms looks structurally different. The 2025 thesis held; the runway to act on it compressed from 24 months to roughly 12.
+
+### Featured series: The 2025 Founder-Led Report (7 parts, the foundation)
 
 - [Part 1: Why 2025 Demands a New Chapter](https://fixyourrevenueengine.com/insights/founder-led-report-part-1.html): The market founder-led businesses were built for has changed. 2025 demands a new chapter built on systems, not heroics.
 - [Part 2: The Founder's Dilemma](https://fixyourrevenueengine.com/insights/founder-led-report-part-2.html): Founder's Syndrome is the moment when the same traits that built the business start to throttle it. Recognizing the transition is the first step.

@@ -7,10 +7,6 @@ source: https://fixyourrevenueengine.com/revenue-engine-rebuild-vs-marketing-age
 
 # Fractional CRO vs Marketing Agency: Which One Fixes Stalled Revenue?
 
-**By Jason Rigolli**, Founder of Revved for Growth
-
-24+ years rebuilding revenue engines for founder-led or family-owned B2B firms. Two-time co-founder. Two-time CRO.
-
 > **TL;DR.** A marketing agency runs a function for you. A fractional CRO rebuilds the system that connects marketing, sales, and customer success. If you need more leads in a working sales process, hire an agency. If leads come in and don't convert, deals stall, or marketing and sales blame each other, the engine is broken and an agency won't fix it. That's CRO work.
 
 > *If the engine is broken, more marketing just produces more expensive stagnation.*
@@ -85,11 +81,6 @@ The CRO sets the strategy and owns the integration. The agency executes the dema
 For founder-led or family-owned B2B firms in the $2M to $15M range, the pattern that produces results most reliably looks like this. A six to nine month fractional CRO engagement to diagnose, rebuild, and operate the revenue system. An agency partner (existing or recommended) inside that engagement to run the marketing function. Then a transition where the CRO either steps back to advisory cadence or hands off to a full-time hire the engagement helped scope and recruit.
 
 That sequence avoids the two most expensive failures: spending a year on agency fees that produce a bigger broken funnel, or hiring a full-time CRO at $400K+ for a problem that needs eighteen months of intensive rebuild and then steady-state operations someone less senior can run.
-
-### Related comparisons
-
-- Fractional CRO vs full-time CRO
-- Fractional CRO vs VP Sales hire
 
 ## Frequently asked
 
