@@ -7,6 +7,10 @@ source: https://fixyourrevenueengine.com/fractional-cro-vs-vp-sales.html
 
 # Fractional CRO vs VP Sales Hire: Which One Fixes Stalled Revenue?
 
+**By Jason Rigolli**, Founder of Revved for Growth
+
+24+ years rebuilding revenue engines for founder-led or family-owned B2B firms. Two-time co-founder. Two-time CRO.
+
 > **TL;DR.** A VP Sales owns the sales function. A fractional CRO owns the full revenue engine: marketing, sales, customer success, and the hand-offs between them. If the engine works and you need someone to scale sales execution, hire a VP Sales. If marketing doesn't feed sales properly, deals stall mid-cycle, or customer success can't expand what sales closes, a new VP Sales inherits the same broken system and usually misses their first two quarters before leaving or being replaced.
 
 > *A new VP Sales walking into a broken engine doesn't fix the engine. They inherit it.*

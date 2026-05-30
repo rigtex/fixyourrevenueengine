@@ -7,6 +7,10 @@ source: https://fixyourrevenueengine.com/revenue-engine-rebuild-vs-marketing-age
 
 # Fractional CRO vs Marketing Agency: Which One Fixes Stalled Revenue?
 
+**By Jason Rigolli**, Founder of Revved for Growth
+
+24+ years rebuilding revenue engines for founder-led or family-owned B2B firms. Two-time co-founder. Two-time CRO.
+
 > **TL;DR.** A marketing agency runs a function for you. A fractional CRO rebuilds the system that connects marketing, sales, and customer success. If you need more leads in a working sales process, hire an agency. If leads come in and don't convert, deals stall, or marketing and sales blame each other, the engine is broken and an agency won't fix it. That's CRO work.
 
 > *If the engine is broken, more marketing just produces more expensive stagnation.*

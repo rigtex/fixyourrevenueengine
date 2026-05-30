@@ -611,6 +611,34 @@ section.alt { background: var(--off-white); }
 }
 
 
+/* ---------- Author byline (E-E-A-T signal at top of posts) ---------- */
+.post-byline {
+  display: flex;
+  align-items: center;
+  gap: 14px;
+  margin: 0 auto 24px;
+  padding: 14px 0;
+  max-width: 760px;
+  border-bottom: 1px solid var(--border);
+}
+.post-byline img {
+  width: 52px;
+  height: 52px;
+  border-radius: 50%;
+  object-fit: cover;
+  flex-shrink: 0;
+  border: 1px solid var(--border);
+}
+.post-byline-meta {
+  font-size: 0.93rem;
+  line-height: 1.55;
+  color: #444;
+}
+.post-byline-meta strong { color: var(--dark-blue); font-weight: 700; }
+.post-byline-meta a { color: var(--mid-blue); text-decoration: none; }
+.post-byline-meta a:hover { color: var(--light-blue); }
+.post-byline-credentials { color: #555; font-size: 0.88rem; }
+
 /* ---------- TL;DR block (GEO/LLMO citation magnet) ---------- */
 .tldr {
   background: linear-gradient(135deg, #f5f8fb 0%, #ffffff 100%);
