@@ -66,5 +66,5 @@ Allow: /
 Sitemap: https://fixyourrevenueengine.com/sitemap.xml
 
 # LLM discovery (https://llmstxt.org)
-# llms.txt:      https://fixyourrevenueengine.com/llms.txt
+# llms.txt: https://fixyourrevenueengine.com/llms.txt
 # llms-full.txt: https://fixyourrevenueengine.com/llms-full.txt
