@@ -1,0 +1,80 @@
+# Multi-Surface Publishing Schedule
+
+Single source of truth for what gets mirrored to Medium and Substack on which dates. The daily approvals-digest reads this file every morning and emails the next due item.
+
+**Cadence rule.** Medium publishes Saturdays. Substack the day after (Sunday). One piece per weekend. The week between pieces is for monitoring traction.
+
+**Status values:** `pending` (waiting to publish), `published` (live, includes public_url), `skipped` (decided not to mirror).
+
+**To mark something done after publishing:** edit the line, change `status: pending` to `status: published`, paste the public URL on the `public_url:` field. The next morning's digest will skip it.
+
+---
+
+## Active queue
+
+### 1. The 2026 Founder-Led Report
+- canonical: https://fixyourrevenueengine.com/insights/founder-led-report-2026.html
+- medium:
+  - due: 2026-05-30
+  - status: published
+  - public_url: https://medium.com/@rigtex.inc/the-2026-founder-led-report-harder-money-better-tools-smaller-teams-bb48039113bf
+  - docx: multi-surface-publishing/2-founder-led-report-2026-MEDIUM.docx
+- substack:
+  - due: 2026-05-31
+  - status: pending
+  - public_url:
+  - docx: multi-surface-publishing/2-founder-led-report-2026-SUBSTACK.docx
+
+### 2. More Fuel in a Broken Engine
+- canonical: https://fixyourrevenueengine.com/insights/more-fuel-broken-engine.html
+- medium:
+  - due: 2026-06-06
+  - status: pending
+  - public_url:
+  - docx: multi-surface-publishing/1-more-fuel-broken-engine-MEDIUM.docx
+- substack:
+  - due: 2026-06-07
+  - status: pending
+  - public_url:
+  - docx: multi-surface-publishing/1-more-fuel-broken-engine-SUBSTACK.docx
+
+### 3. Fractional CRO vs Marketing Agency
+- canonical: https://fixyourrevenueengine.com/revenue-engine-rebuild-vs-marketing-agency.html
+- medium:
+  - due: 2026-06-13
+  - status: pending
+  - public_url:
+  - docx: multi-surface-publishing/3-fractional-cro-vs-marketing-agency-MEDIUM.docx
+- substack:
+  - due: 2026-06-14
+  - status: pending
+  - public_url:
+  - docx: multi-surface-publishing/3-fractional-cro-vs-marketing-agency-SUBSTACK.docx
+
+---
+
+## On-deck (not yet scheduled)
+
+Decide after the top 3 are live and traction data is in. Strong candidates from the existing 14 insights posts:
+
+- The 2025 Founder-Led Report — Part 1 (foundational context for the 2026 report)
+- Is SaaS Dead?
+- RevOps Metrics That Matter
+- Never Promote Your Top Performers
+- Preserving Legacy in Founder-Led Succession
+- Fractional CRO vs Full-Time CRO (comparison page)
+- Fractional CRO vs VP Sales (comparison page)
+
+To queue any of these: copy a block from the active queue above, swap the canonical and docx paths, pick due dates (Sat + Sun pattern), set status to pending.
+
+---
+
+## Reminder format the digest uses
+
+Every morning the digest checks for entries where status=pending and due<=today. Each match becomes one line in the email like:
+
+> **Substack mirror due today:** The 2026 Founder-Led Report  
+> File: multi-surface-publishing/2-founder-led-report-2026-SUBSTACK.docx  
+> Canonical: https://fixyourrevenueengine.com/insights/founder-led-report-2026.html
+
+Overdue items (due date in the past, still pending) show up with an OVERDUE prefix until they're marked published or rescheduled.
