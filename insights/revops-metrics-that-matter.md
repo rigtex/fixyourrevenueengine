@@ -7,11 +7,7 @@ source: https://fixyourrevenueengine.com/insights/revops-metrics-that-matter.htm
 
 # RevOps Metrics That Matter: Navigating the Data Deluge
 
-**By Jason Rigolli**, Founder of Revved for Growth
-
-24+ years rebuilding revenue engines for founder-led or family-owned B2B firms. Two-time co-founder. Two-time CRO.
-
-> **TL;DR.** Most revenue dashboards measure activity, not health. The metrics that actually predict whether the engine is working are pipeline coverage, stage conversion rates, sales cycle length, CAC payback, net revenue retention, and forecast accuracy. Everything else is noise.
+> **TL;DR.** Every business has different revenue levers, but most dashboards measure activity instead of health. In my experience, a handful of metrics consistently signal whether the engine is actually working: pipeline coverage, stage conversion rates, sales cycle length, CAC payback, net revenue retention, and forecast accuracy. The right shortlist for your business may differ slightly, but the principle stays the same: track signal, not noise.
 
 In the fast-paced world of sales and revenue operations, focusing on the right metrics can make or break your success. As a Chief Revenue Officer (CRO) or sales leader, you're likely bombarded with an overwhelming amount of data. But which RevOps metrics truly matter?
 
@@ -141,7 +137,7 @@ Sales leaders should emphasize that AI is a tool to enhance, not replace, human 
 
 **What are the most important RevOps metrics for a CRO?**
 
-Pipeline coverage (3x to 4x of quota by stage), stage-to-stage conversion, sales cycle by segment, CAC payback in months, net revenue retention, and forecast accuracy. These six tell you if the engine is healthy.
+It depends on the business model, but in my experience six metrics carry most of the signal: pipeline coverage (3x to 4x of quota by stage), stage-to-stage conversion, sales cycle by segment, CAC payback in months, net revenue retention, and forecast accuracy. Different segments and stages may weight these differently; the discipline that matters is picking a focused shortlist and watching it consistently.
 
 **How often should a CEO review revenue metrics?**
 

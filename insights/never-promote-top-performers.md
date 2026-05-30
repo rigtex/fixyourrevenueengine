@@ -7,10 +7,6 @@ source: https://fixyourrevenueengine.com/insights/never-promote-top-performers.h
 
 # Never Promote Top Performers!
 
-**By Jason Rigolli**, Founder of Revved for Growth
-
-24+ years rebuilding revenue engines for founder-led or family-owned B2B firms. Two-time co-founder. Two-time CRO.
-
 > **TL;DR.** Promoting your best salesperson to manager usually breaks two things at once: you lose the rep's production and you create a manager who can't manage. Selling and managing are different jobs. Promote for management ability, not for sales numbers.
 
 #### Why Promoting Top Performers Might Not Always Work

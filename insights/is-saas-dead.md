@@ -7,10 +7,6 @@ source: https://fixyourrevenueengine.com/insights/is-saas-dead.html
 
 # Is SaaS Dead? How Fractional CROs Are Redefining the Future
 
-**By Jason Rigolli**, Founder of Revved for Growth
-
-24+ years rebuilding revenue engines for founder-led or family-owned B2B firms. Two-time co-founder. Two-time CRO.
-
 > **TL;DR.** SaaS isn't dead. The lazy version of SaaS is dead. Rising CAC, saturated categories, and skeptical buyers have ended the era of growth at any cost. Companies that win now treat revenue as an integrated system, often with a fractional CRO replacing the old VP Sales hire.
 
 Is SaaS really dying, or are we just witnessing its evolution? While SaaS as a concept isn't going anywhere, the way it's executed is facing intense scrutiny. Rising customer acquisition costs, saturated markets, and shifting buyer expectations are forcing companies to rethink old strategies. Enter the fractional Chief Revenue Officer (CRO). This agile, results-driven role is transforming how SaaS companies adapt, scale, and thrive in today's unpredictable market.

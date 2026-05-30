@@ -7,10 +7,6 @@ source: https://fixyourrevenueengine.com/insights/founder-led-report-part-3.html
 
 # 2025 Founder-Led Report Part 3: Strategic Planning for Founder-Led Businesses
 
-**By Jason Rigolli**, Founder of Revved for Growth
-
-24+ years rebuilding revenue engines for founder-led or family-owned B2B firms. Two-time co-founder. Two-time CRO.
-
 > **TL;DR.** Strategic planning in a founder-led or family-owned business isn't a slide deck. It's a quarterly system for choosing what to do, what to stop doing, and what to measure. Without that rhythm, growth gets reactive and the business runs on the loudest voice in the room.
 
 Maintaining momentum in a founder-led or family-owned business is never simple. Vision, grit, and a strong sense of purpose get you started, but scaling for lasting impact means confronting unique roadblocks. Many founders struggle to balance day-to-day leadership with building an agile plan for growth, finding that operational demands and legacy commitments can lead to bottlenecks or missed market opportunities.

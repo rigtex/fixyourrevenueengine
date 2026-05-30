@@ -7,10 +7,6 @@ source: https://fixyourrevenueengine.com/insights/founder-led-report-part-6.html
 
 # 2025 Founder-Led Report Part 6: Role Clarity Boosts Business Growth
 
-**By Jason Rigolli**, Founder of Revved for Growth
-
-24+ years rebuilding revenue engines for founder-led or family-owned B2B firms. Two-time co-founder. Two-time CRO.
-
 > **TL;DR.** When family or founder-led businesses don't have clean role definitions, growth stalls and trust erodes. The fix is structural, not interpersonal. Written role charters, clear decision rights, and explicit escalation paths cut the friction that no amount of family loyalty can.
 
 When family businesses don't have clear roles, confusion and stalled progress become everyday challenges. Overlapping responsibilities prevent quick decision-making and lead to tension, both in the boardroom and around the dinner table. Founders and CEOs often find it hard to draw the line between family and company, which can slow growth and erode trust.

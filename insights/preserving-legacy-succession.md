@@ -7,10 +7,6 @@ source: https://fixyourrevenueengine.com/insights/preserving-legacy-succession.h
 
 # Preserving Legacy, Building Future: Ensuring Smooth Succession
 
-**By Jason Rigolli**, Founder of Revved for Growth
-
-24+ years rebuilding revenue engines for founder-led or family-owned B2B firms. Two-time co-founder. Two-time CRO.
-
 > **TL;DR.** Most family-owned and founder-led businesses fail succession not because of family dynamics but because of undocumented operations. Successors can't run what isn't written down. Documenting processes, decisions, and relationships is the foundation of a transition that holds.
 
 As the torch passes from one generation to the next, family-owned businesses face a critical juncture. Succession planning becomes paramount, but a crucial question looms: are the successors truly prepared to take the reins? More often than not, the answer lies in the documentation, or lack thereof, of the business's processes.

@@ -7,10 +7,6 @@ source: https://fixyourrevenueengine.com/insights/founder-led-exit-success.html
 
 # Insights for Founder-Led Businesses on the Road to Exit Success
 
-**By Jason Rigolli**, Founder of Revved for Growth
-
-24+ years rebuilding revenue engines for founder-led or family-owned B2B firms. Two-time co-founder. Two-time CRO.
-
 > **TL;DR.** An exit isn't an event you plan a year out, it's a system you build for years before. Founders who exit well treat the business as transferable from day one: documented processes, repeatable revenue, a leadership team that runs without them, and clean financials.
 
 Stepping into the realm of entrepreneurship is akin to embarking on a grand adventure. With passion as our compass and ambition as our fuel. We navigate uncharted waters, building our vision into reality one step at a time. Yet, as the journey unfolds, there comes a point when we must contemplate the next chapter: the exit.
@@ -41,8 +37,8 @@ Three to five years before the desired exit. Buyers pay premiums for businesses 
 
 Founder dependency. If revenue, key relationships, or product decisions all route through the founder, the multiple drops. Buyers price in the risk of you walking out the door.
 
-**Does a founder-led or family-owned business need a fractional CRO before exit?**
+**How does ramping revenue before sale change the exit multiple?**
 
-If revenue is concentrated in your hands or unpredictable quarter to quarter, yes. A CRO documents the system, builds the team, and produces the kind of repeatable growth that protects valuation in due diligence.
+Materially. Buyers price recurring, repeatable growth at a premium and discount unpredictable revenue heavily. A founder-led business showing 15 to 25 percent year-over-year growth on documented systems typically commands a 1.5x to 2.5x multiple premium over the same business with flat or lumpy revenue. The work to ramp revenue and the work to make the business sellable are the same work: tighten the engine, prove it runs without the founder, then show 2 to 4 quarters of clean output before going to market.
 
 [← All insights](https://fixyourrevenueengine.com/insights.html)

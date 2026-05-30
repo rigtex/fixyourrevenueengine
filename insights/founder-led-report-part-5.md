@@ -7,10 +7,6 @@ source: https://fixyourrevenueengine.com/insights/founder-led-report-part-5.html
 
 # 2025 Founder-Led Report Part 5: Succession Planning for Founders
 
-**By Jason Rigolli**, Founder of Revved for Growth
-
-24+ years rebuilding revenue engines for founder-led or family-owned B2B firms. Two-time co-founder. Two-time CRO.
-
 > **TL;DR.** Succession planning is a multi-year build, not a transaction. The founder who exits well starts three to five years out: documenting operations, growing the leadership bench, and stress-testing the business by stepping away in increasing increments before the formal hand-off.
 
 When you're leading a family-owned or founder-led business, every decision shapes your legacy. Succession planning isn't just about who comes next, it's about protecting what you've built and making sure growth lasts well beyond your own role. Founders face unique hurdles, from balancing family interests to letting go of daily control, making transitions tough but crucial.
