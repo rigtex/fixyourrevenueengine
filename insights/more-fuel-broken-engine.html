@@ -88,6 +88,59 @@
 .post-cta p { margin-bottom: 16px; }
 .lede-quote { font-family: 'Italiana', Georgia, serif; font-size: 1.5rem; line-height: 1.4; color: var(--dark-blue); border-left: 3px solid var(--light-blue); padding: 8px 22px; margin: 28px 0; text-wrap: pretty; }
 </style>
+<!-- GEO:FAQPAGE-SCHEMA -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "url": "https://fixyourrevenueengine.com/insights/more-fuel-broken-engine.html",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Why does adding sales or marketing spend often fail to fix stalled pipeline?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Because the bottleneck is rarely the top of the funnel. When conversion, hand-offs, or close rates are broken, more inputs just expose the failure faster. Spend amplifies whatever is already happening, including the leak."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How do you diagnose a broken revenue engine?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Map the system end to end: lead source quality, MQL-to-SQL conversion, sales cycle by stage, win rate by segment, expansion and churn. The leak almost always lives at a specific stage. Find it, fix it, then add fuel."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What's the difference between a fractional CRO and a marketing or sales agency?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "An agency runs a function for you. A fractional CRO rebuilds the system that connects marketing, sales, and customer success. Agencies optimize their lane. A CRO owns the curve."
+      }
+    }
+  ]
+}
+</script>
+
+<!-- GEO:SPEAKABLE-SCHEMA -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "WebPage",
+  "url": "https://fixyourrevenueengine.com/insights/more-fuel-broken-engine.html",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      ".tldr p",
+      ".lede-quote",
+      ".post-faq .faq-q",
+      ".post-faq .faq-a"
+    ]
+  }
+}
+</script>
+
 </head>
 <body>
 
@@ -118,6 +171,13 @@
 
 <article style="padding:60px 0;">
   <div class="post-article">
+
+
+<!-- GEO:TLDR -->
+<div class="tldr" data-speakable="tldr">
+  <div class="tldr-label">TL;DR</div>
+  <p>When pipeline stalls, most founders default to more spend or more headcount. Both make the problem worse if the engine itself is broken. The real fix is diagnostic before additive: figure out which stage of the revenue system is leaking, then redesign it. Adding fuel to a broken engine just buys more expensive stagnation.</p>
+</div>
 
 <p>Maya cut her marketing director six months ago. Pipeline didn't recover.</p>
 
@@ -173,6 +233,24 @@
     <li><a href="revenue-team-alignment.html">From Conflict to Collaboration: Aligning Revenue Teams</a></li>
   </ul>
 </div>
+<!-- GEO:FAQ -->
+<section class="post-faq" aria-labelledby="post-faq-h" data-speakable="faq">
+  <h2 id="post-faq-h">Frequently asked</h2>
+  <div class="faq-item">
+    <div class="faq-q">Why does adding sales or marketing spend often fail to fix stalled pipeline?</div>
+    <div class="faq-a">Because the bottleneck is rarely the top of the funnel. When conversion, hand-offs, or close rates are broken, more inputs just expose the failure faster. Spend amplifies whatever is already happening, including the leak.</div>
+  </div>
+  <div class="faq-item">
+    <div class="faq-q">How do you diagnose a broken revenue engine?</div>
+    <div class="faq-a">Map the system end to end: lead source quality, MQL-to-SQL conversion, sales cycle by stage, win rate by segment, expansion and churn. The leak almost always lives at a specific stage. Find it, fix it, then add fuel.</div>
+  </div>
+  <div class="faq-item">
+    <div class="faq-q">What's the difference between a fractional CRO and a marketing or sales agency?</div>
+    <div class="faq-a">An agency runs a function for you. A fractional CRO rebuilds the system that connects marketing, sales, and customer success. Agencies optimize their lane. A CRO owns the curve.</div>
+  </div>
+</section>
+
+
 
 
 

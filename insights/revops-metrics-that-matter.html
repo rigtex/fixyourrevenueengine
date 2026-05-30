@@ -97,6 +97,59 @@
 .post-cta h3 { margin-top: 0; color: var(--dark-blue); }
 .post-cta p { margin-bottom: 16px; }
 </style>
+<!-- GEO:FAQPAGE-SCHEMA -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "url": "https://fixyourrevenueengine.com/insights/revops-metrics-that-matter.html",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the most important RevOps metrics for a CRO?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Pipeline coverage (3x to 4x of quota by stage), stage-to-stage conversion, sales cycle by segment, CAC payback in months, net revenue retention, and forecast accuracy. These six tell you if the engine is healthy."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How often should a CEO review revenue metrics?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Weekly for pipeline and forecast. Monthly for conversion, cycle, and CAC. Quarterly for retention and segment performance. Daily metrics usually create noise, not signal."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What's a healthy CAC payback period?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Under 12 months for SMB, 18 to 24 months for mid-market, up to 36 months for enterprise. Longer than that and growth starts consuming the cash it produces."
+      }
+    }
+  ]
+}
+</script>
+
+<!-- GEO:SPEAKABLE-SCHEMA -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "WebPage",
+  "url": "https://fixyourrevenueengine.com/insights/revops-metrics-that-matter.html",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      ".tldr p",
+      ".lede-quote",
+      ".post-faq .faq-q",
+      ".post-faq .faq-a"
+    ]
+  }
+}
+</script>
+
 </head>
 <body>
 
@@ -128,6 +181,13 @@
 
 <article style="padding:60px 0;">
   <div class="post-article">
+
+<!-- GEO:TLDR -->
+<div class="tldr" data-speakable="tldr">
+  <div class="tldr-label">TL;DR</div>
+  <p>Most revenue dashboards measure activity, not health. The metrics that actually predict whether the engine is working are pipeline coverage, stage conversion rates, sales cycle length, CAC payback, net revenue retention, and forecast accuracy. Everything else is noise.</p>
+</div>
+
     <p>In the fast-paced world of sales and revenue operations, focusing on the right metrics can make or break your success. As a Chief Revenue Officer (CRO) or sales leader, you're likely bombarded with an overwhelming amount of data. But which RevOps metrics truly matter?</p>
 <p>To help us navigate this complex landscape, we've tapped into the expertise of James Lakes, a seasoned executive with experience at tech giants like Microsoft, VMware, and Salesforce. James shares his insights on identifying and leveraging the most important RevOps metrics for driving business growth.</p>
 <p style="font-size:0.78rem;letter-spacing:2.5px;text-transform:uppercase;color:var(--light-blue);margin:36px 0 14px;">Clips from the James Lakes session</p>
@@ -266,6 +326,24 @@ document.addEventListener('keydown',function(e){if(e.key==='Escape'){rfgClose();
     <li><a href="is-saas-dead.html">Is SaaS Dead? How Fractional CROs Are Redefining the Future</a></li>
   </ul>
 </div>
+<!-- GEO:FAQ -->
+<section class="post-faq" aria-labelledby="post-faq-h" data-speakable="faq">
+  <h2 id="post-faq-h">Frequently asked</h2>
+  <div class="faq-item">
+    <div class="faq-q">What are the most important RevOps metrics for a CRO?</div>
+    <div class="faq-a">Pipeline coverage (3x to 4x of quota by stage), stage-to-stage conversion, sales cycle by segment, CAC payback in months, net revenue retention, and forecast accuracy. These six tell you if the engine is healthy.</div>
+  </div>
+  <div class="faq-item">
+    <div class="faq-q">How often should a CEO review revenue metrics?</div>
+    <div class="faq-a">Weekly for pipeline and forecast. Monthly for conversion, cycle, and CAC. Quarterly for retention and segment performance. Daily metrics usually create noise, not signal.</div>
+  </div>
+  <div class="faq-item">
+    <div class="faq-q">What's a healthy CAC payback period?</div>
+    <div class="faq-a">Under 12 months for SMB, 18 to 24 months for mid-market, up to 36 months for enterprise. Longer than that and growth starts consuming the cash it produces.</div>
+  </div>
+</section>
+
+
 
 
 
