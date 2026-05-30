@@ -611,6 +611,70 @@ section.alt { background: var(--off-white); }
 }
 
 
+/* ---------- TL;DR block (GEO/LLMO citation magnet) ---------- */
+.tldr {
+  background: linear-gradient(135deg, #f5f8fb 0%, #ffffff 100%);
+  border: 1px solid var(--border);
+  border-left: 4px solid var(--light-blue);
+  padding: 22px 28px;
+  margin: 30px auto 36px;
+  max-width: 760px;
+  border-radius: 2px;
+}
+.tldr-label {
+  display: inline-block;
+  font-size: 0.72rem;
+  letter-spacing: 2.5px;
+  text-transform: uppercase;
+  color: var(--light-blue);
+  font-weight: 700;
+  margin-bottom: 10px;
+  font-family: Helvetica, Arial, sans-serif;
+}
+.tldr p {
+  font-size: 1.05rem;
+  line-height: 1.65;
+  color: var(--dark-blue);
+  margin: 0;
+  text-wrap: pretty;
+}
+
+/* ---------- FAQ block on post pages ---------- */
+.post-faq {
+  background: #fff;
+  border: 1px solid var(--border);
+  border-left: 3px solid var(--light-blue);
+  padding: 28px 32px;
+  margin: 40px auto;
+  max-width: 760px;
+  border-radius: 2px;
+}
+.post-faq h2 {
+  font-size: 1.4rem !important;
+  font-family: 'Playfair Display', Georgia, serif !important;
+  font-weight: 700 !important;
+  margin: 0 0 18px !important;
+  color: var(--dark-blue) !important;
+  letter-spacing: 0.2px;
+}
+.faq-item {
+  padding: 14px 0;
+  border-bottom: 1px solid var(--border);
+}
+.faq-item:last-child { border-bottom: none; }
+.faq-q {
+  font-family: 'Playfair Display', Georgia, serif;
+  font-weight: 700;
+  font-size: 1.05rem;
+  color: var(--dark-blue);
+  margin-bottom: 8px;
+}
+.faq-a {
+  font-size: 0.98rem;
+  line-height: 1.6;
+  color: #333;
+}
+
 /* ---------- Related posts (cross-linking on post pages) ---------- */
 .related-posts {
   background: #fff;

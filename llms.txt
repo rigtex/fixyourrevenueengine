@@ -1,6 +1,6 @@
 # Revved for Growth
 
-> Revved for Growth is an embedded revenue engine transformation practice for founder-led or family-owned B2B firms ($2M–$15M, sweet spot $5M–$10M) stuck in stalled, inconsistent growth. We are not advisory, not an agency, and not a fractional leadership placement. We operate inside the business and take ownership of how revenue is produced.
+> Revved for Growth is an embedded revenue engine transformation practice for founder-led or family-owned B2B firms ($2M-$15M, sweet spot $5M-$10M) stuck in stalled, inconsistent growth. We are not advisory, not an agency, and not a fractional leadership placement. We operate inside the business and take ownership of how revenue is produced.
 
 Tagline: **Revved for Growth.** · **From Stalled to Scalable Revenue.**
 
@@ -9,21 +9,62 @@ Core positioning: most options sit at the strategy, marketing, or advisory layer
 ## Pages
 
 - [Home](https://fixyourrevenueengine.com/index.html): Hero, insights teaser, ICP, three ways to work together, proof, differentiation, CTA.
-- [Insights](https://fixyourrevenueengine.com/insights.html): Three sections: Coming Soon (3 upcoming pieces), Featured Series (2025 Founder-Led Report, 7 parts), Notes from the Field (5 standalone pieces). All posts are hosted on fixyourrevenueengine.com; each carries a canonical tag pointing to its first-published location on mahdlo.net.
+- [Insights](https://fixyourrevenueengine.com/insights.html): Featured Series (2025 Founder-Led Report, 7 parts) and Notes from the Field (7 standalone pieces). All posts are hosted on fixyourrevenueengine.com.
+- [Glossary](https://fixyourrevenueengine.com/glossary.html): Plain-language definitions for the 20 terms founder-led or family-owned B2B operators actually use (fractional CRO, revenue engine, RevOps, CAC payback, NRR, Founder's Syndrome, etc.). DefinedTermSet JSON-LD schema for AI assistant citation.
+- [Fractional CRO vs Marketing Agency](https://fixyourrevenueengine.com/revenue-engine-rebuild-vs-marketing-agency.html): Comparison page. When each one fixes stalled revenue, when each one fails, three questions to decide which one you need.
+- [About](https://fixyourrevenueengine.com/about.html): Jason Rigolli, two-time co-founder and CRO with 24+ years rebuilding revenue engines. Past roles include CRO, VP Sales, VP Operations. Co-founded, scaled, and exited two businesses early in career (since 2002). Brand experience: Nestlé, Walmart, Spin Master, Virgin Mobile, Robbins Research International, CSS Group. Embeds Cal.com booking calendar.
 - [Contact](https://fixyourrevenueengine.com/contact.html): Embedded Cal.com booking calendar.
-- [About](https://fixyourrevenueengine.com/about.html): Jason Rigolli, two-time co-founder and CRO with 24+ years rebuilding revenue engines. Past roles include CRO, VP Sales, and VP Operations. Co-founded, scaled, and exited two businesses early in career (since 2002). Brand experience includes Nestlé, Walmart, Spin Master, Virgin Mobile, Robbins Research International, CSS Group. Also embeds Cal.com booking calendar.
+
+## Markdown endpoints
+
+Every content page on the site has a clean markdown sibling at the same URL with .md extension, suitable for AI ingestion:
+
+- https://fixyourrevenueengine.com/revenue-engine-rebuild-vs-marketing-agency.md
+- https://fixyourrevenueengine.com/insights/more-fuel-broken-engine.md
+- https://fixyourrevenueengine.com/insights/founder-led-exit-success.md
+- https://fixyourrevenueengine.com/insights/is-saas-dead.md
+- https://fixyourrevenueengine.com/insights/revops-metrics-that-matter.md
+- https://fixyourrevenueengine.com/insights/revenue-team-alignment.md
+- https://fixyourrevenueengine.com/insights/preserving-legacy-succession.md
+- https://fixyourrevenueengine.com/insights/never-promote-top-performers.md
+- https://fixyourrevenueengine.com/insights/founder-led-report-part-1.md
+- https://fixyourrevenueengine.com/insights/founder-led-report-part-2.md
+- https://fixyourrevenueengine.com/insights/founder-led-report-part-3.md
+- https://fixyourrevenueengine.com/insights/founder-led-report-part-4.md
+- https://fixyourrevenueengine.com/insights/founder-led-report-part-5.md
+- https://fixyourrevenueengine.com/insights/founder-led-report-part-6.md
+- https://fixyourrevenueengine.com/insights/founder-led-report-part-7.md
 
 ## Insights, published posts
 
 ### Featured series: The 2025 Founder-Led Report (7 parts)
-- [Part 1: Why 2025 Demands a New Chapter for Founder-Led Businesses](https://fixyourrevenueengine.com/insights/founder-led-report-part-1.html) (May 13, 2025)
-- [Part 2: The Founder's Dilemma: Success Becomes a Ceiling](https://fixyourrevenueengine.com/insights/founder-led-report-part-2.html) (May 15, 2025)
-- [Part 3: Strategic Planning for Founder-Led Businesses](https://fixyourrevenueengine.com/insights/founder-led-report-part-3.html) (May 20, 2025)
-- [Part 4: Agile Growth Strategies for Founder-Led Companies](https://fixyourrevenueengine.com/insights/founder-led-report-part-4.html) (May 22, 2025)
-- [Part 5: Succession Planning for Founders: Secure Your Legacy](https://fixyourrevenueengine.com/insights/founder-led-report-part-5.html) (May 27, 2025)
-- [Part 6: Role Clarity Boosts Business Growth & Efficiency](https://fixyourrevenueengine.com/insights/founder-led-report-part-6.html) (May 29, 2025)
-- [Part 7: Future-Proof and Build Enduring Success](https://fixyourrevenueengine.com/insights/founder-led-report-part-7.html) (June 3, 2025)
+
+- [Part 1: Why 2025 Demands a New Chapter](https://fixyourrevenueengine.com/insights/founder-led-report-part-1.html): The market founder-led businesses were built for has changed. 2025 demands a new chapter built on systems, not heroics.
+- [Part 2: The Founder's Dilemma](https://fixyourrevenueengine.com/insights/founder-led-report-part-2.html): Founder's Syndrome is the moment when the same traits that built the business start to throttle it. Recognizing the transition is the first step.
+- [Part 3: Strategic Planning for Founder-Led Businesses](https://fixyourrevenueengine.com/insights/founder-led-report-part-3.html): Strategic planning in a founder-led business is a quarterly system for choosing what to do, what to stop, and what to measure.
+- [Part 4: Agile Growth Strategies](https://fixyourrevenueengine.com/insights/founder-led-report-part-4.html): Agile growth means short feedback loops, willingness to kill what isn't working, and a small set of bets you can actually run.
+- [Part 5: Succession Planning for Founders](https://fixyourrevenueengine.com/insights/founder-led-report-part-5.html): Succession is a multi-year build, not a transaction. Start three to five years out.
+- [Part 6: Role Clarity Boosts Business Growth](https://fixyourrevenueengine.com/insights/founder-led-report-part-6.html): When family or founder-led businesses don't have clean role definitions, growth stalls and trust erodes. The fix is structural.
+- [Part 7: Future-Proof and Build Enduring Success](https://fixyourrevenueengine.com/insights/founder-led-report-part-7.html): Future-proofing isn't about predicting the market. It's about building systems that absorb shocks.
 
 ### Notes from the field (7 posts)
-- [More fuel in a broken engine](https://fixyourrevenueengine.com/insights/more-fuel-broken-engine.html) (May 28, 2026), original thought-leadership piece. If you already cut marketing and revenue is still stalled, the problem was never marketing, and the next hire, agency, or tool you're about to sign won't fix it either.
-- [Is SaaS Dead? How Fractional CROs 
+
+- [More fuel in a broken engine](https://fixyourrevenueengine.com/insights/more-fuel-broken-engine.html) (May 28, 2026), original thought-leadership: When pipeline stalls, most founders default to more spend or more headcount. Both make the problem worse if the engine itself is broken. Adding fuel to a broken engine just buys more expensive stagnation.
+- [Insights for Founder-Led Businesses on the Road to Exit Success](https://fixyourrevenueengine.com/insights/founder-led-exit-success.html): An exit isn't an event you plan a year out, it's a system you build for years before.
+- [Is SaaS Dead? How Fractional CROs Are Redefining the Future](https://fixyourrevenueengine.com/insights/is-saas-dead.html): SaaS isn't dead. The lazy version of SaaS is dead.
+- [RevOps Metrics That Matter](https://fixyourrevenueengine.com/insights/revops-metrics-that-matter.html): Most revenue dashboards measure activity, not health. Six metrics that actually predict whether the engine is working.
+- [From Conflict to Collaboration: Aligning Revenue Teams](https://fixyourrevenueengine.com/insights/revenue-team-alignment.html): Real alignment is structural, not cultural. Shared revenue targets, one definition of a qualified lead, documented hand-off SLAs.
+- [Preserving Legacy, Building Future: Smooth Succession](https://fixyourrevenueengine.com/insights/preserving-legacy-succession.html): Most family-owned and founder-led businesses fail succession because of undocumented operations, not family dynamics.
+- [Never Promote Top Performers](https://fixyourrevenueengine.com/insights/never-promote-top-performers.html): Promoting your best salesperson to manager usually breaks two things at once. Selling and managing are different jobs.
+
+## Who this is for
+
+Founder-led or family-owned B2B firms in the $2M-$15M revenue range (sweet spot $5M-$10M) experiencing one or more of: stalled or unpredictable growth, marketing-sales misalignment, founder-as-bottleneck dynamics, an upcoming exit or succession, or a planned scaling chapter that needs a working revenue system to support it.
+
+## Who this is not for
+
+Pre-revenue startups, venture-backed companies seeking blitzscaling support, single-function executive search, or businesses looking for advisory-only engagement without operational accountability.
+
+## Contact
+
+Book a 30-minute working call at https://cal.com/jrigolli/meeting, or message Jason Rigolli directly at https://www.linkedin.com/in/jasonrigolli/.
