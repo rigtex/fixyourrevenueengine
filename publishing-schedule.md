@@ -59,7 +59,7 @@ Single source of truth for what gets mirrored to Medium and Substack on which da
 
 Decide after the top 3 are live and traction data is in. Strong candidates from the existing 14 insights posts:
 
-- The 2025 Founder-Led Report — Part 1 (foundational context for the 2026 report)
+- The 2025 Founder-Led Report Part 1 (foundational context for the 2026 report)
 - Is SaaS Dead?
 - RevOps Metrics That Matter
 - Never Promote Your Top Performers
@@ -68,6 +68,22 @@ Decide after the top 3 are live and traction data is in. Strong candidates from 
 - Fractional CRO vs VP Sales (comparison page)
 
 To queue any of these: copy a block from the active queue above, swap the canonical and docx paths, pick due dates (Sat + Sun pattern), set status to pending.
+
+---
+
+## Inbound from the rockstarr-content workflow
+
+Pieces in pipeline at the AI content workflow (`/rockstarr-ai/`). The website publishing process should pull these from `/rockstarr-ai/04_approved/content/` and render to `/rigtex-site/insights/` when ready. Mirroring to Medium and Substack uses the cadence rule above (Sat + Sun pattern, 7 day window between pieces).
+
+### Inbound 1. The business that runs without you (TL #6)
+
+- status: outline-approved, drafting next
+- outline source: `rockstarr-ai/04_approved/content/2026-05-30_thought-leadership_outline_business-runs-without-you.md`
+- expected draft source (after drafting + approval): `rockstarr-ai/04_approved/content/<draft-date>_thought-leadership_business-runs-without-you.md`
+- thesis: If the playbook for running the business only exists in your head, no #2 will fix that; the problem isn't who you hired, it's where the playbook lives.
+- target canonical URL: https://fixyourrevenueengine.com/insights/business-runs-without-you.html
+- target publish: 2026-06-08 (Mon) per the rockstarr-content calendar; Medium + Substack mirror windows would slot into the Sat + Sun pattern that follows (target 2026-06-20 + 2026-06-21 if the cadence rule holds).
+- voice notes: zero em-dashes (canonical rule); conversation-first CTA pointing to /contact.html; character is "Marcus" (male, $5M B2B services, paralleling Maya in TL #2).
 
 ---
 
