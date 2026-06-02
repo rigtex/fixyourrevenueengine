@@ -14,7 +14,7 @@ Single source of truth for what gets mirrored to Medium and Substack on which da
 
 ## Active queue
 
-### 1. The 2026 Founder-Led Report
+### 1. The 2026 Founders Report
 - canonical: https://fixyourrevenueengine.com/insights/founder-led-report-2026.html
 - medium:
   - due: 2026-05-30
@@ -23,8 +23,8 @@ Single source of truth for what gets mirrored to Medium and Substack on which da
   - docx: multi-surface-publishing/2-founder-led-report-2026-MEDIUM.docx
 - substack:
   - due: 2026-05-31
-  - status: pending
-  - public_url:
+  - status: published
+  - public_url: https://revvedforgrowth.substack.com/p/the-2026-founder-led-report
   - docx: multi-surface-publishing/2-founder-led-report-2026-SUBSTACK.docx
 
 ### 2. More Fuel in a Broken Engine
