@@ -180,12 +180,41 @@
  <ul>
  <li><a href="index.html">Home</a></li>
  <li><a href="insights.html">Insights</a></li>
- <li><a href="index.html#proof">Work</a></li>
- <li><a href="about.html">About</a></li>
+ <li class="nav-mobile-hide"><a href="index.html#proof">Work</a></li>
+ <li class="nav-mobile-hide"><a href="about.html">About</a></li>
  <li><a href="contact.html" class="btn btn-primary cta-btn">Let's Meet</a></li>
  </ul>
+ <button class="nav-hamburger" type="button" aria-expanded="false" aria-controls="nav-drawer" aria-label="Open menu">
+ <span></span><span></span><span></span>
+ </button>
  </nav>
  </div>
+ <div id="nav-drawer" class="nav-drawer" aria-hidden="true">
+ <div class="nav-drawer-backdrop" data-nav-close="1"></div>
+ <aside class="nav-drawer-panel" aria-label="Menu">
+ <button class="nav-drawer-close" type="button" aria-label="Close menu">&times;</button>
+ <ul>
+ <li><a href="index.html#proof">Work</a></li>
+ <li><a href="about.html">About</a></li>
+ <li><a href="glossary.html">Glossary</a></li>
+ </ul>
+ </aside>
+ </div>
+ <script>
+(function(){
+ var btn=document.querySelector('.nav-hamburger');
+ var dr=document.getElementById('nav-drawer');
+ var cl=document.querySelector('.nav-drawer-close');
+ var bd=document.querySelector('.nav-drawer-backdrop');
+ if(!btn||!dr)return;
+ function o(){dr.setAttribute('aria-hidden','false');btn.setAttribute('aria-expanded','true');document.body.style.overflow='hidden';var f=dr.querySelector('a,button');if(f)f.focus();}
+ function c(){dr.setAttribute('aria-hidden','true');btn.setAttribute('aria-expanded','false');document.body.style.overflow='';btn.focus();}
+ btn.addEventListener('click',o);
+ cl&&cl.addEventListener('click',c);
+ bd&&bd.addEventListener('click',c);
+ document.addEventListener('keydown',function(e){if(e.key==='Escape'&&dr.getAttribute('aria-hidden')==='false')c();});
+})();
+</script>
 </header>
 
 <main>
