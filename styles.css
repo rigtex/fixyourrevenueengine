@@ -601,6 +601,7 @@ section.alt { background: var(--off-white); }
   .main-nav ul { gap: 16px; }
   .main-nav .nav-link-text { display: none; }
   .main-nav .cta-btn { padding: 10px 18px; font-size: 0.8rem; }
+  .site-header .main-nav ul li:first-child { display: none; } /* Hide redundant Home on mobile; logo serves the link */
   section { padding: 60px 0; }
 }
 @media (max-width: 520px) {
