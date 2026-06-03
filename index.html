@@ -1,6 +1,16 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
+<script>
+// Pretty URL for homepage — strip /index.html from the address bar
+// Fires only when URL literally ends in /index.html; no-op for /
+(function(){
+  if (window.location.pathname.endsWith('/index.html')) {
+    var cleanPath = window.location.pathname.replace(/\/index\.html$/, '/');
+    history.replaceState(null, '', cleanPath + window.location.search + window.location.hash);
+  }
+})();
+</script>
 <meta charset="UTF-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <title>Revved for Growth | From Stalled to Scalable Revenue</title>
@@ -454,18 +464,4 @@
  </div>
 </footer>
 
-<script>
-document.getElementById('yr').textContent = new Date().getFullYear();
-// Clickable post cards
-document.querySelectorAll('article.post').forEach(function(card){
- var link = card.querySelector('h3 a');
- if (!link) return;
- card.classList.add('clickable');
- card.addEventListener('click', function(e){
- if (e.target.closest('a')) return;
- window.location = link.href;
- });
-});
-</script>
-</body>
-</html>
+<
