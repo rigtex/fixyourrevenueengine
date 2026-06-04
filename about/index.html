@@ -26,7 +26,7 @@
 <link rel="icon" type="image/x-icon" href="/favicon.ico" />
 <link rel="apple-touch-icon" href="/apple-touch-icon.png" />
 <meta name="theme-color" content="#185892" />
-<link rel="stylesheet" href="/styles.css?v=20260604b" />
+<link rel="stylesheet" href="/styles.css?v=20260604c" />
 
 <script type="application/ld+json">
 {
@@ -199,6 +199,28 @@
  </div>
 </section>
 
+<section class="alt" id="book" aria-labelledby="book-h">
+ <div class="container">
+ <div class="section-head">
+ <span class="eyebrow">Book a working call</span>
+ <h2 id="book-h">30 minutes. No pitch deck.</h2>
+ <p>Tell us what's going on in the engine and we'll talk through it. Then we discuss the right next move.</p>
+ </div>
+
+ <div style="width:100%;min-height:680px;overflow:auto;border-radius:2px;background:#fff;padding:20px;border-left:3px solid var(--light-blue);" id="my-cal-inline-about"></div>
+ <script type="text/javascript">
+ (function (C, A, L) { let p = function (a, ar) { a.q.push(ar); }; let d = C.document; C.Cal = C.Cal || function () { let cal = C.Cal; let ar = arguments; if (!cal.loaded) { cal.ns = {}; cal.q = cal.q || []; d.head.appendChild(d.createElement("script")).src = A; cal.loaded = true; } if (ar[0] === L) { const api = function () { p(api, arguments); }; const namespace = ar[1]; api.q = api.q || []; if(typeof namespace === "string"){cal.ns[namespace] = cal.ns[namespace] || api;p(cal.ns[namespace], ar);p(cal, ["initNamespace", namespace]);} else p(cal, ar); return;} p(cal, ar); }; })(window, "https://app.cal.com/embed/embed.js", "init");
+ Cal("init", "aboutmeeting", {origin:"https://app.cal.com"});
+ Cal.ns.aboutmeeting("inline", {
+ elementOrSelector:"#my-cal-inline-about",
+ config: {"layout":"month_view","useSlotsViewOnSmallScreen":"true"},
+ calLink: "jrigolli/meeting",
+ });
+ Cal.ns.aboutmeeting("ui", {"hideEventTypeDetails":false,"layout":"month_view"});
+ </script>
+ </div>
+</section>
+
 <section id="compare" aria-labelledby="compare-h">
  <div class="container">
  <div class="section-head">
@@ -229,27 +251,6 @@
  </div>
 </section>
 
-<section class="alt" id="book" aria-labelledby="book-h">
- <div class="container">
- <div class="section-head">
- <span class="eyebrow">Book a working call</span>
- <h2 id="book-h">30 minutes. No pitch deck.</h2>
- <p>Tell us what's going on in the engine and we'll talk through it. Then we discuss the right next move.</p>
- </div>
-
- <div style="width:100%;min-height:680px;overflow:auto;border-radius:2px;background:#fff;padding:20px;border-left:3px solid var(--light-blue);" id="my-cal-inline-about"></div>
- <script type="text/javascript">
- (function (C, A, L) { let p = function (a, ar) { a.q.push(ar); }; let d = C.document; C.Cal = C.Cal || function () { let cal = C.Cal; let ar = arguments; if (!cal.loaded) { cal.ns = {}; cal.q = cal.q || []; d.head.appendChild(d.createElement("script")).src = A; cal.loaded = true; } if (ar[0] === L) { const api = function () { p(api, arguments); }; const namespace = ar[1]; api.q = api.q || []; if(typeof namespace === "string"){cal.ns[namespace] = cal.ns[namespace] || api;p(cal.ns[namespace], ar);p(cal, ["initNamespace", namespace]);} else p(cal, ar); return;} p(cal, ar); }; })(window, "https://app.cal.com/embed/embed.js", "init");
- Cal("init", "aboutmeeting", {origin:"https://app.cal.com"});
- Cal.ns.aboutmeeting("inline", {
- elementOrSelector:"#my-cal-inline-about",
- config: {"layout":"month_view","useSlotsViewOnSmallScreen":"true"},
- calLink: "jrigolli/meeting",
- });
- Cal.ns.aboutmeeting("ui", {"hideEventTypeDetails":false,"layout":"month_view"});
- </script>
- </div>
-</section>
 
 <section aria-labelledby="brands-h">
  <div class="container">
@@ -306,4 +307,12 @@
  </div>
  <div class="footer-bottom">
  <span>© <span id="yr">2026</span> Revved for Growth. All rights reserved.</span>
- <                                                                                                                   
+ </div>
+ </div>
+</footer>
+
+<script>
+document.getElementById('yr').textContent = new Date().getFullYear();
+</script>
+</body>
+</html>
