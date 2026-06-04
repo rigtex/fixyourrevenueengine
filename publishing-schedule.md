@@ -59,7 +59,7 @@ Single source of truth for what gets mirrored to Medium and Substack on which da
 
 Decide after the top 3 are live and traction data is in. Strong candidates from the existing 14 insights posts:
 
-- The 2025 Founder-Led Report Part 1 (foundational context for the 2026 report)
+- The 2025 Founders Report Part 1 (foundational context for the 2026 report)
 - Is SaaS Dead?
 - RevOps Metrics That Matter
 - Never Promote Your Top Performers
