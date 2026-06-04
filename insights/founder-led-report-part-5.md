@@ -1,11 +1,11 @@
 ---
-title: "2025 Founder-Led Report Part 5: Succession Planning for Founders"
+title: "2025 Founders Report Part 5: Succession Planning for Founders"
 description: "Secure your founder legacy and drive lasting growth with a Fractional CRO. Neutral facilitators guide fair, structured succession leadership."
 url: https://www.mahdlo.net/blog/fractional-cro-succession-planning
 source: https://fixyourrevenueengine.com/insights/founder-led-report-part-5/
 ---
 
-# 2025 Founder-Led Report Part 5: Succession Planning for Founders
+# 2025 Founders Report Part 5: Succession Planning for Founders
 
 > **TL;DR.** Succession planning is a multi-year build, not a transaction. The founder who exits well starts three to five years out: documenting operations, growing the leadership bench, and stress-testing the business by stepping away in increasing increments before the formal hand-off.
 

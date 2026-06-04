@@ -1,11 +1,11 @@
 ---
-title: "2025 Founder-Led Report Part 3: Strategic Planning for Founder-Led Businesses"
+title: "2025 Founders Report Part 3: Strategic Planning for Founder-Led Businesses"
 description: "How a Fractional CRO empowers founder-led businesses to build strong teams, drive growth, and keep vision at the heart of every plan."
 url: https://www.mahdlo.net/blog/fractional-cro-strategic-planning
 source: https://fixyourrevenueengine.com/insights/founder-led-report-part-3/
 ---
 
-# 2025 Founder-Led Report Part 3: Strategic Planning for Founder-Led Businesses
+# 2025 Founders Report Part 3: Strategic Planning for Founder-Led Businesses
 
 > **TL;DR.** Strategic planning in a founder-led or family-owned business isn't a slide deck. It's a quarterly system for choosing what to do, what to stop doing, and what to measure. Without that rhythm, growth gets reactive and the business runs on the loudest voice in the room.
 

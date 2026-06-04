@@ -1,11 +1,11 @@
 ---
-title: "2025 Founder-Led Report Part 6: Role Clarity Boosts Business Growth"
+title: "2025 Founders Report Part 6: Role Clarity Boosts Business Growth"
 description: "A Fractional CRO gives family businesses clear roles, structure, and accountability. Removing confusion and fueling growth."
 url: https://www.mahdlo.net/blog/fractional-cro-family-business
 source: https://fixyourrevenueengine.com/insights/founder-led-report-part-6/
 ---
 
-# 2025 Founder-Led Report Part 6: Role Clarity Boosts Business Growth
+# 2025 Founders Report Part 6: Role Clarity Boosts Business Growth
 
 > **TL;DR.** When family or founder-led businesses don't have clean role definitions, growth stalls and trust erodes. The fix is structural, not interpersonal. Written role charters, clear decision rights, and explicit escalation paths cut the friction that no amount of family loyalty can.
 

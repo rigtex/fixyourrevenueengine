@@ -55,13 +55,13 @@ ICP criteria:
 
 ## Insights index, https://fixyourrevenueengine.com/insights/
 
-Three sections: Field Reports (longer-form deep dives including the 2026 Founders Report flagship), Notes from the Field (7 standalone pieces), and Featured Series (the 2025 Founder-Led Report, 7 parts, the foundation).
+Three sections: Field Reports (longer-form deep dives including the 2026 Founders Report flagship), Notes from the Field (7 standalone pieces), and Featured Series (the 2025 Founders Report, 7 parts, the foundation).
 
 ---
 
 ## Published posts
 
-Author of all posts: Jason Rigolli. The 2026 Founders Report and "More fuel in a broken engine" are original to fixyourrevenueengine.com. The 2025 Founder-Led Report series and the six earlier field notes were originally published at mahdlo.net and live at fixyourrevenueengine.com/insights/[slug].html with canonical tags pointing to the original Mahdlo URL.
+Author of all posts: Jason Rigolli. The 2026 Founders Report and "More fuel in a broken engine" are original to fixyourrevenueengine.com. The 2025 Founders Report series and the six earlier field notes were originally published at mahdlo.net and live at fixyourrevenueengine.com/insights/[slug].html with canonical tags pointing to the original Mahdlo URL.
 
 ### Field Report: The 2026 Founders Report, Harder Money, Better Tools, Smaller Teams
 - URL: https://fixyourrevenueengine.com/insights/founder-led-report-2026/
@@ -88,43 +88,43 @@ Author of all posts: Jason Rigolli. The 2026 Founders Report and "More fuel in a
 - Summary: Stalled $5M-$15M founders who cut marketing and watched pipeline fail to recover are now reaching for the next category of spend (SDR pod, agency, RevOps tool) on the same diagnosis that didn't work the first time. Three operational tests to run before signing the next $250K hire plan: recent SQL-to-closed-won conversion rate, whether the existing commercial team can name the same three reasons deals stall, and what happens to existing pipeline if you do nothing for sixty days.
 - Quotable line: "More fuel in a broken engine just produces more expensive stagnation."
 
-### 2025 Founder-Led Report, Part 1: Why 2025 Demands a New Chapter for Founder-Led Businesses
+### 2025 Founders Report, Part 1: Why 2025 Demands a New Chapter for Founder-Led Businesses
 - URL: https://fixyourrevenueengine.com/insights/founder-led-report-part-1/
 - First published: May 13, 2025 · 9 min read
 - Canonical: https://www.mahdlo.net/blog/why-2025-demands-a-new-chapter-for-founder-led-businesses
 - Summary: Intro to the seven-part series. The qualities that fueled early founder-led growth (speed, control, deep personal investment) can become the very forces that stall it. 2025 is a turning point: founders need sustainable leadership, structured growth, and strategic delegation to move past day-to-day firefighting.
 
-### 2025 Founder-Led Report, Part 2: The Founder's Dilemma, Success Becomes a Ceiling
+### 2025 Founders Report, Part 2: The Founder's Dilemma, Success Becomes a Ceiling
 - URL: https://fixyourrevenueengine.com/insights/founder-led-report-part-2/
 - First published: May 15, 2025 · 11 min read
 - Canonical: https://www.mahdlo.net/blog/fractional-cro-founder-growth
 - Summary: Founder's Syndrome: micromanagement, resistance to change, reluctance to delegate, decision-making bottlenecks. The unseen costs: missed market shifts, slow decision cycles, team burnout, stifled innovation. How a Fractional CRO bridges founder vision and scalable execution.
 
-### 2025 Founder-Led Report, Part 3: Strategic Planning for Founder-Led Businesses
+### 2025 Founders Report, Part 3: Strategic Planning for Founder-Led Businesses
 - URL: https://fixyourrevenueengine.com/insights/founder-led-report-part-3/
 - First published: May 20, 2025 · 10 min read
 - Canonical: https://www.mahdlo.net/blog/fractional-cro-strategic-planning
 - Summary: Why strategic planning, structure, and clear sales direction are essential. Building a vision-driven strategic plan: define vision and mission, set clear priorities, measure progress, get buy-in at every level. How Fractional CROs drive execution and accountability.
 
-### 2025 Founder-Led Report, Part 4: Agile Growth Strategies
+### 2025 Founders Report, Part 4: Agile Growth Strategies
 - URL: https://fixyourrevenueengine.com/insights/founder-led-report-part-4/
 - First published: May 22, 2025 · 10 min read
 - Canonical: https://www.mahdlo.net/blog/agile-growth-strategies-for-founder-led-companies
 - Summary: Agile growth means short feedback loops, willingness to kill what isn't working, and a small set of bets you can actually run with conviction. In founder-led businesses, the failure mode is over-committing to too many half-funded experiments. The fix is a quarterly bet portfolio with clear kill criteria and a small number of well-resourced moves.
 
-### 2025 Founder-Led Report, Part 5: Succession Planning for Founders, Secure Your Legacy
+### 2025 Founders Report, Part 5: Succession Planning for Founders, Secure Your Legacy
 - URL: https://fixyourrevenueengine.com/insights/founder-led-report-part-5/
 - First published: May 27, 2025 · 11 min read
 - Canonical: https://www.mahdlo.net/blog/succession-planning-for-founders
 - Summary: Succession is a multi-year build, not a transaction. Start three to five years out. The handoff fails most often not because of family dynamics but because the operating system of the business lives in the founder's head. Documented processes, clear role definitions, and a deputy who can run the company for 90 days without you are the prerequisites. Succession is a revenue strategy, not a legal exercise.
 
-### 2025 Founder-Led Report, Part 6: Role Clarity Boosts Business Growth and Efficiency
+### 2025 Founders Report, Part 6: Role Clarity Boosts Business Growth and Efficiency
 - URL: https://fixyourrevenueengine.com/insights/founder-led-report-part-6/
 - First published: May 29, 2025 · 9 min read
 - Canonical: https://www.mahdlo.net/blog/role-clarity-boosts-business-growth-efficiency
 - Summary: When family or founder-led businesses don't have clean role definitions, growth stalls and trust erodes. The fix is structural: documented role charters, explicit decision rights, and the discipline to hold people accountable to what they actually own. Without role clarity, the founder ends up making every decision and the team waits.
 
-### 2025 Founder-Led Report, Part 7: Future-Proof and Build Enduring Success Beyond 2025
+### 2025 Founders Report, Part 7: Future-Proof and Build Enduring Success Beyond 2025
 - URL: https://fixyourrevenueengine.com/insights/founder-led-report-part-7/
 - First published: June 3, 2025 · 10 min read
 - Canonical: https://www.mahdlo.net/blog/future-proof-and-build-enduring-success

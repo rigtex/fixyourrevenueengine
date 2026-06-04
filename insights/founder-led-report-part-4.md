@@ -1,11 +1,11 @@
 ---
-title: "2025 Founder-Led Report Part 4: Agile Growth Strategies"
+title: "2025 Founders Report Part 4: Agile Growth Strategies"
 description: "Unlock growth with a Fractional CRO. Bring agility, expert strategy, and fresh ideas to your founder-led business."
 url: https://www.mahdlo.net/blog/fractional-cro-founder-agility
 source: https://fixyourrevenueengine.com/insights/founder-led-report-part-4/
 ---
 
-# 2025 Founder-Led Report Part 4: Agile Growth Strategies
+# 2025 Founders Report Part 4: Agile Growth Strategies
 
 > **TL;DR.** Agile growth in a founder-led or family-owned business means short feedback loops, willingness to kill what isn't working, and a small set of bets you can actually run. The trap is mistaking activity for agility. Real agility is structural: how fast you can decide, deploy, and learn.
 

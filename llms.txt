@@ -9,7 +9,7 @@ Core positioning: most options sit at the strategy, marketing, or advisory layer
 ## Pages
 
 - [Home](https://fixyourrevenueengine.com/): Hero, insights teaser, ICP, three ways to work together, proof, differentiation, CTA.
-- [Insights](https://fixyourrevenueengine.com/insights/): Featured Series (2025 Founder-Led Report, 7 parts) and Notes from the Field (7 standalone pieces). All posts are hosted on fixyourrevenueengine.com.
+- [Insights](https://fixyourrevenueengine.com/insights/): Featured Series (2025 Founders Report, 7 parts) and Notes from the Field (7 standalone pieces). All posts are hosted on fixyourrevenueengine.com.
 - [Glossary](https://fixyourrevenueengine.com/glossary/): Plain-language definitions for the 20 terms founder-led or family-owned B2B operators actually use (fractional CRO, revenue engine, RevOps, CAC payback, NRR, Founder's Syndrome, etc.). DefinedTermSet JSON-LD schema for AI assistant citation.
 - [Fractional CRO vs Marketing Agency](https://fixyourrevenueengine.com/revenue-engine-rebuild-vs-marketing-agency/): Comparison page. When each one fixes stalled revenue, when each one fails, three questions to decide which one you need.
 - [Fractional CRO vs Full-Time CRO](https://fixyourrevenueengine.com/fractional-cro-vs-full-time-cro/): Comparison page. When the $400K hire is right, when the fractional path produces better outcomes, and the hybrid sequence most founders don't know to ask about.
@@ -46,7 +46,7 @@ Every content page on the site has a clean markdown sibling at the same URL with
 
 - [The 2026 Founders Report: Harder Money, Better Tools, Smaller Teams](https://fixyourrevenueengine.com/insights/founder-led-report-2026/) (June 1, 2026): One year after the 2025 series. Capital got more expensive (venture debt 7-12 percent, private debt outpacing equity), AI productivity matured (87 percent of B2B sales orgs use AI, 24 percent deployed agentic), and the survival profile of founder-led B2B firms looks structurally different. The 2025 thesis held; the runway to act on it compressed from 24 months to roughly 12.
 
-### Featured series: The 2025 Founder-Led Report (7 parts, the foundation)
+### Featured series: The 2025 Founders Report (7 parts, the foundation)
 
 - [Part 1: Why 2025 Demands a New Chapter](https://fixyourrevenueengine.com/insights/founder-led-report-part-1/): The market founder-led businesses were built for has changed. 2025 demands a new chapter built on systems, not heroics.
 - [Part 2: The Founder's Dilemma](https://fixyourrevenueengine.com/insights/founder-led-report-part-2/): Founder's Syndrome is the moment when the same traits that built the business start to throttle it. Recognizing the transition is the first step.

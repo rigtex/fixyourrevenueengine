@@ -1,6 +1,6 @@
 ---
 title: "The 2026 Founders Report: Harder Money, Better Tools, Smaller Teams"
-description: "One year after the 2025 Founder-Led Report. The capital environment got harder, AI productivity got real, and the survival profile of founder-led B2B firms in 2026 looks structurally different. Here is the diagnosis and the playbook."
+description: "One year after the 2025 Founders Report. The capital environment got harder, AI productivity got real, and the survival profile of founder-led B2B firms in 2026 looks structurally different. Here is the diagnosis and the playbook."
 url: https://fixyourrevenueengine.com/insights/founder-led-report-2026/
 source: https://fixyourrevenueengine.com/insights/founder-led-report-2026/
 ---
@@ -11,7 +11,7 @@ source: https://fixyourrevenueengine.com/insights/founder-led-report-2026/
 
 > *The 2025 thesis held. The runway to act on it got shorter.*
 
-A year ago I wrote a seven-part series called the 2025 Founder-Led Report. The argument was that founder-led businesses scale on heroics and stall on systems, and that 2025 was the year that pattern stopped being a generic operator observation and became a survival question for firms in the $5M to $15M range.
+A year ago I wrote a seven-part series called the 2025 Founders Report. The argument was that founder-led businesses scale on heroics and stall on systems, and that 2025 was the year that pattern stopped being a generic operator observation and became a survival question for firms in the $5M to $15M range.
 
 It is now June 2026. The thesis held. The thing that changed is the runway. What used to take 24 months to expose now takes 12, because tighter capital and AI-leveraged competitors compress the time founders have to rebuild before the market or the cap table forces a decision.
 
@@ -19,7 +19,7 @@ This is the field report on what changed, what the data actually says, and what 
 
 #### The foundation underneath this report
 
-The 2026 report is a one-piece update. The full seven-part diagnosis is in the 2025 Founder-Led Report series , which holds up well and is still the place to start if you want the deeper framework on Founder's Syndrome, strategic planning, agile growth, succession, and role clarity.
+The 2026 report is a one-piece update. The full seven-part diagnosis is in the 2025 Founders Report series , which holds up well and is still the place to start if you want the deeper framework on Founder's Syndrome, strategic planning, agile growth, succession, and role clarity.
 
 ## What actually changed between mid-2025 and mid-2026
 
@@ -129,7 +129,7 @@ Bootstrapped SaaS firms in the $3M to $20M ARR range now show median operating m
 
 Three priorities. One: get CAC payback under 15 months by fixing the conversion and onboarding leaks before adding spend. Two: deploy agentic AI where it actually moves revenue (forecasting, deal scoring, deal review prep), not where it produces deck-quality demos. Three: build the operating tempo (weekly pipeline review, monthly conversion and cycle analysis, quarterly segment re-evaluation) that lets a smaller team produce predictable output without the founder in every meeting.
 
-**Does the 2025 Founder-Led Report still hold up in 2026?**
+**Does the 2025 Founders Report still hold up in 2026?**
 
 Yes. The core thesis (founder-led businesses scale on heroics and stall on systems) held. The 2026 update is that the timeline accelerated. What used to take 24 months to expose now takes 12, because tighter capital and AI-leveraged competitors compress the runway founders have to rebuild. The 2025 series is still the foundation; the 2026 report is what that foundation looks like under the conditions of this year.
 

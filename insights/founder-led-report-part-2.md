@@ -1,11 +1,11 @@
 ---
-title: "2025 Founder-Led Report Part 2: The Founder's Dilemma"
+title: "2025 Founders Report Part 2: The Founder's Dilemma"
 description: "Drive sustainable growth by partnering with a Fractional CRO. Empower your team, protect your vision, and scale with confidence."
 url: https://www.mahdlo.net/blog/fractional-cro-founder-growth
 source: https://fixyourrevenueengine.com/insights/founder-led-report-part-2/
 ---
 
-# 2025 Founder-Led Report Part 2: The Founder's Dilemma
+# 2025 Founders Report Part 2: The Founder's Dilemma
 
 > **TL;DR.** Founder's Syndrome is the moment when the same traits that built the business start to throttle it. Tight control, instinct over process, and resistance to outside expertise are assets at $2M and liabilities at $10M. Recognizing the transition is the first step.
 
