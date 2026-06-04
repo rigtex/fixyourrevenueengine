@@ -534,7 +534,6 @@ section.alt { background: var(--off-white); }
 @media (min-width: 900px) {
   .page-hero h1#c-h,
   .page-hero h1#ins-h,
-  h2#approach-h { white-space: nowrap; }
 }
 
 /* LinkedIn badge — visible by default (was hover-only) */

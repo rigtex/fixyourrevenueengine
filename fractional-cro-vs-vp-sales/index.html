@@ -24,7 +24,7 @@
 <link rel="icon" type="image/x-icon" href="/favicon.ico" />
 <link rel="apple-touch-icon" href="/apple-touch-icon.png" />
 <meta name="theme-color" content="#185892" />
-<link rel="stylesheet" href="/styles.css?v=20260604" />
+<link rel="stylesheet" href="/styles.css?v=20260604a" />
 
 <script type="application/ld+json">
 {
@@ -158,6 +158,10 @@
  .compare-table { font-size: 0.88rem; }
  .compare-table th, .compare-table td { padding: 10px 10px; }
 }
+@media (max-width: 700px) {
+ .post-article p.lede-quote { font-size: 1.8rem; padding: 8px 16px; margin: 24px 0; }
+}
+
 </style>
 </head>
 <body>
@@ -234,6 +238,7 @@
 
 <h2>The side-by-side</h2>
 
+<div class="table-scroll" style="overflow-x: auto; -webkit-overflow-scrolling: touch;">
 <table class="compare-table" aria-label="Fractional CRO vs VP Sales comparison">
  <thead>
  <tr>
@@ -285,6 +290,7 @@
  </tr>
  </tbody>
 </table>
+</div>
 
 <h2>What a VP Sales actually does well</h2>
 
