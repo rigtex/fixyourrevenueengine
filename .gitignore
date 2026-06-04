@@ -1,0 +1,34 @@
+# OS cruft
+.DS_Store
+Thumbs.db
+desktop.ini
+ehthumbs.db
+
+# Office / LibreOffice temp + lock files
+*.tmp
+*.bak
+~$*
+.~lock.*
+
+# Editor cruft
+*~
+*.swp
+.vscode/
+.idea/
+
+# Local credentials — never push
+.env
+*.key
+*.pem
+*_token
+.git-credentials
+
+# Web-design operational artifacts (per supervisor decision 2026-06-04T21:xxZ)
+# These live in rigtex-site/ for the workspace but should NOT enter
+# deployable git history — they're operator logs, not site content.
+/_run-log.md
+/_errors.md
+
+# Workspace files that exist in disk but aren't deployable
+publishing-schedule.md
+PROJECT-RULES.md
