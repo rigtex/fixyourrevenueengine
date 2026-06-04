@@ -2,7 +2,7 @@
 title: "Is SaaS Dead? How Fractional CROs Are Redefining the Future"
 description: "Are SaaS models evolving? How fractional CROs are transforming SaaS growth strategies and addressing modern market challenges."
 url: https://www.mahdlo.net/blog/is-saas-dead-how-fractional-cros-are-redefining-the-future
-source: https://fixyourrevenueengine.com/insights/is-saas-dead.html
+source: https://fixyourrevenueengine.com/insights/is-saas-dead/
 ---
 
 # Is SaaS Dead? How Fractional CROs Are Redefining the Future
@@ -153,4 +153,4 @@ Because the problem in most stalled SaaS companies isn't sales execution, it's t
 
 Hiring more reps. If close rate, expansion, and onboarding are broken, more reps just compound the cost of the leak. Fix the system first.
 
-[← All insights](https://fixyourrevenueengine.com/insights.html)
+[← All insights](https://fixyourrevenueengine.com/insights/)

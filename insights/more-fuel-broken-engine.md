@@ -1,8 +1,8 @@
 ---
 title: "More fuel in a broken engine"
 description: "If you already cut marketing and revenue is still stalled, the problem was never marketing. And the next hire, agency, or tool you're about to buy won't fix it either."
-url: https://fixyourrevenueengine.com/insights/more-fuel-broken-engine.html
-source: https://fixyourrevenueengine.com/insights/more-fuel-broken-engine.html
+url: https://fixyourrevenueengine.com/insights/more-fuel-broken-engine/
+source: https://fixyourrevenueengine.com/insights/more-fuel-broken-engine/
 ---
 
 # More fuel in a broken engine
@@ -69,4 +69,4 @@ Map the system end to end: lead source quality, MQL-to-SQL conversion, sales cyc
 
 An agency runs a function for you. A fractional CRO rebuilds the system that connects marketing, sales, and customer success. Agencies optimize their lane. A CRO owns the curve.
 
-[← All insights](https://fixyourrevenueengine.com/insights.html)
+[← All insights](https://fixyourrevenueengine.com/insights/)

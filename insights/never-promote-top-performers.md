@@ -2,7 +2,7 @@
 title: "Never Promote Top Performers!"
 description: "Promoting top performers to managerial roles can backfire. Why organizations should rethink this strategy and focus on leadership development."
 url: https://www.mahdlo.net/blog/never-promote-top-performers
-source: https://fixyourrevenueengine.com/insights/never-promote-top-performers.html
+source: https://fixyourrevenueengine.com/insights/never-promote-top-performers/
 ---
 
 # Never Promote Top Performers!
@@ -56,4 +56,4 @@ Coaching ability, deal strategy thinking, comfort with metrics and forecasting, 
 
 Senior IC tracks, principal seller titles, account ownership over the most strategic logos, and comp structures that pay senior reps more than first-line managers. Build a path that doesn't require leaving what they're great at.
 
-[← All insights](https://fixyourrevenueengine.com/insights.html)
+[← All insights](https://fixyourrevenueengine.com/insights/)

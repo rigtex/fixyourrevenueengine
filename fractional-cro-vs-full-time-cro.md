@@ -1,8 +1,8 @@
 ---
 title: "Fractional CRO vs Full-Time CRO: Which One Does Your Business Actually Need?"
 description: "Honest comparison of a fractional CRO vs a full-time CRO for founder-led or family-owned B2B firms. When the $400K hire is right, when the fractional path is right, and the decision framework that prevents an expensive miss."
-url: https://fixyourrevenueengine.com/fractional-cro-vs-full-time-cro.html
-source: https://fixyourrevenueengine.com/fractional-cro-vs-full-time-cro.html
+url: https://fixyourrevenueengine.com/fractional-cro-vs-full-time-cro/
+source: https://fixyourrevenueengine.com/fractional-cro-vs-full-time-cro/
 ---
 
 # Fractional CRO vs Full-Time CRO: Which One Does Your Business Actually Need?

@@ -2,7 +2,7 @@
 title: "RevOps Metrics That Matter: Navigating the Data Deluge"
 description: "Essential RevOps metrics that drive growth. Leverage AI and real-time data for improved sales performance and revenue strategies."
 url: https://www.mahdlo.net/blog/revops-metrics-that-matter-a-cros-guide
-source: https://fixyourrevenueengine.com/insights/revops-metrics-that-matter.html
+source: https://fixyourrevenueengine.com/insights/revops-metrics-that-matter/
 ---
 
 # RevOps Metrics That Matter: Navigating the Data Deluge
@@ -147,4 +147,4 @@ Weekly for pipeline and forecast. Monthly for conversion, cycle, and CAC. Quarte
 
 Under 12 months for SMB, 18 to 24 months for mid-market, up to 36 months for enterprise. Longer than that and growth starts consuming the cash it produces.
 
-[← All insights](https://fixyourrevenueengine.com/insights.html)
+[← All insights](https://fixyourrevenueengine.com/insights/)

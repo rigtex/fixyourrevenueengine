@@ -2,7 +2,7 @@
 title: "2025 Founder-Led Report Part 7: Future-Proof and Build Enduring Success"
 description: "Empower your founder-led business to thrive beyond 2025 with strategic planning, role clarity, succession, and expert partnerships."
 url: https://www.mahdlo.net/blog/founder-led-future-proof-building-enduring-success-beyond-2025
-source: https://fixyourrevenueengine.com/insights/founder-led-report-part-7.html
+source: https://fixyourrevenueengine.com/insights/founder-led-report-part-7/
 ---
 
 # 2025 Founder-Led Report Part 7: Future-Proof and Build Enduring Success
@@ -80,4 +80,4 @@ Concentration risk: one or two customers, one channel, one geography, one founde
 
 Systems. The ones that endure build repeatable processes early, grow a team that can operate without the founder, and treat the business as a transferable asset from day one.
 
-[← All insights](https://fixyourrevenueengine.com/insights.html)
+[← All insights](https://fixyourrevenueengine.com/insights/)

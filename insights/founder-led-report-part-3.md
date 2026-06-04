@@ -2,7 +2,7 @@
 title: "2025 Founder-Led Report Part 3: Strategic Planning for Founder-Led Businesses"
 description: "How a Fractional CRO empowers founder-led businesses to build strong teams, drive growth, and keep vision at the heart of every plan."
 url: https://www.mahdlo.net/blog/fractional-cro-strategic-planning
-source: https://fixyourrevenueengine.com/insights/founder-led-report-part-3.html
+source: https://fixyourrevenueengine.com/insights/founder-led-report-part-3/
 ---
 
 # 2025 Founder-Led Report Part 3: Strategic Planning for Founder-Led Businesses
@@ -102,4 +102,4 @@ A short list of priorities (three to five), the metrics that prove progress, the
 
 Quarterly for the plan itself, monthly for progress, weekly for metrics. Less frequent than that and you're flying blind in a fast market.
 
-[← All insights](https://fixyourrevenueengine.com/insights.html)
+[← All insights](https://fixyourrevenueengine.com/insights/)

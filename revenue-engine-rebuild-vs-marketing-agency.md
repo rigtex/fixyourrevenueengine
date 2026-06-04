@@ -1,8 +1,8 @@
 ---
 title: "Fractional CRO vs Marketing Agency: Which One Fixes Stalled Revenue?"
 description: "Honest comparison of a fractional CRO (revenue engine rebuild) vs a marketing agency for founder-led or family-owned B2B firms with stalled growth. When each one is right, when each one fails, and how to decide."
-url: https://fixyourrevenueengine.com/revenue-engine-rebuild-vs-marketing-agency.html
-source: https://fixyourrevenueengine.com/revenue-engine-rebuild-vs-marketing-agency.html
+url: https://fixyourrevenueengine.com/revenue-engine-rebuild-vs-marketing-agency/
+source: https://fixyourrevenueengine.com/revenue-engine-rebuild-vs-marketing-agency/
 ---
 
 # Fractional CRO vs Marketing Agency: Which One Fixes Stalled Revenue?

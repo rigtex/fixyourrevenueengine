@@ -15,7 +15,7 @@ Single source of truth for what gets mirrored to Medium and Substack on which da
 ## Active queue
 
 ### 1. The 2026 Founders Report
-- canonical: https://fixyourrevenueengine.com/insights/founder-led-report-2026.html
+- canonical: https://fixyourrevenueengine.com/insights/founder-led-report-2026/
 - medium:
   - due: 2026-05-30
   - status: published
@@ -28,7 +28,7 @@ Single source of truth for what gets mirrored to Medium and Substack on which da
   - docx: multi-surface-publishing/2-founder-led-report-2026-SUBSTACK.docx
 
 ### 2. More Fuel in a Broken Engine
-- canonical: https://fixyourrevenueengine.com/insights/more-fuel-broken-engine.html
+- canonical: https://fixyourrevenueengine.com/insights/more-fuel-broken-engine/
 - medium:
   - due: 2026-06-06
   - status: pending
@@ -41,7 +41,7 @@ Single source of truth for what gets mirrored to Medium and Substack on which da
   - docx: multi-surface-publishing/1-more-fuel-broken-engine-SUBSTACK.docx
 
 ### 3. Fractional CRO vs Marketing Agency
-- canonical: https://fixyourrevenueengine.com/revenue-engine-rebuild-vs-marketing-agency.html
+- canonical: https://fixyourrevenueengine.com/revenue-engine-rebuild-vs-marketing-agency/
 - medium:
   - due: 2026-06-13
   - status: pending
@@ -93,14 +93,14 @@ Every morning the digest checks for entries where status=pending and `due <= tod
 
 > **Substack mirror due in 3 days (Sun Jun 7):** More Fuel in a Broken Engine  
 > File: multi-surface-publishing/1-more-fuel-broken-engine-SUBSTACK.docx  
-> Canonical: https://fixyourrevenueengine.com/insights/more-fuel-broken-engine.html
+> Canonical: https://fixyourrevenueengine.com/insights/more-fuel-broken-engine/
 
 > **Medium mirror due TODAY:** Fractional CRO vs Marketing Agency  
 > File: multi-surface-publishing/3-fractional-cro-vs-marketing-agency-MEDIUM.docx  
-> Canonical: https://fixyourrevenueengine.com/revenue-engine-rebuild-vs-marketing-agency.html
+> Canonical: https://fixyourrevenueengine.com/revenue-engine-rebuild-vs-marketing-agency/
 
 > **OVERDUE since Sat Jun 6:** Medium mirror — More Fuel in a Broken Engine  
 > File: multi-surface-publishing/1-more-fuel-broken-engine-MEDIUM.docx  
-> Canonical: https://fixyourrevenueengine.com/insights/more-fuel-broken-engine.html
+> Canonical: https://fixyourrevenueengine.com/insights/more-fuel-broken-engine/
 
 Reminder repeats every morning across the 3-day window AND every day after the due date until status flips to `published`.

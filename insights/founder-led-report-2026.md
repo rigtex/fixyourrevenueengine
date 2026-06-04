@@ -1,8 +1,8 @@
 ---
 title: "The 2026 Founders Report: Harder Money, Better Tools, Smaller Teams"
 description: "One year after the 2025 Founder-Led Report. The capital environment got harder, AI productivity got real, and the survival profile of founder-led B2B firms in 2026 looks structurally different. Here is the diagnosis and the playbook."
-url: https://fixyourrevenueengine.com/insights/founder-led-report-2026.html
-source: https://fixyourrevenueengine.com/insights/founder-led-report-2026.html
+url: https://fixyourrevenueengine.com/insights/founder-led-report-2026/
+source: https://fixyourrevenueengine.com/insights/founder-led-report-2026/
 ---
 
 # The 2026 Founders Report: Harder Money, Better Tools, Smaller Teams

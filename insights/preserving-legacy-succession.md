@@ -2,7 +2,7 @@
 title: "Preserving Legacy, Building Future: Ensuring Smooth Succession"
 description: "Preserving legacy and ensuring smooth succession in family-owned businesses through documented processes and operational excellence."
 url: https://www.mahdlo.net/blog/preserving-legacy-building-future-ensuring-smooth-succession
-source: https://fixyourrevenueengine.com/insights/preserving-legacy-succession.html
+source: https://fixyourrevenueengine.com/insights/preserving-legacy-succession/
 ---
 
 # Preserving Legacy, Building Future: Ensuring Smooth Succession
@@ -69,4 +69,4 @@ Process maps for every revenue-producing workflow. Decision criteria for the cho
 
 Two to four years for documentation, team building, and live hand-offs. Less than that and the successor is operating on hope.
 
-[← All insights](https://fixyourrevenueengine.com/insights.html)
+[← All insights](https://fixyourrevenueengine.com/insights/)

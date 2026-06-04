@@ -2,7 +2,7 @@
 title: "2025 Founder-Led Report Part 2: The Founder's Dilemma"
 description: "Drive sustainable growth by partnering with a Fractional CRO. Empower your team, protect your vision, and scale with confidence."
 url: https://www.mahdlo.net/blog/fractional-cro-founder-growth
-source: https://fixyourrevenueengine.com/insights/founder-led-report-part-2.html
+source: https://fixyourrevenueengine.com/insights/founder-led-report-part-2/
 ---
 
 # 2025 Founder-Led Report Part 2: The Founder's Dilemma
@@ -112,4 +112,4 @@ Decisions stall when you're unavailable. Senior people defer instead of deciding
 
 Document decisions, build a leadership team you actually trust, and accept that some judgment calls will be made differently than you'd make them. The point isn't perfection; it's repeatability.
 
-[← All insights](https://fixyourrevenueengine.com/insights.html)
+[← All insights](https://fixyourrevenueengine.com/insights/)

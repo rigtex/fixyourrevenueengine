@@ -2,7 +2,7 @@
 title: "2025 Founder-Led Report Part 5: Succession Planning for Founders"
 description: "Secure your founder legacy and drive lasting growth with a Fractional CRO. Neutral facilitators guide fair, structured succession leadership."
 url: https://www.mahdlo.net/blog/fractional-cro-succession-planning
-source: https://fixyourrevenueengine.com/insights/founder-led-report-part-5.html
+source: https://fixyourrevenueengine.com/insights/founder-led-report-part-5/
 ---
 
 # 2025 Founder-Led Report Part 5: Succession Planning for Founders
@@ -103,4 +103,4 @@ Letting decisions get made differently than you'd make them. The point of succes
 
 By building the revenue system that produces growth without depending on the founder, documenting the playbook, and growing the leadership team that will run it after the transition.
 
-[← All insights](https://fixyourrevenueengine.com/insights.html)
+[← All insights](https://fixyourrevenueengine.com/insights/)

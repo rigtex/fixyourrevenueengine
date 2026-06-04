@@ -2,7 +2,7 @@
 title: "Insights for Founder-Led Businesses on the Road to Exit Success"
 description: "Key insights for founder-led businesses to successfully plan and execute their exit strategy, ensuring a smooth transition and enduring legacy."
 url: https://www.mahdlo.net/blog/insights-for-founder-led-businesses-on-the-road-to-exit-success
-source: https://fixyourrevenueengine.com/insights/founder-led-exit-success.html
+source: https://fixyourrevenueengine.com/insights/founder-led-exit-success/
 ---
 
 # Insights for Founder-Led Businesses on the Road to Exit Success
@@ -41,4 +41,4 @@ Founder dependency. If revenue, key relationships, or product decisions all rout
 
 Materially. Buyers price recurring, repeatable growth at a premium and discount unpredictable revenue heavily. A founder-led business showing 15 to 25 percent year-over-year growth on documented systems typically commands a 1.5x to 2.5x multiple premium over the same business with flat or lumpy revenue. The work to ramp revenue and the work to make the business sellable are the same work: tighten the engine, prove it runs without the founder, then show 2 to 4 quarters of clean output before going to market.
 
-[← All insights](https://fixyourrevenueengine.com/insights.html)
+[← All insights](https://fixyourrevenueengine.com/insights/)

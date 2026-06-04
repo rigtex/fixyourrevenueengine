@@ -2,12 +2,12 @@
 title: "2025 Founder-Led Report Part 1: Why 2025 Demands a New Chapter"
 description: "How founder-led businesses can overcome growth bottlenecks and build sustainable success in 2025 and beyond."
 url: https://www.mahdlo.net/blog/why-2025-demands-a-new-chapter-for-founder-led-businesses
-source: https://fixyourrevenueengine.com/insights/founder-led-report-part-1.html
+source: https://fixyourrevenueengine.com/insights/founder-led-report-part-1/
 ---
 
 # 2025 Founder-Led Report Part 1: Why 2025 Demands a New Chapter
 
-**2026 update available.** The thesis here held, the timeline accelerated. [Read the 2026 Founders Report →](https://fixyourrevenueengine.com/insights/founder-led-report-2026.html)
+**2026 update available.** The thesis here held, the timeline accelerated. [Read the 2026 Founders Report →](https://fixyourrevenueengine.com/insights/founder-led-report-2026/)
 
 > **TL;DR.** The market founder-led businesses were built for has changed. Capital is more expensive, buyers are more skeptical, and the playbook that produced the first $5M to $15M no longer scales. 2025 demands a new chapter built on systems, not heroics.
 
@@ -80,4 +80,4 @@ The first phase rewards founder hustle and personal relationships. The next phas
 
 Diagnose before you spend. Map where the leak actually lives in the revenue system. Most stalls aren't a sales problem; they're a system problem.
 
-[← All insights](https://fixyourrevenueengine.com/insights.html)
+[← All insights](https://fixyourrevenueengine.com/insights/)

@@ -2,7 +2,7 @@
 title: "2025 Founder-Led Report Part 4: Agile Growth Strategies"
 description: "Unlock growth with a Fractional CRO. Bring agility, expert strategy, and fresh ideas to your founder-led business."
 url: https://www.mahdlo.net/blog/fractional-cro-founder-agility
-source: https://fixyourrevenueengine.com/insights/founder-led-report-part-4.html
+source: https://fixyourrevenueengine.com/insights/founder-led-report-part-4/
 ---
 
 # 2025 Founder-Led Report Part 4: Agile Growth Strategies
@@ -102,4 +102,4 @@ Three or four max. More than that and nothing gets the attention it needs to pro
 
 Confusing busyness with progress. Running ten initiatives at half-effort feels productive and produces nothing measurable. Pick fewer, fund them properly, and read the results.
 
-[← All insights](https://fixyourrevenueengine.com/insights.html)
+[← All insights](https://fixyourrevenueengine.com/insights/)

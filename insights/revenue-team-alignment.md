@@ -2,7 +2,7 @@
 title: "From Conflict to Collaboration: Aligning Revenue Teams"
 description: "Transform conflict into collaboration among Sales, Marketing, and Customer Success teams for increased growth and customer satisfaction."
 url: https://www.mahdlo.net/blog/from-conflict-to-collaboration-aligning-sales-marketing-and-customer-success-teams
-source: https://fixyourrevenueengine.com/insights/revenue-team-alignment.html
+source: https://fixyourrevenueengine.com/insights/revenue-team-alignment/
 ---
 
 # From Conflict to Collaboration: Aligning Revenue Teams
@@ -81,4 +81,4 @@ Three structural moves. One shared revenue target. One definition of a qualified
 
 Yes, in any business where expansion and retention drive a meaningful share of revenue. CS reporting to product or operations creates a structural disconnect between acquiring and keeping customers.
 
-[← All insights](https://fixyourrevenueengine.com/insights.html)
+[← All insights](https://fixyourrevenueengine.com/insights/)

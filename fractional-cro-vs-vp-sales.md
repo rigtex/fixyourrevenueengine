@@ -1,8 +1,8 @@
 ---
 title: "Fractional CRO vs VP Sales Hire: Which One Fixes Stalled Revenue?"
 description: "Honest comparison of a fractional CRO vs a VP Sales hire for founder-led or family-owned B2B firms. When a sales leader solves the problem, when the engine itself needs rebuilding, and the decision that protects 12 months of growth."
-url: https://fixyourrevenueengine.com/fractional-cro-vs-vp-sales.html
-source: https://fixyourrevenueengine.com/fractional-cro-vs-vp-sales.html
+url: https://fixyourrevenueengine.com/fractional-cro-vs-vp-sales/
+source: https://fixyourrevenueengine.com/fractional-cro-vs-vp-sales/
 ---
 
 # Fractional CRO vs VP Sales Hire: Which One Fixes Stalled Revenue?
