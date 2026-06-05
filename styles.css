@@ -585,13 +585,12 @@ section.alt { background: var(--off-white); }
 }
 .compare-card .compare-vs {
   display: block;
-  font-family: Helvetica, Arial, sans-serif;
-  font-size: 0.78rem;
+  font-family: 'Italiana', Georgia, serif;
+  font-size: 0.95rem;
   color: var(--mid-blue);
-  letter-spacing: 2.5px;
-  text-transform: uppercase;
-  margin-bottom: 12px;
-  font-weight: 600;
+  letter-spacing: 0.5px;
+  margin-bottom: 10px;
+  font-weight: 400;
 }
 .compare-card h3 {
   font-family: 'Playfair Display', Georgia, serif;
@@ -631,11 +630,10 @@ section.alt { background: var(--off-white); }
   margin: 0 auto;
 }
 .compare-teaser-inner .eyebrow {
-  font-family: Helvetica, Arial, sans-serif;
-  color: var(--light-blue);
-  font-size: 0.8rem;
-  letter-spacing: 3px;
-  text-transform: uppercase;
+  font-family: 'Italiana', Georgia, serif;
+  color: var(--mid-blue);
+  font-size: 0.95rem;
+  letter-spacing: 0.5px;
   display: block;
   margin-bottom: 6px;
 }
