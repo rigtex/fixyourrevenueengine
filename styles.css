@@ -586,7 +586,7 @@ section.alt { background: var(--off-white); }
 .compare-card .compare-vs {
   display: block;
   font-family: 'Italiana', Georgia, serif;
-  font-size: 1.15rem;
+  font-size: 1.35rem;
   color: var(--dark-blue);
   letter-spacing: 0.5px;
   margin-bottom: 10px;
@@ -632,7 +632,7 @@ section.alt { background: var(--off-white); }
 .compare-teaser-inner .eyebrow {
   font-family: 'Italiana', Georgia, serif;
   color: var(--dark-blue);
-  font-size: 1.15rem;
+  font-size: 1.35rem;
   letter-spacing: 0.5px;
   display: block;
   margin-bottom: 6px;
