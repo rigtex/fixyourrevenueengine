@@ -353,4 +353,63 @@
         Substack
       </a>
 
-      <a href="https://medium.com/@rigtex.inc" target="_blank" rel="noopener" style="display:inline-flex; align-items:center; gap:7px; text-decoration:none; color:var(--mid-blue); fon
+      <a href="https://medium.com/@rigtex.inc" target="_blank" rel="noopener" style="display:inline-flex; align-items:center; gap:7px; text-decoration:none; color:var(--mid-blue); font-size:0.92rem;">
+        <svg width="16" height="16" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><circle cx="7" cy="12" r="5"/><ellipse cx="16.5" cy="12" rx="2.5" ry="4.7"/><ellipse cx="21.5" cy="12" rx="1" ry="4.2"/></svg>
+        Medium
+      </a>
+    </div>
+  </div>
+</aside>
+<!-- ===== /Cross-promo ===== -->
+
+</main>
+
+<footer class="site-footer">
+  <div class="container">
+    <div class="footer-grid">
+      <div>
+        <a href="/" class="nav-logo">Revved for Growth<span class="dot" style="color:var(--light-blue);">.</span></a>
+        <p>Embedded revenue engine transformation for founder-led or family-owned B2B firms going from stalled to scalable.</p>
+      </div>
+      <div>
+        <h4>Explore</h4>
+        <ul>
+          <li><a href="/">Home</a></li>
+          <li><a href="/insights/">Insights</a></li>
+          <li><a href="/about/#compare">Compare</a></li>
+          <li><a href="/#proof">Work</a></li>
+          <li><a href="/about/">About</a></li>
+          <li><a href="/contact/">Let's Meet</a></li>
+        </ul>
+      </div>
+      <div>
+        <h4>Connect</h4>
+        <ul>
+          <li><a href="https://cal.com/jrigolli/meeting" target="_blank" rel="noopener">Schedule</a></li>
+          <li><a href="https://www.linkedin.com/in/jasonrigolli/" target="_blank" rel="noopener">LinkedIn</a></li>
+        </ul>
+      </div>
+    </div>
+    <div class="footer-bottom">
+      <span>© <span id="yr">2026</span> Revved for Growth. All rights reserved.</span>
+      <span>From Stalled to Scalable Revenue.</span>
+    </div>
+  </div>
+</footer>
+<script>document.getElementById('yr').textContent = new Date().getFullYear();</script>
+<script>
+(function(){
+  document.querySelectorAll('article.post').forEach(card => {
+    const link = card.querySelector('h3 a');
+    if (!link) return;
+    card.classList.add('clickable');
+    card.style.cursor = 'pointer';
+    card.addEventListener('click', e => {
+      if (e.target.closest('a')) return;
+      link.click();
+    });
+  });
+})();
+</script>
+</body>
+</html>
