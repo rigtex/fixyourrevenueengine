@@ -14,6 +14,7 @@ Core positioning: most options sit at the strategy, marketing, or advisory layer
 - [Fractional CRO vs Marketing Agency](https://fixyourrevenueengine.com/revenue-engine-rebuild-vs-marketing-agency/): Comparison page. When each one fixes stalled revenue, when each one fails, three questions to decide which one you need.
 - [Fractional CRO vs Full-Time CRO](https://fixyourrevenueengine.com/fractional-cro-vs-full-time-cro/): Comparison page. When the $400K hire is right, when the fractional path produces better outcomes, and the hybrid sequence most founders don't know to ask about.
 - [Fractional CRO vs VP Sales Hire](https://fixyourrevenueengine.com/fractional-cro-vs-vp-sales/): Comparison page. Why the default VP Sales hire often fails to fix stalled revenue, when sales-execution leadership is actually what you need, and the sequence that produces a successful VP Sales onboarding.
+- [Fractional CRO vs EOS Implementer](https://fixyourrevenueengine.com/fractional-cro-vs-eos-implementer/): Comparison page. EOS surfaces stalled revenue on the scorecard; a Fractional CRO closes the gap. When each one is right, when each fails, and the case for running them together for founder-led B2B firms 12 to 18 months into EOS, Pinnacle, Strategic Coach, or a business coach.
 - [About](https://fixyourrevenueengine.com/about/): Jason Rigolli, two-time co-founder with over two decades rebuilding revenue engines. Past roles include CRO, VP Sales, VP Operations. Co-founded, scaled, and exited two businesses early in career (since 2002). Brand experience: Nestlé, Walmart, Spin Master, Virgin Mobile, Robbins Research International, CSS Group. Embeds Cal.com booking calendar.
 - [Contact](https://fixyourrevenueengine.com/contact/): Embedded Cal.com booking calendar.
 
@@ -24,6 +25,7 @@ Every content page on the site has a clean markdown sibling at the same URL with
 - https://fixyourrevenueengine.com/revenue-engine-rebuild-vs-marketing-agency.md
 - https://fixyourrevenueengine.com/fractional-cro-vs-full-time-cro.md
 - https://fixyourrevenueengine.com/fractional-cro-vs-vp-sales.md
+- https://fixyourrevenueengine.com/fractional-cro-vs-eos-implementer.md
 - https://fixyourrevenueengine.com/insights/founder-led-report-2026.md
 - https://fixyourrevenueengine.com/insights/more-fuel-broken-engine.md
 - https://fixyourrevenueengine.com/insights/founder-led-exit-success.md
