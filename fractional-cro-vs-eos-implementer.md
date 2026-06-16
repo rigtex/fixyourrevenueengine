@@ -13,7 +13,7 @@ source: https://fixyourrevenueengine.com/fractional-cro-vs-eos-implementer/
 
 Every founder of a $5M to $50M B2B firm running EOS eventually arrives at the same conversation. The rocks are firing. The Level 10 Meetings hold. The accountability chart is real. And the revenue line on the scorecard goes red every quarter, and nobody on the leadership team can name the same three reasons why. That's the Fractional CRO vs EOS Implementer question, and the honest answer is they solve different problems.
 
-Over 150,000 companies now run EOS or a close variant ([EOS Worldwide](https://www.eosworldwide.com/)). That makes it the default operating system in the founder-led mid-market. It also makes the gap between operating-system discipline and revenue-engine ownership the most common stall pattern this category sees. The reader of this page is usually 12 to 18 months into running EOS, watching the system work, and wondering why revenue still isn't.
+Over 150,000 companies now run EOS or a close variant (EOS Worldwide). That makes it the default operating system in the founder-led mid-market. It also makes the gap between operating-system discipline and revenue-engine ownership the most common stall pattern this category sees. The reader of this page is usually 12 to 18 months into running EOS, watching the system work, and wondering why revenue still isn't.
 
 This page is the honest read on which role solves which problem, when each one fails, and how to know which one your business actually needs next.
 
@@ -38,7 +38,7 @@ A good Implementer walks a leadership team through Vision/Traction sessions that
 
 The Level 10 Meeting cadence is the other half. Weekly, scored, focused on the IDS loop (identify, discuss, solve). It forces the leadership team to actually meet, actually decide, and actually close the loop on what came up last week. The scorecard discipline that goes with it (5 to 15 weekly numbers) surfaces problems before they become quarterly disasters. The team learns to look at the number first and the story second.
 
-And the Implementer is built to leave. By 18 to 24 months, the leadership team runs EOS without them in the room ([EOS Worldwide Implementer](https://implementer.eosworldwide.com/implementer-post/the-difference-between-an-eos-implementer-and-business-coach/)). That productized exit is rare among advisors and worth taking seriously.
+And the Implementer is built to leave. By 18 to 24 months, the leadership team runs EOS without them in the room (EOS Worldwide Implementer). That productized exit is rare among advisors and worth taking seriously.
 
 All of that is genuinely valuable. None of it is revenue-engine work.
 
@@ -54,7 +54,7 @@ The Fractional CRO's value shows up in places EOS surfaces but does not fix:
 - The compensation plan that's quietly rewarding the wrong behavior.
 - The forecasting discipline that determines whether you can plan, or whether you're guessing.
 
-EOS makes those gaps visible on the scorecard. Closing them is a different job ([Sales Advisors of Florida](https://salesadvisorsfl.com/eos-for-sustainable-revenue-growth/)). Across $5M to $12M B2B firms, that work has produced 41% to 75% higher conversion rates and 44% to 57% better operational efficiency.
+EOS makes those gaps visible on the scorecard. Closing them is a different job (Sales Advisors of Florida). Across $5M to $12M B2B firms, that work has produced 41% to 75% higher conversion rates and 44% to 57% better operational efficiency.
 
 ## The three questions that tell you which one you need
 
@@ -70,7 +70,7 @@ If they can, your engine has shared visibility and EOS is doing what it's suppos
 
 ### Three. If your Integrator left tomorrow, would revenue still be inconsistent?
 
-If yes, the issue isn't the Integrator and it isn't the EOS cadence. The revenue engine itself is broken, and layering more EOS discipline on top of a broken engine just buys more expensive scorecards. An operating system is not a strategy ([Strety](https://strety.com/blog/eos-entrepreneurial-operating-system-guide/)); it helps you run the machine you have, not redesign the machine itself.
+If yes, the issue isn't the Integrator and it isn't the EOS cadence. The revenue engine itself is broken, and layering more EOS discipline on top of a broken engine just buys more expensive scorecards. An operating system is not a strategy (Strety); it helps you run the machine you have, not redesign the machine itself.
 
 ## The case for running them together
 
@@ -86,7 +86,7 @@ For founder-led or family-owned B2B firms in the $5M to $15M range, the pattern 
 
 The founder engages a Fractional CRO for a six to nine month engagement. The CRO sits in the Level 10, owns the revenue scorecard line, and diagnoses the engine. Within 90 days, MQL-to-SQL conversion stabilizes, the qualification call has shared dealbreakers, and the hand-off to customer success has an explicit owner. Within six months, the revenue line on the scorecard goes from red to green and stays there. The founder finally has visibility and control, not just one or the other. After: the CRO either steps back to advisory cadence or hands off to a full-time hire the engagement helped scope and recruit.
 
-That sequence avoids the two most expensive failures: doubling down on EOS sessions hoping they'll fix a revenue engine they were never designed to own; or hiring a full-time CRO at $400K+ for a problem that needs six to nine months of intensive rebuild and then a steady-state cadence someone less senior can run ([Prospeo](https://prospeo.io/s/when-to-hire-a-cro)). The [Fractional CRO vs full-time CRO](https://fixyourrevenueengine.com/fractional-cro-vs-full-time-cro/) page covers when the full-time hire is the right call.
+That sequence avoids the two most expensive failures: doubling down on EOS sessions hoping they'll fix a revenue engine they were never designed to own; or hiring a full-time CRO at $400K+ for a problem that needs six to nine months of intensive rebuild and then a steady-state cadence someone less senior can run (Prospeo). The [Fractional CRO vs full-time CRO](https://fixyourrevenueengine.com/fractional-cro-vs-full-time-cro/) page covers when the full-time hire is the right call.
 
 If your scorecard is going red on revenue and the rocks are firing on time, [send me a note](https://fixyourrevenueengine.com/contact/). First conversation is usually about a question you already half-know the answer to.
 
@@ -98,7 +98,7 @@ An EOS Implementer installs and operates the company's operating system: vision,
 
 **Can EOS fix stalled revenue on its own?**
 
-EOS surfaces stalled revenue quickly, which is half the value. It doesn't fill the gap. EOS is an operating system, not a sales strategy ([Strety](https://strety.com/blog/eos-entrepreneurial-operating-system-guide/)). If the revenue line is the recurring red on the scorecard quarter after quarter, the engine needs work, not more rocks. The team can execute the cadence perfectly and still miss the number if the underlying revenue system has structural problems.
+EOS surfaces stalled revenue quickly, which is half the value. It doesn't fill the gap. EOS is an operating system, not a sales strategy (Strety). If the revenue line is the recurring red on the scorecard quarter after quarter, the engine needs work, not more rocks. The team can execute the cadence perfectly and still miss the number if the underlying revenue system has structural problems.
 
 **Do I need a Fractional CRO if I already run EOS?**
 
@@ -106,8 +106,9 @@ Only if revenue is stalled or inconsistent. If your company is hitting rocks on 
 
 **How much does an EOS Implementer cost vs a Fractional CRO?**
 
-A Certified EOS Implementer typically runs $15K to $50K annually for sessions ([World Consulting Group](https://www.worldconsultinggroup.com/eos-vs-scaling-up-vs-vwcg-os-which-business-operating-system-is-right-for-your-company-in-2025/)). A Fractional CRO runs $12K to $30K per month while embedded in the business. The CRO is more expensive per month because the scope is wider and the embed is deeper. Comparing them on monthly cost alone misses what each is buying. The Implementer is a session-based engagement; the CRO is an operational role with revenue accountability.
+A Certified EOS Implementer typically runs $15K to $50K annually for sessions (World Consulting Group). A Fractional CRO runs $12K to $30K per month while embedded in the business. The CRO is more expensive per month because the scope is wider and the embed is deeper. Comparing them on monthly cost alone misses what each is buying. The Implementer is a session-based engagement; the CRO is an operational role with revenue accountability.
 
 **What does an EOS Implementer not cover?**
 
 The mechanics of the revenue engine. EOS doesn't design qualification frameworks, set compensation plans, build pipeline-stage definitions, fix MQL-to-SQL conversion, or own customer success hand-offs. Those live outside the operating system, which is by design. The Implementer's job is the operating system itself, not the revenue function inside it. When founders try to make an Implementer do revenue-engine work, both jobs suffer.
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            
