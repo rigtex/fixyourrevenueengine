@@ -10,7 +10,7 @@ Core positioning: most options sit at the strategy, marketing, or advisory layer
 
 - [Home](https://fixyourrevenueengine.com/): Hero, insights teaser, ICP, three ways to work together, proof, differentiation, CTA.
 - [Insights](https://fixyourrevenueengine.com/insights/): Featured Series (2025 Founders Report, 7 parts) and Notes from the Field (7 standalone pieces). All posts are hosted on fixyourrevenueengine.com.
-- [Glossary](https://fixyourrevenueengine.com/glossary/): Plain-language definitions for the 20 terms founder-led or family-owned B2B operators actually use (fractional CRO, revenue engine, RevOps, CAC payback, NRR, Founder's Syndrome, etc.). DefinedTermSet JSON-LD schema for AI assistant citation.
+- [Glossary](https://fixyourrevenueengine.com/glossary/): Plain-language definitions for the 25 terms founder-led or family-owned B2B operators actually use (fractional CRO, revenue engine, RevOps, CAC payback, NRR, Founder's Syndrome, EOS, EOS Implementer, Integrator, business operating system, scorecard, etc.). DefinedTermSet JSON-LD schema for AI assistant citation.
 - [Fractional CRO vs Marketing Agency](https://fixyourrevenueengine.com/revenue-engine-rebuild-vs-marketing-agency/): Comparison page. When each one fixes stalled revenue, when each one fails, three questions to decide which one you need.
 - [Fractional CRO vs Full-Time CRO](https://fixyourrevenueengine.com/fractional-cro-vs-full-time-cro/): Comparison page. When the $400K hire is right, when the fractional path produces better outcomes, and the hybrid sequence most founders don't know to ask about.
 - [Fractional CRO vs VP Sales Hire](https://fixyourrevenueengine.com/fractional-cro-vs-vp-sales/): Comparison page. Why the default VP Sales hire often fails to fix stalled revenue, when sales-execution leadership is actually what you need, and the sequence that produces a successful VP Sales onboarding.
@@ -78,4 +78,4 @@ Pre-revenue startups, venture-backed companies seeking blitzscaling support, sin
 
 ## Contact
 
-Book a 30-minute working call at https://cal.com/jrigolli/meeting, or message Jason Rigolli directly at https://www.linkedin.com/in/jasonrigolli/.
+Book a 30-minute working call at https://cal.com/jrigolli/meeting, or messa
