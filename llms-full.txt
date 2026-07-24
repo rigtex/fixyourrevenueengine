@@ -55,13 +55,13 @@ ICP criteria:
 
 ## Insights index, https://fixyourrevenueengine.com/insights/
 
-Three sections: Field Reports (longer-form deep dives including the 2026 Founders Report flagship), Notes from the Field (7 standalone pieces), and Featured Series (the 2025 Founders Report, 7 parts, the foundation).
+Three sections: Field Reports (longer-form deep dives including the 2026 Founders Report flagship), Notes from the Field (9 standalone pieces), and Featured Series (the 2025 Founders Report, 7 parts, the foundation).
 
 ---
 
 ## Published posts
 
-Author of all posts: Jason Rigolli. The 2026 Founders Report and "More fuel in a broken engine" are original to fixyourrevenueengine.com. The 2025 Founders Report series and the six earlier field notes were originally published at mahdlo.net and live at fixyourrevenueengine.com/insights/[slug].html with canonical tags pointing to the original Mahdlo URL.
+Author of all posts: Jason Rigolli. The 2026 Founders Report, "More fuel in a broken engine", "The business that runs without you", and "Count the deal-breakers" are original to fixyourrevenueengine.com. The 2025 Founders Report series and the six earlier field notes were originally published at mahdlo.net and live at fixyourrevenueengine.com/insights/[slug].html with canonical tags pointing to the original Mahdlo URL.
 
 ### Field Report: The 2026 Founders Report, Harder Money, Better Tools, Smaller Teams
 - URL: https://fixyourrevenueengine.com/insights/founder-led-report-2026/
@@ -78,6 +78,24 @@ Author of all posts: Jason Rigolli. The 2026 Founders Report and "More fuel in a
   2. Deploy AI where it moves revenue (forecasting, deal scoring, deal review prep, AE research automation), not where it produces deck-quality demos.
   3. Build operating tempo (weekly pipeline review, monthly conversion and cycle analysis, quarterly segment re-evaluation) that lets a smaller team produce predictable output without the founder in every meeting.
 - Quotable line: "The 2025 thesis held. The runway to act on it got shorter."
+
+### Field note: Count the deal-breakers
+- URL: https://fixyourrevenueengine.com/insights/count-the-deal-breakers/
+- First published: July 22, 2026 · 4 min read
+- Canonical: self (original to this site)
+- Format: thought leadership
+- Thesis: If your team can't recite the three deal-breakers in your qualification call, the problem isn't sales talent; it's that your ICP never left the slide deck, so every rep you hire inherits a filter that doesn't exist.
+- Summary: A founder about to hire his third sales lead in two years names two deal-breakers, one of them a wish; his VP Sales names a different two. Four people in an org naming four different deal-breakers means the ICP is aspirational, living in a positioning deck instead of in the qualification call. Hiring a better rep only rents the filter, because instinct leaves when the rep does; naming the deal-breakers and writing them into the qualification call, deal review, and a separate weekly pipeline meeting is how the org owns it. The deal-breaker count is the first reading taken in a Revenue Engine Inspection because it predicts what the rest of the inspection finds. The count doesn't fix the engine; it tells you whether you have one.
+- Quotable line: "An ICP nobody can recite isn't a profile; it's a wish."
+
+### Field note: The business that runs without you
+- URL: https://fixyourrevenueengine.com/insights/business-runs-without-you/
+- First published: June 11, 2026 · 4 min read
+- Canonical: self (original to this site)
+- Format: thought leadership
+- Thesis: Founder-led $5M to $15M businesses run on the founder's pattern recognition; some of that Founder Magic is inherent and stays with them, but most can be captured into a revenue engine so the business doesn't need them on every call. The work isn't delegation, it's capture.
+- Summary: The conversation with founders who can't take ten unreachable days off. Founder Magic (which discounts get greenlit, which prospects never close, the pricing exceptions, the qualification dealbreakers, the relationships only they hold) is unwritten pattern recognition. Some of it can be written into rules and captured at specific engine touchpoints (the qualification call, the pricing decision, the stalled deal, the renewal); some stays with the founder because it has to. The work is figuring out which is which, then capturing as much as can be captured so the business doesn't need the founder on every call.
+- Quotable line: "You're not running the business. You are the business."
 
 ### Field note: More fuel in a broken engine
 - URL: https://fixyourrevenueengine.com/insights/more-fuel-broken-engine/
@@ -193,6 +211,14 @@ Author of all posts: Jason Rigolli. The 2026 Founders Report and "More fuel in a
 - When VP Sales fails: marketing isn't producing qualified leads in adequate volume, segment fit is wrong, onboarding leaks customers before value lands, or the founder won't actually delegate sales leadership.
 - Pricing (US/Canada B2B, 2026): VP Sales $180K-$280K base, $300K-$500K OTE; fractional CRO $12K-$30K/month.
 - The sequence that produces a successful VP Sales onboarding: fix the upstream and downstream system first (lead quality, qualification, onboarding, expansion), then hire a VP Sales into a working system instead of asking them to build it.
+
+### Fractional CRO vs EOS Implementer
+- URL: https://fixyourrevenueengine.com/fractional-cro-vs-eos-implementer/
+- TL;DR: An EOS Implementer installs and runs the operating system. A Fractional CRO designs and runs the revenue engine inside that system. If your rocks fire on time and your scorecard stays green except on the revenue line, an Implementer can't fix that; that's CRO work. The two roles compound, they don't replace each other.
+- When each helps most: EOS Implementer when leadership is misaligned with no shared cadence or measurable rocks; Fractional CRO when EOS is running cleanly but revenue is stalled and the engine, not the cadence, is the problem.
+- When each fails: Implementer fails when leadership won't commit, or when hired hoping to fix revenue specifically; Fractional CRO fails when EOS is running and revenue is already healthy, with no engine to redesign.
+- Pricing (US/Canada B2B, 2026): EOS Implementer $15K-$50K annually (quarterly sessions plus an annual two-day plan); fractional CRO $12K-$30K per month, 2 to 3 days a week, retained.
+- The case for running them together: the reader is usually 12 to 18 months into EOS, watching the operating system work while revenue stays red. EOS surfaces stalled revenue on the scorecard; the Fractional CRO closes the gap. Three questions to decide which one you need next: is the scorecard going red on revenue every quarter despite the team executing rocks, can two leaders name the same three reasons deals stall in the last 30 days of the cycle, and is the gap in the operating cadence or in the revenue engine itself.
 
 ---
 
