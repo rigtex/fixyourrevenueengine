@@ -55,13 +55,13 @@ ICP criteria:
 
 ## Insights index, https://fixyourrevenueengine.com/insights/
 
-Three sections: Field Reports (longer-form deep dives including the 2026 Founders Report flagship), Notes from the Field (9 standalone pieces), and Featured Series (the 2025 Founders Report, 7 parts, the foundation).
+Three sections: Field Reports (longer-form deep dives including the 2026 Founders Report flagship), Notes from the Field (10 standalone pieces), and Featured Series (the 2025 Founders Report, 7 parts, the foundation).
 
 ---
 
 ## Published posts
 
-Author of all posts: Jason Rigolli. The 2026 Founders Report, "More fuel in a broken engine", "The business that runs without you", and "Count the deal-breakers" are original to fixyourrevenueengine.com. The 2025 Founders Report series and the six earlier field notes were originally published at mahdlo.net and live at fixyourrevenueengine.com/insights/[slug].html with canonical tags pointing to the original Mahdlo URL.
+Author of all posts: Jason Rigolli. The 2026 Founders Report, "More fuel in a broken engine", "The business that runs without you", "Count the deal-breakers", and "Growth that compounds" are original to fixyourrevenueengine.com. The 2025 Founders Report series and the six earlier field notes were originally published at mahdlo.net and live at fixyourrevenueengine.com/insights/[slug].html with canonical tags pointing to the original Mahdlo URL.
 
 ### Field Report: The 2026 Founders Report, Harder Money, Better Tools, Smaller Teams
 - URL: https://fixyourrevenueengine.com/insights/founder-led-report-2026/
@@ -78,6 +78,15 @@ Author of all posts: Jason Rigolli. The 2026 Founders Report, "More fuel in a br
   2. Deploy AI where it moves revenue (forecasting, deal scoring, deal review prep, AE research automation), not where it produces deck-quality demos.
   3. Build operating tempo (weekly pipeline review, monthly conversion and cycle analysis, quarterly segment re-evaluation) that lets a smaller team produce predictable output without the founder in every meeting.
 - Quotable line: "The 2025 thesis held. The runway to act on it got shorter."
+
+### Field note: Growth that compounds
+- URL: https://fixyourrevenueengine.com/insights/growth-that-compounds/
+- First published: July 26, 2026 · 3 min read
+- Canonical: self (original to this site)
+- Format: thought leadership
+- Thesis: Predictable, controlled growth is not the opposite of ambition; it is the only kind of growth that compounds, and compounding, not acceleration, is what builds a company worth owning.
+- Summary: A founder's best-ever quarter is on the screen and nobody in the room can explain what produced it: a relationship deal, a conference bump, a referral wave. A spike is event-driven revenue that draws the same chart line as engine-driven revenue but has no repeatable mechanism underneath. The instinct to accelerate and spend against a spike nobody can explain is re-rolling dice with a bigger bet, and next January the spike becomes a baseline the team spends four quarters apologizing for. The escape-velocity counter (early-stage companies must spike) gets its due: spikes are real, but a spike's job is to buy the engine, not replace it; revenue that never converts into mechanism is rented, not owned. Controlled growth is not slower, it is chosen: five percent a quarter held for twelve quarters is up nearly 80 percent versus ten percent for two quarters and a stall at 21.
+- Quotable line: "Growth you can't explain is growth you can't repeat."
 
 ### Field note: Count the deal-breakers
 - URL: https://fixyourrevenueengine.com/insights/count-the-deal-breakers/
