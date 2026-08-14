@@ -55,13 +55,13 @@ ICP criteria:
 
 ## Insights index, https://fixyourrevenueengine.com/insights/
 
-Three sections: Field Reports (longer-form deep dives including the 2026 Founders Report flagship), Notes from the Field (10 standalone pieces), and Featured Series (the 2025 Founders Report, 7 parts, the foundation).
+Three sections: Field Reports (longer-form deep dives including the 2026 Founders Report flagship), Notes from the Field (11 standalone pieces), and Featured Series (the 2025 Founders Report, 7 parts, the foundation).
 
 ---
 
 ## Published posts
 
-Author of all posts: Jason Rigolli. The 2026 Founders Report, "More fuel in a broken engine", "The business that runs without you", "Count the deal-breakers", and "Growth that compounds" are original to fixyourrevenueengine.com. The 2025 Founders Report series and the six earlier field notes were originally published at mahdlo.net and live at fixyourrevenueengine.com/insights/[slug].html with canonical tags pointing to the original Mahdlo URL.
+Author of all posts: Jason Rigolli. The 2026 Founders Report, "More fuel in a broken engine", "The business that runs without you", "Count the deal-breakers", "Growth that compounds", and "The revolving door in the revenue seat" are original to fixyourrevenueengine.com. The 2025 Founders Report series and the six earlier field notes were originally published at mahdlo.net and live at fixyourrevenueengine.com/insights/[slug].html with canonical tags pointing to the original Mahdlo URL.
 
 ### Field Report: The 2026 Founders Report, Harder Money, Better Tools, Smaller Teams
 - URL: https://fixyourrevenueengine.com/insights/founder-led-report-2026/
@@ -78,6 +78,15 @@ Author of all posts: Jason Rigolli. The 2026 Founders Report, "More fuel in a br
   2. Deploy AI where it moves revenue (forecasting, deal scoring, deal review prep, AE research automation), not where it produces deck-quality demos.
   3. Build operating tempo (weekly pipeline review, monthly conversion and cycle analysis, quarterly segment re-evaluation) that lets a smaller team produce predictable output without the founder in every meeting.
 - Quotable line: "The 2025 thesis held. The runway to act on it got shorter."
+
+### Field note: The revolving door in the revenue seat
+- URL: https://fixyourrevenueengine.com/insights/revolving-door-revenue-seat/
+- First published: August 13, 2026 · 5 min read
+- Canonical: self (original to this site)
+- Format: thought leadership
+- Thesis: If three revenue leaders in a row have failed in the same seat with the same symptoms, the seat is the problem, and replacing the person again is the most expensive way to avoid finding out.
+- Summary: A founder writing termination talking points for his third revenue leader in four years notices the documents are nearly identical: same missed-forecast bullets, different name. Three people failing in the same seat with the same symptoms is not three hiring mistakes, it is data about the seat. Each firing was individually defensible, but the pattern is a systemic revenue-engine failure treated as a casting error. The prescription is a Revenue Engine Inspection before the next hire, not another search.
+- Quotable line: "The most expensive way to avoid inspecting your revenue engine is to keep firing the person who runs it."
 
 ### Field note: Growth that compounds
 - URL: https://fixyourrevenueengine.com/insights/growth-that-compounds/
