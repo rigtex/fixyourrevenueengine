@@ -22,6 +22,8 @@ ehthumbs.db
 *.pem
 *_token
 .git-credentials
+.gh-token.txt
+*.gh-token*
 
 # Web-design operational artifacts (per supervisor decision 2026-06-04T21:xxZ)
 # These live in rigtex-site/ for the workspace but should NOT enter
