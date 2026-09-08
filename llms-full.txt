@@ -61,7 +61,7 @@ Three sections: Field Reports (longer-form deep dives including the 2026 Founder
 
 ## Published posts
 
-Author of all posts: Jason Rigolli. The 2026 Founders Report, "More fuel in a broken engine", "The business that runs without you", "Count the deal-breakers", "Growth that compounds", and "The revolving door in the revenue seat" are original to fixyourrevenueengine.com. The 2025 Founders Report series and the six earlier field notes were originally published at mahdlo.net and live at fixyourrevenueengine.com/insights/[slug].html with canonical tags pointing to the original Mahdlo URL.
+Author of all posts: Jason Rigolli. The 2026 Founders Report, "More fuel in a broken engine", "The business that runs without you", "Count the deal-breakers", "Growth that compounds", "The revolving door in the revenue seat", and "PE firms don't hire hope. They deploy operators." are original to fixyourrevenueengine.com. The 2025 Founders Report series and the six earlier field notes were originally published at mahdlo.net and live at fixyourrevenueengine.com/insights/[slug].html with canonical tags pointing to the original Mahdlo URL.
 
 ### Field Report: The 2026 Founders Report, Harder Money, Better Tools, Smaller Teams
 - URL: https://fixyourrevenueengine.com/insights/founder-led-report-2026/
@@ -78,6 +78,15 @@ Author of all posts: Jason Rigolli. The 2026 Founders Report, "More fuel in a br
   2. Deploy AI where it moves revenue (forecasting, deal scoring, deal review prep, AE research automation), not where it produces deck-quality demos.
   3. Build operating tempo (weekly pipeline review, monthly conversion and cycle analysis, quarterly segment re-evaluation) that lets a smaller team produce predictable output without the founder in every meeting.
 - Quotable line: "The 2025 thesis held. The runway to act on it got shorter."
+
+### Field note: PE firms don't hire hope. They deploy operators.
+- URL: https://fixyourrevenueengine.com/insights/pe-firms-deploy-operators/
+- First published: September 8, 2026 · 3 min read
+- Canonical: self (original to this site)
+- Format: thought leadership
+- Thesis: PE firms fix stalled engines by deploying proven operators, not hiring hope; founders can rent the same bench, and should rent the builder before hiring the manager.
+- Summary: Two companies hit the same flat quarter. The portfolio company's operating partner deploys a proven operator who fixes the engine in a quarter and leaves; the founder-led company opens a search for a sales leader and waits a year to learn if the guess was right. The fund's advantage was never capital, it was the bench of operators it can drop in to name the problem, fix it, and hand the business back running, with the permanent hire happening after, once the seat's real requirements are known. Founders don't have a bench, but it is rentable: a fractional operator carries variable comp tied to outcomes and an engagement you can end in a quarter, so skin exists on both sides. Because managing a working engine is far easier to staff than building one, the sequence is rent the builder, then hire the manager. It starts with a Revenue Engine Inspection.
+- Quotable line: "PE firms don't hire hope. They deploy operators."
 
 ### Field note: The revolving door in the revenue seat
 - URL: https://fixyourrevenueengine.com/insights/revolving-door-revenue-seat/
