@@ -28,4 +28,4 @@ What does deploying look like at founder scale? An operator embedded in your bus
 
 It starts with a diagnostic. Mine is called the Revenue Engine Inspection... a structured look under the hood that tells you what the engine actually needs before you spend another dollar on headcount, agencies, or hope.
 
-The fund makes one call. So can you: [/contact/](https://fixyourrevenueengine.com/contact/)
+The fund makes one call. [So can you](https://fixyourrevenueengine.com/contact/).
