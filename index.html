@@ -235,17 +235,15 @@
 <section class="hero hero-split" aria-labelledby="hero-h">
  <div class="container hero-inner">
  <div class="hero-text">
- <span class="eyebrow" style="color:#cfe9ff;">For founder-led or family-owned B2B firms</span>
- <h1 id="hero-h">Revved <em>for</em> Growth.</h1>
+ <h1 id="hero-h">I fix the reason your company isn't hitting its number.</h1>
  <p class="lede">
- Founder-led or family-owned firms don't stall because the team isn't
- trying. They stall because nobody owns how the revenue engine actually
- produces revenue. We step inside the business, find where the engine
- is breaking, and rebuild how growth gets created.
+ Growth stalled, or the target was never realistic. Either way you're
+ missing the number, and I parachute in to fix that.
  </p>
+ <p class="hero-support" style="font-size:1rem;opacity:0.85;margin-top:-6px;">Fractional CRO for founder-led, family-owned, and PE-backed B2B companies, roughly $2M to $15M in revenue.</p>
  <div class="hero-ctas">
  <a class="btn btn-primary" href="/contact/">Book a working call</a>
- <a class="btn btn-light" href="#approach">See How We Work</a>
+ <a class="btn btn-light" href="#signs">See the 6 signs</a>
  </div>
  </div>
  <aside class="hero-stats" aria-label="Track record">
@@ -256,6 +254,68 @@
  </aside>
  </div>
 </section>
+
+<!-- ====================== SYMPTOMS ====================== -->
+<style>
+.symptom-card .post-tag{margin-bottom:10px;display:inline-block;}
+.symptom-card p{margin:0;font-size:1.1rem;font-weight:600;color:var(--dark-blue,#083058);line-height:1.4;}
+.symptoms-footer{text-align:center;max-width:780px;margin:36px auto 0;color:var(--dark-blue,#083058);font-weight:600;font-size:1.05rem;}
+.signs-form{max-width:760px;margin:0 auto;}
+.sign-item{display:flex;align-items:flex-start;gap:12px;padding:14px 2px;border-bottom:1px solid var(--border,#e5e9ef);font-size:1.06rem;cursor:pointer;color:var(--dark-blue,#083058);}
+.sign-item input{margin-top:4px;width:18px;height:18px;flex:none;cursor:pointer;}
+#signs-threshold{max-width:760px;margin:24px auto 0;text-align:center;font-weight:700;font-size:1.1rem;color:var(--dark-blue,#083058);padding:14px 18px;border-radius:6px;transition:background .2s,color .2s;}
+#signs-threshold.hit{background:#0d86e2;color:#fff;}
+</style>
+<section id="symptoms" aria-labelledby="symptoms-h">
+ <div class="container">
+ <div class="section-head">
+ <span class="eyebrow">The symptoms</span>
+ <h2 id="symptoms-h">Six ways the number goes missing.</h2>
+ <p>It looks like a sales problem. It usually isn't one. The same broken engine surfaces across marketing, sales, and customer success.</p>
+ </div>
+ <div class="grid-3">
+ <article class="card symptom-card"><span class="post-tag">Marketing</span><p>Leads that sales won't call.</p></article>
+ <article class="card symptom-card"><span class="post-tag">Marketing</span><p>A pipeline that only fills when the founder posts, speaks, or calls a friend.</p></article>
+ <article class="card symptom-card"><span class="post-tag">Sales</span><p>Deals that die after the proposal.</p></article>
+ <article class="card symptom-card"><span class="post-tag">Sales</span><p>A forecast nobody trusts.</p></article>
+ <article class="card symptom-card"><span class="post-tag">Customer Success</span><p>Accounts that quit growing after year one.</p></article>
+ <article class="card symptom-card"><span class="post-tag">Customer Success</span><p>Renewals that slip because nobody owned them.</p></article>
+ </div>
+ <p class="symptoms-footer">Different symptom, same engine. The founder in every deal is usually the thread through all of them.</p>
+ </div>
+</section>
+
+<!-- ====================== 6 SIGNS (self-scoring) ====================== -->
+<section class="alt" id="signs" aria-labelledby="signs-h">
+ <div class="container">
+ <div class="section-head">
+ <span class="eyebrow">Self-check</span>
+ <h2 id="signs-h">6 signs your revenue engine is the problem.</h2>
+ <p>Check the ones that sound like your business.</p>
+ </div>
+ <form class="signs-form" onsubmit="return false;">
+ <label class="sign-item"><input type="checkbox" class="sign-box"> <span>The number has missed two quarters running.</span></label>
+ <label class="sign-item"><input type="checkbox" class="sign-box"> <span>New pipeline shows up only when I do.</span></label>
+ <label class="sign-item"><input type="checkbox" class="sign-box"> <span>Nobody on the team can say where deals die.</span></label>
+ <label class="sign-item"><input type="checkbox" class="sign-box"> <span>The forecast gets argued about every month.</span></label>
+ <label class="sign-item"><input type="checkbox" class="sign-box"> <span>Our best accounts stopped growing after year one.</span></label>
+ <label class="sign-item"><input type="checkbox" class="sign-box"> <span>We've changed people, tactics, and tools, and the line hasn't moved.</span></label>
+ </form>
+ <p id="signs-threshold">Three or more? It's the engine, not the people.</p>
+ <div style="text-align:center;margin-top:30px;">
+ <a class="btn btn-primary" href="/contact/">Book a 30-minute working call</a>
+ </div>
+ </div>
+</section>
+<script>
+(function(){
+ var boxes=document.querySelectorAll('.sign-box');
+ var th=document.getElementById('signs-threshold');
+ if(!boxes.length||!th)return;
+ function upd(){var n=0;boxes.forEach(function(b){if(b.checked)n++;});th.classList.toggle('hit',n>=3);}
+ boxes.forEach(function(b){b.addEventListener('change',upd);});
+})();
+</script>
 
 <!-- ====================== INSIGHTS TEASER ====================== -->
 <section id="insights-teaser" aria-labelledby="ins-teaser-h">
@@ -307,7 +367,7 @@
  <div class="section-head">
  <span class="eyebrow">Three ways to work together</span>
  <h2 id="approach-h">Where is the revenue engine today?</h2>
- <p>Different stages of revenue maturity need different work. We operate across the full lifecycle, meeting the business where it actually is, not where a productized package wants it to be.</p>
+ <p>Different stages of revenue maturity need different work. I operate across the full lifecycle, meeting the business where it actually is, not where a productized package wants it to be.</p>
  </div>
 
  <div class="grid-3">
@@ -315,7 +375,7 @@
  <h3>Fix</h3>
  <p>
  For stalled $5M–$15M firms where marketing, sales, and customer
- success are misaligned and growth has flattened. We get inside the
+ success are misaligned and growth has flattened. I get inside the
  system, find where the engine is leaking revenue, and repair the
  structural gaps, so the curve bends back upward without another
  round of hiring and firing.
@@ -326,7 +386,7 @@
  <h3>Rebuild</h3>
  <p>
  For firms whose revenue engine has outgrown the design that got them
- here. We redesign how marketing, sales, and customer success produce
+ here. I redesign how marketing, sales, and customer success produce
  growth together, turning inconsistent performance into predictable,
  measurable, repeatable revenue that the founder can finally step back from.
  </p>
@@ -336,7 +396,7 @@
  <h3>Build</h3>
  <p>
  For earlier-stage firms that need structure, not experimentation
- chaos. We install the revenue engine from zero, messaging, motion,
+ chaos. I install the revenue engine from zero, messaging, motion,
  measurement, so the team has something real to execute against
  instead of inventing it on the fly.
  </p>
@@ -425,7 +485,7 @@
  <div class="grid-3">
  <article class="card">
  <h3>Operator, not advisor.</h3>
- <p>Strategy that never lands inside the business is just commentary. We work inside the engine.</p>
+ <p>Strategy that never lands inside the business is just commentary. I work inside the engine.</p>
  </article>
  <article class="card">
  <h3>System, not function.</h3>
@@ -433,7 +493,7 @@
  </article>
  <article class="card">
  <h3>Ownership, not influence.</h3>
- <p>Decks and dashboards don't fix revenue. We take responsibility for how growth gets produced.</p>
+ <p>Decks and dashboards don't fix revenue. I take responsibility for how growth gets produced.</p>
  </article>
  </div>
  </div>
