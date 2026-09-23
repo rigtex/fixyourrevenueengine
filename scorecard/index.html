@@ -4,24 +4,20 @@
 <meta charset="UTF-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <title>Revenue Engine Scorecard | Revved for Growth</title>
-<meta name="description" content="An eight-question self-assessment of your revenue engine across pipeline, planning, people, and performance. Get an honest read on whether the engine is the problem." />
+<meta name="description" content="An eight-question self-assessment of your revenue engine across pipeline, planning, people, and performance. An honest read on whether the engine is the problem." />
 <meta name="author" content="Jason Rigolli" />
 <meta name="robots" content="noindex,follow" />
 <link rel="canonical" href="https://fixyourrevenueengine.com/scorecard/" />
 
-<!-- LLM / AI discovery -->
-<link rel="alternate" type="text/markdown" href="https://fixyourrevenueengine.com/llms.txt" title="LLM-friendly summary (llms.txt)" />
-<link rel="alternate" type="text/markdown" href="https://fixyourrevenueengine.com/llms-full.txt" title="LLM-friendly full content (llms-full.txt)" />
-
 <meta property="og:type" content="website" />
 <meta property="og:title" content="The Revenue Engine Scorecard" />
-<meta property="og:description" content="Eight questions across pipeline, planning, people, and performance. An honest read on whether the engine is the problem." />
+<meta property="og:description" content="Eight statements across pipeline, planning, people, and performance. An honest read on whether the engine is the problem." />
 <meta property="og:url" content="https://fixyourrevenueengine.com/scorecard/" />
 <meta property="og:image" content="https://fixyourrevenueengine.com/assets/og/scorecard.png" />
 
 <meta name="twitter:card" content="summary_large_image" />
 <meta name="twitter:title" content="The Revenue Engine Scorecard" />
-<meta name="twitter:description" content="Eight questions. An honest read on whether the engine is the problem." />
+<meta name="twitter:description" content="Eight statements. An honest read on whether the engine is the problem." />
 <meta name="twitter:image" content="https://fixyourrevenueengine.com/assets/og/scorecard.png" />
 
 <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
@@ -79,9 +75,12 @@
 
 <style>
 .sc-wrap{max-width:760px;margin:0 auto;}
-.sc-meta{display:flex;gap:16px;flex-wrap:wrap;margin:24px 0 8px;}
-.sc-meta label{flex:1;min-width:200px;font-size:.95rem;color:var(--dark-blue,#083058);}
-.sc-meta input,.sc-meta select{display:block;width:100%;margin-top:6px;padding:10px 12px;border:1px solid var(--border,#e5e9ef);border-radius:6px;font-size:1rem;}
+.sc-meta{display:flex;gap:16px;flex-wrap:wrap;margin:8px 0;}
+.sc-field{flex:1;min-width:220px;font-size:.95rem;color:var(--dark-blue,#083058);}
+.sc-field input,.sc-field select{display:block;width:100%;margin-top:6px;padding:10px 12px;border:1px solid var(--border,#e5e9ef);border-radius:6px;font-size:1rem;box-sizing:border-box;}
+.sc-hp{position:absolute;left:-9999px;width:1px;height:1px;overflow:hidden;}
+.sc-note{font-size:.9rem;color:#5a6675;margin:6px 0 0;}
+.sc-rate-note{font-size:.9rem;color:#5a6675;margin:2px 0 8px;}
 .sc-lens{margin:34px 0 10px;padding-bottom:6px;border-bottom:2px solid var(--light-blue,#0d86e2);font-family:'Playfair Display',Georgia,serif;font-size:1.25rem;color:var(--dark-blue,#083058);}
 .sc-q{padding:16px 0;border-bottom:1px solid var(--border,#e5e9ef);}
 .sc-q p{margin:0 0 10px;font-size:1.06rem;font-weight:600;color:var(--dark-blue,#083058);}
@@ -89,7 +88,6 @@
 .sc-scale label{flex:1;min-width:64px;text-align:center;border:1px solid var(--border,#e5e9ef);border-radius:6px;padding:8px 4px;cursor:pointer;font-size:.82rem;line-height:1.2;color:#5a6675;transition:background .15s,color .15s,border-color .15s;}
 .sc-scale input{position:absolute;opacity:0;width:0;height:0;}
 .sc-scale label:hover{border-color:var(--light-blue,#0d86e2);}
-.sc-scale input:checked+span{}
 .sc-scale label.on{background:var(--light-blue,#0d86e2);color:#fff;border-color:var(--light-blue,#0d86e2);}
 .sc-num{display:block;font-size:1.15rem;font-weight:700;}
 .sc-actions{text-align:center;margin:32px 0 8px;}
@@ -107,9 +105,9 @@
 
 <section class="page-hero" aria-labelledby="sc-h">
  <div class="container">
- <span class="eyebrow" style="color:#cfe9ff;">Self-assessment</span>
+ <span class="eyebrow" style="color:#cfe9ff;">Free intake</span>
  <h1 id="sc-h">The Revenue Engine Scorecard.</h1>
- <p>Eight questions across the four parts of the engine: pipeline, planning, people, and performance. Answer honestly and I'll show you where the engine is strong and where it's leaking. Two minutes, no email required to see your score.</p>
+ <p>Eight statements across the four parts of the engine: pipeline, planning, people, and performance. Rate each one honestly and you'll see where the engine is strong and where it leaks. Two minutes.</p>
  <p style="margin-top:14px;font-size:1rem;opacity:0.9;">This is a free self-check, not the Revenue Engine Inspection itself. It's the intake that tells us whether I can help your company, and it means we spend the call focused on where your number is leaking, not pitching you.</p>
  </div>
 </section>
@@ -117,13 +115,18 @@
 <section aria-labelledby="sc-form-h">
  <div class="container">
  <div class="sc-wrap">
- <h2 id="sc-form-h" class="sr-only" style="position:absolute;left:-9999px;">Scorecard questions</h2>
+ <h2 id="sc-form-h" style="position:absolute;left:-9999px;">Revenue Engine Scorecard</h2>
 
+ <!-- Email gate: the questions load only after this -->
+ <div id="sc-gate">
  <div class="sc-meta">
- <label>First name (optional)
- <input type="text" id="sc-name" autocomplete="given-name" placeholder="Optional, used only if you email your result" />
+ <label class="sc-field">First name (optional)
+ <input type="text" id="sc-name" autocomplete="given-name" />
  </label>
- <label>Revenue band (optional)
+ <label class="sc-field">Work email
+ <input type="email" id="sc-email" autocomplete="email" required placeholder="you@company.com" />
+ </label>
+ <label class="sc-field">Revenue band (optional)
  <select id="sc-rev">
  <option value="">Select</option>
  <option>Under $2M</option>
@@ -134,31 +137,27 @@
  </select>
  </label>
  </div>
- <p style="font-size:.9rem;color:#5a6675;margin:2px 0 8px;">Rate each statement from 1 (never true) to 5 (always true).</p>
+ <div class="sc-hp"><label>Leave this blank<input type="text" id="sc-website" tabindex="-1" autocomplete="off" /></label></div>
+ <p class="sc-note">Your email so I can follow up on your read. No list, no spam.</p>
+ <div class="sc-actions">
+ <button type="button" id="sc-start" class="btn btn-primary">Start the scorecard</button>
+ <div class="sc-error" id="sc-gate-error" aria-live="polite"></div>
+ </div>
+ </div>
 
+ <!-- Assessment: built from /assets/scorecard-data.js after the gate -->
+ <div id="sc-assess" style="display:none;">
+ <p class="sc-rate-note">Rate each statement from 1 (never true) to 5 (always true).</p>
  <form id="sc-form">
- <div class="sc-lens">Pipeline</div>
- <div class="sc-q" data-q><p>Our pipeline fills predictably, not only when I show up.</p><div class="sc-scale" data-scale="q1"></div></div>
- <div class="sc-q" data-q><p>We can see, in one place, where deals stall and why.</p><div class="sc-scale" data-scale="q2"></div></div>
-
- <div class="sc-lens">Planning</div>
- <div class="sc-q" data-q><p>Our forecast is trusted enough to make real decisions on.</p><div class="sc-scale" data-scale="q3"></div></div>
- <div class="sc-q" data-q><p>The number is built up from the engine, not set top-down and hoped for.</p><div class="sc-scale" data-scale="q4"></div></div>
-
- <div class="sc-lens">People</div>
- <div class="sc-q" data-q><p>Roles across marketing, sales, and success are clear, with no gaps or overlaps.</p><div class="sc-scale" data-scale="q5"></div></div>
- <div class="sc-q" data-q><p>The team can hit the number without me in every deal.</p><div class="sc-scale" data-scale="q6"></div></div>
-
- <div class="sc-lens">Performance</div>
- <div class="sc-q" data-q><p>Our best accounts keep growing past year one.</p><div class="sc-scale" data-scale="q7"></div></div>
- <div class="sc-q" data-q><p>When we change something, we can tell whether it actually moved revenue.</p><div class="sc-scale" data-scale="q8"></div></div>
-
+ <div id="sc-questions"></div>
  <div class="sc-actions">
  <button type="submit" class="btn btn-primary">See my score</button>
  <div class="sc-error" id="sc-error" aria-live="polite"></div>
  </div>
  </form>
+ </div>
 
+ <!-- Result -->
  <div class="sc-result" id="sc-result" aria-live="polite">
  <div class="sc-score"><span id="sc-total">0</span><small> / 40</small></div>
  <div class="sc-band" id="sc-band"></div>
@@ -212,65 +211,109 @@
 (function(){
  var yr=document.getElementById('yr'); if(yr) yr.textContent=new Date().getFullYear();
 
- var SCALE=[
- {v:1,t:'Never'},{v:2,t:'Rarely'},{v:3,t:'Sometimes'},{v:4,t:'Often'},{v:5,t:'Always'}
- ];
- // build scales
- document.querySelectorAll('[data-scale]').forEach(function(box){
- var name=box.getAttribute('data-scale');
- SCALE.forEach(function(s){
- var lab=document.createElement('label');
- lab.innerHTML='<input type="radio" name="'+name+'" value="'+s.v+'"><span class="sc-num">'+s.v+'</span>'+s.t;
- box.appendChild(lab);
- lab.querySelector('input').addEventListener('change',function(){
- box.querySelectorAll('label').forEach(function(l){l.classList.remove('on');});
- lab.classList.add('on');
- });
+ var WORKER="https://scorecard-intake.rigtex-inc.workers.dev";
+ var SCALE=[{v:1,t:'Never'},{v:2,t:'Rarely'},{v:3,t:'Sometimes'},{v:4,t:'Often'},{v:5,t:'Always'}];
+ var lead={name:"",email:"",rev:""};
+ var qmap={}; // question index -> lens name
+
+ function validEmail(e){ return e.indexOf("@")>0 && e.lastIndexOf(".")>e.indexOf("@") && e.length>5; }
+
+ // ---- Gate ----
+ var startBtn=document.getElementById('sc-start');
+ var gateErr=document.getElementById('sc-gate-error');
+ startBtn.addEventListener('click',function(){
+ lead.email=(document.getElementById('sc-email').value||"").trim();
+ lead.name=(document.getElementById('sc-name').value||"").trim();
+ lead.rev=document.getElementById('sc-rev').value||"";
+ lead.website=(document.getElementById('sc-website').value||"");
+ if(!validEmail(lead.email)){ gateErr.textContent="Please enter a valid work email to begin."; return; }
+ gateErr.textContent="";
+ startBtn.disabled=true; startBtn.textContent="Loading...";
+ loadData(function(ok){
+ if(!ok){ startBtn.disabled=false; startBtn.textContent="Start the scorecard"; gateErr.textContent="Could not load the scorecard. Please refresh and try again."; return; }
+ buildQuestions();
+ document.getElementById('sc-gate').style.display='none';
+ document.getElementById('sc-assess').style.display='block';
+ document.getElementById('sc-assess').scrollIntoView({behavior:'smooth',block:'start'});
  });
  });
 
+ // ---- Load question data on demand (not in page HTML) ----
+ function loadData(cb){
+ if(window.SCORECARD_DATA) return cb(true);
+ var s=document.createElement('script');
+ s.src="/assets/scorecard-data.js";
+ s.onload=function(){ cb(!!window.SCORECARD_DATA); };
+ s.onerror=function(){ cb(false); };
+ document.body.appendChild(s);
+ }
+
+ // ---- Build the 8 questions from the loaded data ----
+ function buildQuestions(){
+ var wrap=document.getElementById('sc-questions');
+ var qi=0;
+ window.SCORECARD_DATA.lenses.forEach(function(lens){
+ var h=document.createElement('div'); h.className='sc-lens'; h.textContent=lens.name; wrap.appendChild(h);
+ lens.items.forEach(function(stmt){
+ qi++;
+ qmap[qi]=lens.name;
+ var q=document.createElement('div'); q.className='sc-q';
+ var p=document.createElement('p'); p.textContent=stmt; q.appendChild(p);
+ var scale=document.createElement('div'); scale.className='sc-scale';
+ SCALE.forEach(function(s){
+ var lab=document.createElement('label');
+ var inp=document.createElement('input'); inp.type='radio'; inp.name='q'+qi; inp.value=s.v;
+ var num=document.createElement('span'); num.className='sc-num'; num.textContent=s.v;
+ lab.appendChild(inp); lab.appendChild(num); lab.appendChild(document.createTextNode(s.t));
+ inp.addEventListener('change',function(){ scale.querySelectorAll('label').forEach(function(l){l.classList.remove('on');}); lab.classList.add('on'); });
+ scale.appendChild(lab);
+ });
+ q.appendChild(scale); wrap.appendChild(q);
+ });
+ });
+ }
+
+ function bandFor(total){
+ var bands=window.SCORECARD_DATA.bands;
+ for(var i=0;i<bands.length;i++){ if(total>=bands[i].min) return bands[i]; }
+ return bands[bands.length-1];
+ }
+
+ // ---- Submit / score ----
  var form=document.getElementById('sc-form');
  var err=document.getElementById('sc-error');
  var res=document.getElementById('sc-result');
-
- function bandFor(total){
- if(total>=33) return {b:'The engine is largely healthy.', r:"Most parts are producing. Keep an eye on the one or two statements you rated low, that's usually where the next stall starts. If you want a second set of eyes on the weak spot, a working call is the fastest way."};
- if(total>=25) return {b:'Friction, not failure.', r:"The engine runs, but revenue is costing more effort than it should. There are a couple of hand-offs or gaps quietly dragging on the number. Worth pinpointing before you hire or spend against them."};
- if(total>=17) return {b:'Real gaps in the engine.', r:"Several parts of the engine aren't producing reliably, and the founder is probably still the thread holding deals together. This is fixable, but not with another tactic or hire. It needs someone inside the system."};
- return {b:"It's the engine, not the people.", r:"The pattern across your answers says the system is the constraint, not effort or talent. Changing people, tactics, and tools won't move the line until the engine itself is rebuilt. That's exactly the work I do."};
- }
-
  form.addEventListener('submit',function(e){
  e.preventDefault();
  var total=0, answered=0, lens={Pipeline:0,Planning:0,People:0,Performance:0};
- var map={q1:'Pipeline',q2:'Pipeline',q3:'Planning',q4:'Planning',q5:'People',q6:'People',q7:'Performance',q8:'Performance'};
  for(var i=1;i<=8;i++){
  var sel=form.querySelector('input[name="q'+i+'"]:checked');
- if(sel){var v=parseInt(sel.value,10);total+=v;answered++;lens[map['q'+i]]+=v;}
+ if(sel){ var v=parseInt(sel.value,10); total+=v; answered++; lens[qmap[i]]=(lens[qmap[i]]||0)+v; }
  }
- if(answered<8){err.textContent='Please answer all eight questions ('+answered+' of 8 done).';return;}
+ if(answered<8){ err.textContent='Please answer all eight statements ('+answered+' of 8 done).'; return; }
  err.textContent='';
  var info=bandFor(total);
  document.getElementById('sc-total').textContent=total;
- document.getElementById('sc-band').textContent=info.b;
- document.getElementById('sc-read').textContent=info.r;
+ document.getElementById('sc-band').textContent=info.label;
+ document.getElementById('sc-read').textContent=info.read;
 
- // build mailto
- var name=(document.getElementById('sc-name').value||'').trim();
- var rev=document.getElementById('sc-rev').value||'';
- var lines=[];
- lines.push('Here is my Revenue Engine Scorecard result.');
- lines.push('');
- if(name) lines.push('Name: '+name);
- if(rev) lines.push('Revenue band: '+rev);
- lines.push('Score: '+total+' / 40');
- lines.push('Read: '+info.b);
- lines.push('');
- lines.push('By lens: Pipeline '+lens.Pipeline+'/10, Planning '+lens.Planning+'/10, People '+lens.People+'/10, Performance '+lens.Performance+'/10.');
- lines.push('');
- lines.push('I would like to talk through it.');
- var subject='Revenue Engine Scorecard result ('+total+'/40)';
- document.getElementById('sc-mailto').setAttribute('href','mailto:jason@FixYourRevenueEngine.com?subject='+encodeURIComponent(subject)+'&body='+encodeURIComponent(lines.join('\n')));
+ var lensStr="Pipeline "+lens.Pipeline+"/10, Planning "+lens.Planning+"/10, People "+lens.People+"/10, Performance "+lens.Performance+"/10";
+
+ // mailto fallback
+ var body=[];
+ body.push("Here is my Revenue Engine Scorecard result.","");
+ if(lead.name) body.push("Name: "+lead.name);
+ if(lead.rev) body.push("Revenue band: "+lead.rev);
+ body.push("Score: "+total+" / 40","Read: "+info.label,"","By lens: "+lensStr,"","I would like to talk through it.");
+ document.getElementById('sc-mailto').setAttribute('href',"mailto:jason@FixYourRevenueEngine.com?subject="+encodeURIComponent("Revenue Engine Scorecard result ("+total+"/40)")+"&body="+encodeURIComponent(body.join("\n")));
+
+ // send to the intake Worker (fire and forget)
+ try{
+ fetch(WORKER,{method:"POST",headers:{"Content-Type":"application/json"},body:JSON.stringify({
+ name:lead.name, email:lead.email, revenue:lead.rev, website:lead.website||"",
+ score:String(total), band:info.label, lenses:lensStr
+ })}).catch(function(){});
+ }catch(e){}
 
  res.classList.add('show');
  res.scrollIntoView({behavior:'smooth',block:'start'});
