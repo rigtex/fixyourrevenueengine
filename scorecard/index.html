@@ -4,20 +4,20 @@
 <meta charset="UTF-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <title>Revenue Engine Scorecard | Revved for Growth</title>
-<meta name="description" content="An eight-question self-assessment of your revenue engine across pipeline, planning, people, and performance. An honest read on whether the engine is the problem." />
+<meta name="description" content="An eight-question self-assessment of your revenue engine across pipeline, planning, people, and performance. An honest read on where the engine is leaking." />
 <meta name="author" content="Jason Rigolli" />
 <meta name="robots" content="noindex,follow" />
 <link rel="canonical" href="https://fixyourrevenueengine.com/scorecard/" />
 
 <meta property="og:type" content="website" />
 <meta property="og:title" content="The Revenue Engine Scorecard" />
-<meta property="og:description" content="Eight statements across pipeline, planning, people, and performance. An honest read on whether the engine is the problem." />
+<meta property="og:description" content="Eight statements across pipeline, planning, people, and performance. An honest read on where the engine is leaking." />
 <meta property="og:url" content="https://fixyourrevenueengine.com/scorecard/" />
 <meta property="og:image" content="https://fixyourrevenueengine.com/assets/og/scorecard.png" />
 
 <meta name="twitter:card" content="summary_large_image" />
 <meta name="twitter:title" content="The Revenue Engine Scorecard" />
-<meta name="twitter:description" content="Eight statements. An honest read on whether the engine is the problem." />
+<meta name="twitter:description" content="Eight statements. An honest read on where the engine is leaking." />
 <meta name="twitter:image" content="https://fixyourrevenueengine.com/assets/og/scorecard.png" />
 
 <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
@@ -107,7 +107,7 @@
  <div class="container">
  <span class="eyebrow" style="color:#cfe9ff;">Free intake</span>
  <h1 id="sc-h">The Revenue Engine Scorecard.</h1>
- <p>Eight statements across the four parts of the engine: pipeline, planning, people, and performance. Rate each one honestly and you'll see where the engine is strong and where it leaks. Two minutes.</p>
+ <p>Eight statements across the four parts of the engine: pipeline, planning, people, and performance. Rate each one honestly and you'll see your score on the spot. I'll also send it to your inbox with the weak spot named, so you have it when you're ready to do something about it. Two minutes.</p>
  <p style="margin-top:14px;font-size:1rem;opacity:0.9;">This is a free self-check, not the Revenue Engine Inspection itself. It's the intake that tells us whether I can help your company, and it means we spend the call focused on where your number is leaking, not pitching you.</p>
  </div>
 </section>
@@ -211,7 +211,7 @@
 (function(){
  var yr=document.getElementById('yr'); if(yr) yr.textContent=new Date().getFullYear();
 
- var WORKER="https://scorecard-intake.rigtex-inc.workers.dev";
+ var SEND="https://script.google.com/macros/s/AKfycbyTJNc7psKgYat6HsDJjKS6pMeWXiNGgSqPBg__xeKltMh9svW5qi4TuSbuE4-jsy9lsg/exec";
  var SCALE=[{v:1,t:'Never'},{v:2,t:'Rarely'},{v:3,t:'Sometimes'},{v:4,t:'Often'},{v:5,t:'Always'}];
  var lead={name:"",email:"",rev:""};
  var qmap={}; // question index -> lens name
@@ -305,11 +305,11 @@
  if(lead.name) body.push("Name: "+lead.name);
  if(lead.rev) body.push("Revenue band: "+lead.rev);
  body.push("Score: "+total+" / 40","Read: "+info.label,"","By lens: "+lensStr,"","I would like to talk through it.");
- document.getElementById('sc-mailto').setAttribute('href',"mailto:jason@FixYourRevenueEngine.com?subject="+encodeURIComponent("Revenue Engine Scorecard result ("+total+"/40)")+"&body="+encodeURIComponent(body.join("\n")));
+ document.getElementById('sc-mailto').setAttribute('href',"mailto:jason@hi.fixyourrevenueengine.com?subject="+encodeURIComponent("Revenue Engine Scorecard result ("+total+"/40)")+"&body="+encodeURIComponent(body.join("\n")));
 
  // send to the intake Worker (fire and forget)
  try{
- fetch(WORKER,{method:"POST",headers:{"Content-Type":"application/json"},body:JSON.stringify({
+ fetch(SEND,{method:"POST",mode:"no-cors",headers:{"Content-Type":"text/plain;charset=utf-8"},body:JSON.stringify({
  name:lead.name, email:lead.email, revenue:lead.rev, website:lead.website||"",
  score:String(total), band:info.label, lenses:lensStr,
  p:lens.Pipeline, pl:lens.Planning, pe:lens.People, pf:lens.Performance

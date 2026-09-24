@@ -4,11 +4,11 @@
 
 Tagline: **Revved for Growth.** · **From Stalled to Scalable Revenue.**
 
-Core positioning: most options sit at the strategy, marketing, or advisory layer. We sit at the revenue system layer with end-to-end operational ownership across marketing, sales, and customer success.
+Core positioning: most options sit at the strategy, marketing, or advisory layer. We sit at the revenue system layer with end-to-end operational ownership across winning, keeping, and growing customers.
 
 ## Pages
 
-- [Home](https://fixyourrevenueengine.com/): Positioning (I fix the reason your company isn't hitting its number), six revenue-engine symptom cards across marketing, sales, and customer success, a six-signs self-check, three ways to work together, proof, differentiation, booking CTA.- [Insights](https://fixyourrevenueengine.com/insights/): Featured Series (2025 Founders Report, 7 parts) and Notes from the Field (12 standalone pieces). All posts are hosted on fixyourrevenueengine.com.
+- [Home](https://fixyourrevenueengine.com/): Positioning (I fix the reason your company isn't hitting its number), six revenue-engine symptom cards across winning, closing, and keeping customers, a six-signs self-check, three ways to work together, proof, differentiation, booking CTA.- [Insights](https://fixyourrevenueengine.com/insights/): Featured Series (2025 Founders Report, 7 parts) and Notes from the Field (12 standalone pieces). All posts are hosted on fixyourrevenueengine.com.
 - [Glossary](https://fixyourrevenueengine.com/glossary/): Plain-language definitions for the 25 terms founder-led or family-owned B2B operators actually use (fractional CRO, revenue engine, RevOps, CAC payback, NRR, Founder's Syndrome, EOS, EOS Implementer, Integrator, business operating system, scorecard, etc.). DefinedTermSet JSON-LD schema for AI assistant citation.
 - [Fractional CRO vs Marketing Agency](https://fixyourrevenueengine.com/revenue-engine-rebuild-vs-marketing-agency/): Comparison page. When each one fixes stalled revenue, when each one fails, three questions to decide which one you need.
 - [Fractional CRO vs Full-Time CRO](https://fixyourrevenueengine.com/fractional-cro-vs-full-time-cro/): Comparison page. When the $400K hire is right, when the fractional path produces better outcomes, and the hybrid sequence most founders don't know to ask about.
