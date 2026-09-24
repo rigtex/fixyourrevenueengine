@@ -311,7 +311,8 @@
  try{
  fetch(WORKER,{method:"POST",headers:{"Content-Type":"application/json"},body:JSON.stringify({
  name:lead.name, email:lead.email, revenue:lead.rev, website:lead.website||"",
- score:String(total), band:info.label, lenses:lensStr
+ score:String(total), band:info.label, lenses:lensStr,
+ p:lens.Pipeline, pl:lens.Planning, pe:lens.People, pf:lens.Performance
  })}).catch(function(){});
  }catch(e){}
 
