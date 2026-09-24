@@ -74,7 +74,7 @@ Every content page on the site has a clean markdown sibling at the same URL with
 - [Is SaaS Dead? How Fractional CROs Are Redefining the Future](https://fixyourrevenueengine.com/insights/is-saas-dead/): SaaS isn't dead. The lazy version of SaaS is dead.
 - [RevOps Metrics That Matter](https://fixyourrevenueengine.com/insights/revops-metrics-that-matter/): Most revenue dashboards measure activity, not health. Six metrics that actually predict whether the engine is working.
 - [From Conflict to Collaboration: Aligning Revenue Teams](https://fixyourrevenueengine.com/insights/revenue-team-alignment/): Real alignment is structural, not cultural. Shared revenue targets, one definition of a qualified lead, documented hand-off SLAs.
-- [Preserving Legacy, Building Future: Smooth Succession](https://fixyourrevenueengine.com/insights/preserving-legacy-succession/): Most family-owned and founder-led businesses fail succession because of undocumented operations, not family dynamics.
+- [Preserving Legacy, Building Future: Smooth Succession](https://fixyourrevenueengine.com/insights/preserving-legacy-succession/): Most family-owned or founder-led businesses fail succession because of undocumented operations, not family dynamics.
 - [Never Promote Top Performers](https://fixyourrevenueengine.com/insights/never-promote-top-performers/): Promoting your best salesperson to manager usually breaks two things at once. Selling and managing are different jobs.
 
 ## Who this is for
