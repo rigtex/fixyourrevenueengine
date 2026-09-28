@@ -20,10 +20,10 @@ window.SCORECARD_DATA = {
     ] }
   ],
   bands: [
-    { min: 33, label: "The engine is producing.", read: "Most of it works. The one or two statements you rated low are where the next stall usually starts. If you want a second set of eyes on that spot, grab a working call." },
-    { min: 25, label: "Friction, not failure.", read: "The engine runs, but revenue costs more effort than it should. A hand-off or two is quietly dragging on the number. Find them before you hire or spend against them." },
-    { min: 17, label: "Real gaps.", read: "Several parts aren't producing reliably, and you're probably still the thread holding deals together. Fixable, but not with another tactic or another hire. It needs someone inside the engine." },
-    { min: 0, label: "It's the engine, not the people.", read: "Your answers say the system is the constraint, not effort or talent. New people, tactics, and tools won't move the line until the engine is rebuilt. That's the work I do." }
+    { min: 33, label: "Strong, with one soft spot.", read: "Most of what you rated is strong. Your lowest score is {lens}, and that's the first place I'd look under the hood, before it becomes the reason next quarter misses. Book a call and we'll decide the next step together." },
+    { min: 25, label: "Working, with friction.", read: "You rated most of the engine as working, with {lens} lagging the rest. I wouldn't guess why from eight answers; I'd look under the hood. Book a call and we'll decide the next step together." },
+    { min: 17, label: "More than one weak spot.", read: "Several parts scored low, with {lens} lowest. That's not a verdict, it's a map: it says where to start looking, and then where to look next. Book a call and we'll decide the next step together." },
+    { min: 0, label: "Low scores across the board.", read: "Low scores across the entire revenue engine, {lens} lowest. Eight answers can't say why, and I won't pretend they do. They tell us where to look. Book a call and we'll decide the next step together." }
   ]
 };
 if (typeof window.__scorecardDataReady === "function") window.__scorecardDataReady();

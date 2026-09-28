@@ -163,10 +163,9 @@
  <div class="sc-band" id="sc-band"></div>
  <div class="sc-read" id="sc-read"></div>
  <div class="sc-result-ctas">
- <a class="btn btn-primary" href="/contact/">Book a 30-minute working call</a>
+ <a class="btn btn-primary" href="/contact/">Book a call</a>
  <a class="btn btn-ghost" id="sc-mailto" href="#">Email my result to Jason</a>
  </div>
- <p style="margin-top:16px;font-size:.95rem;color:#5a6675;">A score is a starting point, not a diagnosis. Book a call and we'll turn it into a real conversation about whether I can help.</p>
  </div>
 
  </div>
@@ -293,9 +292,12 @@
  if(answered<8){ err.textContent='Please answer all eight statements ('+answered+' of 8 done).'; return; }
  err.textContent='';
  var info=bandFor(total);
+ var lensOrder=["Pipeline","Planning","People","Performance"];
+ var lowest=lensOrder[0];
+ for(var li=1;li<lensOrder.length;li++){ if(lens[lensOrder[li]]<lens[lowest]) lowest=lensOrder[li]; }
  document.getElementById('sc-total').textContent=total;
  document.getElementById('sc-band').textContent=info.label;
- document.getElementById('sc-read').textContent=info.read;
+ document.getElementById('sc-read').textContent=info.read.replace(/\{lens\}/g,lowest);
 
  var lensStr="Pipeline "+lens.Pipeline+"/10, Planning "+lens.Planning+"/10, People "+lens.People+"/10, Performance "+lens.Performance+"/10";
 
