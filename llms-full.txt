@@ -18,7 +18,7 @@ CTA: Let's Meet (https://cal.com/jrigolli/meeting).
 ### ICP, Built for the Stalled Scale Founder
 **Your revenue problem isn't a tactic. It could be system fragmentation.**
 
-At $2M-$15M, the business has grown past instinct but hasn't reached the structure that makes growth predictable. Marketing, sales, and customer success run in parallel lanes that never quite hand off. The business runs the founder, not the other way around, and there is never a quiet week to actually fix the system.
+At $2M-$15M, the business has grown past instinct but hasn't reached the structure that makes growth predictable. The parts that win, keep, and grow customers run in parallel lanes that never quite hand off. The business runs the founder, not the other way around, and there is never a quiet week to actually fix the system.
 
 Hiring and firing sales staff hasn't fixed it. Agencies haven't fixed it. Tactical changes deliver temporary lifts and then revert.
 
@@ -48,7 +48,7 @@ ICP criteria:
 
 ### Why this is different
 - **Operator, not advisor.** Strategy that never lands inside the business is just commentary.
-- **System, not function.** Marketing, sales, and customer success treated as one engine.
+- **System, not function.** Winning, keeping, and growing customers treated as one engine.
 - **Ownership, not influence.** Decks and dashboards don't fix revenue.
 
 ---
