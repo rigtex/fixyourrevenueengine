@@ -79,6 +79,15 @@ Author of all posts: Jason Rigolli. The 2026 Founders Report, "More fuel in a br
   3. Build operating tempo (weekly pipeline review, monthly conversion and cycle analysis, quarterly segment re-evaluation) that lets a smaller team produce predictable output without the founder in every meeting.
 - Quotable line: "The 2025 thesis held. The runway to act on it got shorter."
 
+### Field note: The cost of doing nothing (or: waiting for the midterms)
+- URL: https://fixyourrevenueengine.com/insights/the-cost-of-doing-nothing/
+- First published: September 29, 2026 · 4 min read
+- Canonical: self (original to this site)
+- Format: thought leadership
+- Thesis: Deferring the revenue growth decision until after the midterms costs a founder the last five months of the year plus most of Q1, and nothing on the ballot changes why the number is missing, so the wait buys no information and sells the two quarters that were easiest to fix.
+- Summary: "Let's wait until November" sounds like prudence and costs like a decision. A leadership team whose number has been missing for several quarters uses a calendar date as cover for not dealing with it. There is a narrow, legitimate version (if your addressable market moves with a specific federal outcome, name it and wait for that one), but almost nobody deferring qualifies; what is actually being deferred is a look under the hood of how the company wins customers, keeps them, and grows them, and that answer is in your own numbers, not on any ballot. The wait is never six weeks: nobody decides the week after an election, the decision lands in the holidays, January is ramp, and the number does not move before March, about five months and the two quarters (Q4 open budgets and renewals, Q1 target-setting) that were easiest to fix. The wrong-plan risk is real, which argues for scoping the fix (thirty days to read the engine across pipeline, planning, people, and performance, then the two or three fastest-payback levers worked inside one quarter, priced to pay for itself), not for doing nothing. The decision that moves the number has nothing to do with the election: find out, in your own scorecard numbers, which part of the engine is leaking, and fix it inside the quarter everyone else is writing off.
+- Quotable line: "Nothing on the ballot fixes your revenue engine."
+
 ### Field note: PE firms don't hire hope. They deploy operators.
 - URL: https://fixyourrevenueengine.com/insights/pe-firms-deploy-operators/
 - First published: September 8, 2026 · 3 min read

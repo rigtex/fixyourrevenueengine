@@ -30,6 +30,7 @@ Every content page on the site has a clean markdown sibling at the same URL with
 - https://fixyourrevenueengine.com/insights/business-runs-without-you.md
 - https://fixyourrevenueengine.com/insights/count-the-deal-breakers.md
 - https://fixyourrevenueengine.com/insights/growth-that-compounds.md
+- https://fixyourrevenueengine.com/insights/the-cost-of-doing-nothing.md
 - https://fixyourrevenueengine.com/insights/pe-firms-deploy-operators.md
 - https://fixyourrevenueengine.com/insights/revolving-door-revenue-seat.md
 - https://fixyourrevenueengine.com/insights/founder-led-exit-success.md
@@ -64,6 +65,7 @@ Every content page on the site has a clean markdown sibling at the same URL with
 
 ### Notes from the field (12 posts)
 
+- [The cost of doing nothing (or: waiting for the midterms)](https://fixyourrevenueengine.com/insights/the-cost-of-doing-nothing/) (September 29, 2026), original thought-leadership: deferring the revenue decision until after the midterms costs the last five months of the year and most of Q1, and nothing on the ballot changes why the number is missing, so the wait buys no information and sells the two quarters that were easiest to fix; the move that matters is finding out, in your own scorecard numbers, which part of the engine (pipeline, planning, people, performance) is leaking and fixing it inside the quarter.
 - [PE firms don't hire hope. They deploy operators.](https://fixyourrevenueengine.com/insights/pe-firms-deploy-operators/) (September 8, 2026), original thought-leadership: PE firms fix a stalled portfolio company by deploying a proven operator from their bench, not by opening a search and hiring hope. Founders don't have a bench, but the bench is rentable: rent the builder to diagnose and fix the engine (starting with a Revenue Engine Inspection), then hire the manager to run it, because managers are far easier to find than builders.
 - [The revolving door in the revenue seat](https://fixyourrevenueengine.com/insights/revolving-door-revenue-seat/) (August 13, 2026), original thought-leadership: When three revenue leaders fail in the same seat with the same symptoms, that is not three hiring mistakes, it is data about the seat. Firing the person again is the most expensive way to avoid inspecting the revenue engine.
 - [Growth that compounds](https://fixyourrevenueengine.com/insights/growth-that-compounds/) (July 26, 2026), original thought-leadership: A spike is an event wearing growth's clothing; it draws the same chart line as engine-driven revenue but has no repeatable mechanism underneath. After a best-ever quarter the instinct is to accelerate, but if the room can't explain what produced the number, that's re-rolling dice with a bigger bet. Predictable, controlled growth is the only kind that compounds; five percent a quarter held for twelve quarters beats ten for two and a stall.
