@@ -79,6 +79,15 @@ Author of all posts: Jason Rigolli. The 2026 Founders Report, "More fuel in a br
   3. Build operating tempo (weekly pipeline review, monthly conversion and cycle analysis, quarterly segment re-evaluation) that lets a smaller team produce predictable output without the founder in every meeting.
 - Quotable line: "The 2025 thesis held. The runway to act on it got shorter."
 
+### Field note: Month nine judges the hire. Month one decided the verdict.
+- URL: https://fixyourrevenueengine.com/insights/month-nine-judges-the-hire/
+- First published: October 19, 2026 · 4 min read
+- Canonical: self (original to this site)
+- Format: thought leadership
+- Thesis: At month nine the dashboard cannot tell a founder whether a new sales leader built anything, because the number at month nine is mostly the setup at month one with a new name on it; the hire was brought in to build (a nameable customer, a founder-independent process, a pipeline that forecasts), so the only honest question is what got built, judged against what was inherited.
+- Summary: Around the ninth month most founders start drafting the exit conversation and cannot write the first sentence because every version starts with a feeling and none can find the fact. The missing fact: you hired a builder, so judge the building. A sales leader in a founder-led company at $2M, $5M, or $12M is not hired to run an engine (there usually isn't one) but to build one, and the dashboard reports the number without separating the person from what they were handed. The careful operator's objection (a senior leader should fix the setup without a written blueprint) is answered and folded in: a good builder builds without a blueprint, but you still cannot see the work except against the before. Three checks you can run this week: the deals that advanced without the founder on the call, the day-30 forecast laid against what actually closed (then the most recent one), and whatever was defined in writing at month one. None of the three decides whether to keep the hire, by design: structure moves the number last, so a builder can have built real structure into a flat number while another leader merely moved the number by doing what the founder used to do. The evidence tells you what got built; you decide what it is worth, and writing the dated definition now (customer, process, forecast standard, what working means at month twelve) stops the next hire from inheriting the same setup.
+- Quotable line: "You hired a builder. Judge the building."
+
 ### Field note: The cost of doing nothing (or: waiting for the midterms)
 - URL: https://fixyourrevenueengine.com/insights/the-cost-of-doing-nothing/
 - First published: September 29, 2026 · 4 min read
