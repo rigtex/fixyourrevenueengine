@@ -5,6 +5,8 @@
 User-agent: *
 Allow: /
 Disallow: /unsubscribe/
+Disallow: /one-pager/
+Disallow: /partners/
 
 # Major AI / LLM crawlers (explicitly allowed)
 User-agent: GPTBot
