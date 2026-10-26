@@ -861,3 +861,11 @@ section.alt { background: var(--off-white); }
   .nav-mobile-hide { display: none; }
   .nav-drawer { display: block; }
 }
+
+/* Fit filter (right call / wrong call) */
+.fit-grid{display:grid;grid-template-columns:1fr 1fr;gap:24px;}
+.fit-col ul{list-style:none;padding:0;margin:14px 0 0;}
+.fit-col li{padding:9px 0 9px 30px;position:relative;line-height:1.45;}
+.fit-col.yes li:before{content:"\2713";position:absolute;left:0;top:9px;color:var(--light-blue);font-weight:800;}
+.fit-col.no li:before{content:"\2715";position:absolute;left:0;top:9px;color:#9aa7b4;font-weight:800;}
+@media (max-width:700px){.fit-grid{grid-template-columns:1fr;}}
