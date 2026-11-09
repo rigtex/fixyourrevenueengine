@@ -79,6 +79,15 @@ Author of all posts: Jason Rigolli. The 2026 Founders Report, "More fuel in a br
   3. Build operating tempo (weekly pipeline review, monthly conversion and cycle analysis, quarterly segment re-evaluation) that lets a smaller team produce predictable output without the founder in every meeting.
 - Quotable line: "The 2025 thesis held. The runway to act on it got shorter."
 
+### Field note: Your 2027 plan is your 2026 engine in a new suit
+- URL: https://fixyourrevenueengine.com/insights/2027-plan-2026-engine-new-suit/
+- First published: November 9, 2026 · 5 min read
+- Canonical: self (original to this site)
+- Format: thought leadership
+- Thesis: A 2027 plan that adds a percentage to this year's engine is a wish; an honest plan starts from what the engine produces without the founder in the deal, adds only named, dated changes, and treats the gap between that plan number and the ambition number as the size of the work.
+- Summary: Every November the planning spreadsheet takes this year's actuals, adds 15 to 25 percent, spreads it across twelve months, and nobody asks which deals the founder closed personally or which top accounts were never asked for more. The number feels like planning but has no reason attached: run the same engine and you get roughly the same number, so the percentage is last year's engine in a new suit. Build the real plan in three moves. First, the engine number: subtract the founder's deals (the ones that would not have signed without you in the room), the one-off wins that will not repeat, and the churn you already know about; what is left is what the business produces on its people, process, and customers, and for many founder-led firms it is a surprise and the real starting line. Second, add back only named, dated changes, each with what changes, who owns it, and the month it starts, leading with existing customers (where 60 to 80 percent of the lift tends to come from and who are rarely asked what else they need) and the handoffs that move a deal off the founder. Third, keep the stretch number but stop calling it a forecast: set the ambition number beside the engine-plus-changes plan number, and the gap is the work list, closed either by doing the engine work or by writing a smaller, honest number. The three subtractions take an afternoon with an honest CRM; knowing which changes the engine can absorb, and in what order, means walking it end to end before the plan is locked.
+- Quotable line: "A number with no change attached is a wish in business attire."
+
 ### Field note: Month nine judges the hire. Month one decided the verdict.
 - URL: https://fixyourrevenueengine.com/insights/month-nine-judges-the-hire/
 - First published: October 19, 2026 · 4 min read
