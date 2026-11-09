@@ -8,7 +8,6 @@
 <meta name="author" content="Jason Rigolli" />
 <meta name="robots" content="noindex" />
 <link rel="canonical" href="https://fixyourrevenueengine.com/engine-check/" />
-
 <meta property="og:type" content="website" />
 <meta property="og:title" content="The 2027 Engine Check | Revved for Growth" />
 <meta property="og:description" content="Thirty minutes with your dashboard open. We find the three biggest pitfalls in your 2027 revenue number before it's locked. No fee." />
@@ -20,21 +19,68 @@
 <meta name="twitter:description" content="Thirty minutes with your dashboard open. We find the three biggest pitfalls in your 2027 revenue number before it's locked. No fee." /><link rel="icon" type="image/svg+xml" href="/favicon.svg" />
 <link rel="icon" type="image/x-icon" href="/favicon.ico" />
 <link rel="apple-touch-icon" href="/apple-touch-icon.png" />
-<meta name="theme-color" content="#185892" />
+<meta name="theme-color" content="#083058" />
 <link rel="stylesheet" href="/styles.css?v=20260605c" />
 
 <style>
-.ec-wrap { max-width: 760px; margin: 0 auto; padding: 0 24px; }
-.ec-wrap h1 { font-size: 2.4rem; line-height: 1.15; color: var(--dark-blue); margin: 0 0 16px; }
-.ec-sub { font-size: 1.2rem; line-height: 1.55; color: var(--mid-blue); margin: 0 0 28px; font-weight: 500; }
-.ec-wrap p { font-size: 1.08rem; line-height: 1.7; color: #222; margin: 0 0 1.2rem; }
-.ec-embed-wrap { width: 100%; min-height: 700px; margin: 32px 0 24px; }
-#my-cal-inline { width: 100%; min-height: 700px; overflow: visible; }
-.ec-foot { font-size: 0.95rem; line-height: 1.6; color: #556; border-top: 1px solid var(--border); margin-top: 32px; padding-top: 20px; }
-.ec-foot a { color: var(--light-blue); }
-@media (max-width: 700px) { .ec-wrap h1 { font-size: 1.9rem; } .ec-sub { font-size: 1.08rem; } }
+:root{--ec-navy:#083058;--ec-mid:#185892;--ec-blue:#0D86E2;--ec-gray:#F6F7F9;}
+.ec-band{padding:84px 24px;}
+.ec-inner{max-width:1040px;margin:0 auto;}
+.ec-navy{background:var(--ec-navy);color:#fff;}
+.ec-gray{background:var(--ec-gray);color:#16202c;}
+.ec-white{background:#fff;color:#16202c;}
+.ec-eyebrow{display:inline-block;font-size:.8rem;letter-spacing:3px;text-transform:uppercase;font-weight:700;color:var(--ec-blue);margin-bottom:16px;}
+.ec-navy .ec-eyebrow{color:#7cc4f5;}
+/* HERO */
+.ec-hero{display:grid;grid-template-columns:1.15fr .85fr;gap:40px;align-items:center;}
+.ec-hero h1{font-family:'Italiana',Georgia,serif;font-weight:400;color:#fff;font-size:clamp(2.6rem,6vw,3.7rem);line-height:1.08;margin:0 0 20px;}
+.ec-hero .ec-sub{font-size:1.18rem;line-height:1.6;color:#dceaf6;margin:0 0 30px;max-width:33ch;}
+.ec-btn{display:inline-block;background:var(--ec-blue);color:#fff;font-weight:700;font-size:1.05rem;padding:15px 34px;border-radius:4px;text-decoration:none;box-shadow:0 6px 20px rgba(13,134,226,.35);}
+.ec-btn:hover{background:#0a6fbd;color:#fff;}
+.ec-hero-art{display:flex;justify-content:center;}
+.ec-hero-art svg{width:100%;max-width:360px;height:auto;}
+/* PITFALLS */
+.ec-head{text-align:center;margin-bottom:44px;}
+.ec-head h2{font-size:2rem;color:var(--ec-navy);margin:0;}
+.ec-cards{display:grid;grid-template-columns:repeat(3,1fr);gap:24px;}
+.ec-card{background:#fff;border:1px solid #e6eaef;border-radius:8px;padding:30px 26px;box-shadow:0 2px 10px rgba(8,48,88,.05);}
+.ec-card svg{width:46px;height:46px;margin-bottom:16px;}
+.ec-card h3{font-size:1.2rem;color:var(--ec-navy);margin:0 0 8px;}
+.ec-card p{font-size:1rem;line-height:1.55;color:#4a5560;margin:0;}
+/* TIMELINE */
+.ec-lead{font-size:1.12rem;line-height:1.7;color:#222;max-width:68ch;margin:0 auto 40px;text-align:center;}
+.ec-time{display:grid;grid-template-columns:repeat(3,1fr);gap:0;max-width:880px;margin:0 auto 40px;position:relative;}
+.ec-step{text-align:center;padding:0 18px;position:relative;}
+.ec-step .dot{width:18px;height:18px;border-radius:50%;background:var(--ec-blue);margin:0 auto 18px;box-shadow:0 0 0 6px rgba(13,134,226,.15);}
+.ec-step .mins{font-weight:700;color:var(--ec-navy);font-size:1.05rem;}
+.ec-step .what{color:#4a5560;font-size:1rem;margin-top:4px;}
+.ec-timeline-rail{position:absolute;top:9px;left:16%;right:16%;height:2px;background:#cfe0ef;z-index:0;}
+.ec-time .ec-step{z-index:1;}
+/* BOOK */
+.ec-book-lead{font-size:1.5rem;line-height:1.5;color:var(--ec-navy);text-align:center;max-width:24ch;margin:0 auto 34px;font-weight:600;}
+.ec-embed-card{background:#fff;border-radius:10px;box-shadow:0 10px 40px rgba(8,48,88,.14);padding:12px;}
+#my-cal-inline{width:100%;min-height:700px;overflow:visible;}
+/* PROOF */
+.ec-proof{display:grid;grid-template-columns:repeat(4,1fr);gap:28px;margin-bottom:44px;}
+.ec-proof .pn{font-size:2.4rem;font-weight:700;color:#fff;line-height:1;}
+.ec-proof .pl{display:block;margin-top:10px;font-size:.95rem;line-height:1.45;color:#b9d2e8;}
+.ec-foot-line{font-size:1rem;line-height:1.7;color:#cfe0ef;max-width:70ch;border-top:1px solid rgba(255,255,255,.18);padding-top:24px;}
+.ec-foot-line a{color:#7cc4f5;}
+/* STICKY MOBILE CTA */
+.ec-sticky{display:none;}
+@media (max-width:768px){
+ .ec-band{padding:48px 20px;}
+ .ec-hero{grid-template-columns:1fr;gap:28px;text-align:center;}
+ .ec-hero .ec-sub{max-width:none;}
+ .ec-hero-art{order:-1;} .ec-hero-art svg{max-width:220px;}
+ .ec-cards{grid-template-columns:1fr;}
+ .ec-time{grid-template-columns:1fr;gap:26px;} .ec-timeline-rail{display:none;}
+ .ec-proof{grid-template-columns:repeat(2,1fr);gap:24px;}
+ .ec-sticky{display:block;position:fixed;left:0;right:0;bottom:0;z-index:50;background:var(--ec-navy);padding:12px 16px;box-shadow:0 -4px 16px rgba(0,0,0,.25);}
+ .ec-sticky a{display:block;text-align:center;background:var(--ec-blue);color:#fff;font-weight:700;padding:14px;border-radius:4px;text-decoration:none;}
+ body{padding-bottom:72px;}
+}
 </style>
-
 <!-- Cloudflare Web Analytics --><script type='module' src='https://static.cloudflareinsights.com/beacon.min.js' data-cf-beacon='{"token": "b1f1b3ba538e40b6beb8a89452ebc6e9"}'></script><!-- End Cloudflare Web Analytics -->
 </head>
 
@@ -90,24 +136,85 @@
 
 <main>
 
-<section style="padding:56px 0 20px;">
- <div class="ec-wrap">
-  <h1>The 2027 Engine Check</h1>
-  <p class="ec-sub">Thirty minutes. Your dashboard or reports open. We look for the three biggest pitfalls hiding in your 2027 revenue number before it gets locked. You keep the findings.</p>
-
-  <p>Most 2027 plans are this year plus a percentage. The number has a cell, a formula and a chart that goes up and to the right. What it doesn't have is a reason.</p>
-
-  <p>In thirty minutes we look at how your revenue was actually produced this year and where next year's number is leaning on something that won't hold. You leave with the three biggest pitfalls in your plan and what I'd do about each. That's the whole session.</p>
-
-  <p>No fee for this one. Be thankful. Pick a time below.</p>
-
-  <div class="ec-embed-wrap">
-   <div id="my-cal-inline" style="width:100%;height:100%;min-height:700px;overflow:visible"></div>
+<!-- BAND 1: HERO -->
+<section class="ec-band ec-navy">
+ <div class="ec-inner ec-hero">
+  <div>
+   <span class="ec-eyebrow">Before Thanksgiving. No fee.</span>
+   <h1>The 2027 Engine Check</h1>
+   <p class="ec-sub">Thirty minutes. Your dashboard or reports open. We look for the three biggest pitfalls hiding in your 2027 revenue number before it gets locked. You keep the findings.</p>
+   <a class="ec-btn" href="#book">Pick a time</a>
   </div>
-
-  <p class="ec-foot">Jason Rigolli, Fractional CRO. Three CRO seats, all in founder-led B2B companies. The thinking behind the session: <a href="/insights/2027-plan-2026-engine-new-suit/">"Your 2027 plan is your 2026 engine in a new suit"</a></p>
+  <div class="ec-hero-art"><svg viewBox="0 0 320 230" fill="none" xmlns="http://www.w3.org/2000/svg" aria-hidden="true" role="presentation">
+<path d="M30 190 A130 130 0 0 1 290 190" stroke="#1d5f9e" stroke-width="2" opacity="0.6"/>
+<path d="M30 190 A130 130 0 0 1 290 190" stroke="#0D86E2" stroke-width="6" stroke-linecap="round" stroke-dasharray="300 600" opacity="0.9"/>
+<g stroke="#7cc4f5" stroke-width="2" stroke-linecap="round">
+<line x1="160" y1="60" x2="160" y2="74"/>
+<line x1="94" y1="78" x2="103" y2="90"/>
+<line x1="226" y1="78" x2="217" y2="90"/>
+<line x1="52" y1="130" x2="66" y2="136"/>
+<line x1="268" y1="130" x2="254" y2="136"/>
+</g>
+<line x1="160" y1="190" x2="212" y2="112" stroke="#0D86E2" stroke-width="5" stroke-linecap="round"/>
+<circle cx="160" cy="190" r="12" fill="#083058" stroke="#0D86E2" stroke-width="4"/>
+<circle cx="160" cy="190" r="3" fill="#7cc4f5"/>
+</svg></div>
  </div>
 </section>
+
+<!-- BAND 2: THE PITFALLS -->
+<section class="ec-band ec-gray">
+ <div class="ec-inner">
+  <div class="ec-head"><span class="ec-eyebrow">The pitfalls</span><h2>Three places next year's number leans on something that won't hold</h2></div>
+  <div class="ec-cards">
+   <div class="ec-card"><svg viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg" aria-hidden="true"><path d="M24 7 L44 41 H4 Z" stroke="#083058" stroke-width="2.5" stroke-linejoin="round"/><line x1="24" y1="20" x2="24" y2="31" stroke="#0D86E2" stroke-width="3" stroke-linecap="round"/><circle cx="24" cy="36" r="1.8" fill="#0D86E2"/></svg><h3>The one-person deals</h3><p>revenue that only closed because the founder was in the room</p></div>
+   <div class="ec-card"><svg viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg" aria-hidden="true"><path d="M24 7 L44 41 H4 Z" stroke="#083058" stroke-width="2.5" stroke-linejoin="round"/><line x1="24" y1="20" x2="24" y2="31" stroke="#0D86E2" stroke-width="3" stroke-linecap="round"/><circle cx="24" cy="36" r="1.8" fill="#0D86E2"/></svg><h3>The one-offs</h3><p>the project that won't repeat</p></div>
+   <div class="ec-card"><svg viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg" aria-hidden="true"><path d="M24 7 L44 41 H4 Z" stroke="#083058" stroke-width="2.5" stroke-linejoin="round"/><line x1="24" y1="20" x2="24" y2="31" stroke="#0D86E2" stroke-width="3" stroke-linecap="round"/><circle cx="24" cy="36" r="1.8" fill="#0D86E2"/></svg><h3>The churn you already know about</h3><p>the account that told you in September</p></div>
+  </div>
+ </div>
+</section>
+
+<!-- BAND 3: WHAT HAPPENS -->
+<section class="ec-band ec-white">
+ <div class="ec-inner">
+  <div class="ec-head"><span class="ec-eyebrow">What happens</span></div>
+  <p class="ec-lead">Most 2027 plans are this year plus a percentage. The number has a cell, a formula and a chart that goes up and to the right. What it doesn't have is a reason.</p>
+  <div class="ec-time">
+   <div class="ec-timeline-rail"></div>
+   <div class="ec-step"><div class="dot"></div><div class="mins">0 to 5 min</div><div class="what">Your number</div></div>
+   <div class="ec-step"><div class="dot"></div><div class="mins">5 to 20 min</div><div class="what">The three pitfalls</div></div>
+   <div class="ec-step"><div class="dot"></div><div class="mins">20 to 30 min</div><div class="what">What I'd do about each</div></div>
+  </div>
+  <p class="ec-lead">In thirty minutes we look at how your revenue was actually produced this year and where next year's number is leaning on something that won't hold. You leave with the three biggest pitfalls in your plan and what I'd do about each. That's the whole session.</p>
+ </div>
+</section>
+
+<!-- BAND 4: BOOK -->
+<section class="ec-band ec-gray" id="book">
+ <div class="ec-inner">
+  <p class="ec-book-lead">No fee for this one. Be thankful. Pick a time below.</p>
+  <div class="ec-embed-card">
+   <div id="my-cal-inline" style="width:100%;height:100%;min-height:700px;overflow:visible"></div>
+  </div>
+ </div>
+</section>
+
+<!-- BAND 5: PROOF -->
+<section class="ec-band ec-navy">
+ <div class="ec-inner">
+  <div class="ec-proof">
+   <div><span class="pn">205%</span><span class="pl">of the engagement target &middot; Grow &rsquo;em</span></div>
+   <div><span class="pn">60% to 80%</span><span class="pl">of growth from customers they already had &middot; Keep &rsquo;em</span></div>
+   <div><span class="pn">18% to 64%</span><span class="pl">close rate on marketing leads &middot; Fuel</span></div>
+   <div><span class="pn">100%</span><span class="pl">of engines still growing after hand-off &middot; Hand-off</span></div>
+  </div>
+  <p class="ec-foot-line">Jason Rigolli, Fractional CRO. Three CRO seats, all in founder-led B2B companies. The thinking behind the session: <a href="/insights/2027-plan-2026-engine-new-suit/">"Your 2027 plan is your 2026 engine in a new suit"</a></p>
+ </div>
+</section>
+
+</main>
+
+<div class="ec-sticky"><a href="#book">Pick a time</a></div>
 
 <!-- Cal.com inline embed -->
 <script type="text/javascript">
@@ -120,8 +227,6 @@ Cal.ns["2027-engine-check"]("inline", {
 });
 Cal.ns["2027-engine-check"]("ui", {"cssVarsPerTheme":{"light":{"cal-brand":"#083058"}},"hideEventTypeDetails":false,"layout":"month_view"});
 </script>
-
-</main>
 
 
 <footer class="site-footer">
