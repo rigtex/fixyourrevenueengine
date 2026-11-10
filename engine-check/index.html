@@ -29,8 +29,7 @@
 .ec-navy{background:var(--ec-navy);color:#fff;}
 .ec-gray{background:var(--ec-gray);color:#16202c;}
 .ec-white{background:#fff;color:#16202c;}
-.ec-eyebrow{display:inline-block;font-size:1.02rem;letter-spacing:3.5px;text-transform:uppercase;font-weight:800;color:var(--ec-blue);margin-bottom:18px;}
-.ec-head .ec-eyebrow:after{content:'';display:block;width:46px;height:3px;background:var(--ec-blue);margin:14px auto 0;border-radius:2px;}
+.ec-eyebrow{display:inline-block;font-size:.8rem;letter-spacing:3px;text-transform:uppercase;font-weight:700;color:var(--ec-blue);margin-bottom:16px;}
 .ec-navy .ec-eyebrow{color:#7cc4f5;}
 /* HERO */
 .ec-hero{display:grid;grid-template-columns:1.15fr .85fr;gap:40px;align-items:center;}
@@ -55,9 +54,7 @@
 .ec-step .dot{width:18px;height:18px;border-radius:50%;background:var(--ec-blue);margin:0 auto 18px;box-shadow:0 0 0 6px rgba(13,134,226,.15);}
 .ec-step .mins{font-weight:700;color:var(--ec-navy);font-size:1.05rem;}
 .ec-step .what{color:#4a5560;font-size:1rem;margin-top:4px;}
-.ec-timeline-rail{position:absolute;top:9px;left:16%;right:16%;height:3px;background:linear-gradient(90deg,#0D86E2,#7cc4f5);z-index:0;border-radius:2px;}
-.ec-clock{display:flex;align-items:center;justify-content:center;gap:9px;margin:0 auto 26px;color:var(--ec-mid);font-weight:700;font-size:1.05rem;}
-.ec-clock svg{width:26px;height:26px;}
+.ec-timeline-rail{position:absolute;top:9px;left:16%;right:16%;height:2px;background:#cfe0ef;z-index:0;}
 .ec-time .ec-step{z-index:1;}
 /* BOOK */
 .ec-book-lead{font-size:1.5rem;line-height:1.5;color:var(--ec-navy);text-align:center;max-width:24ch;margin:0 auto 34px;font-weight:600;}
@@ -86,7 +83,6 @@
 </style>
 <!-- Cloudflare Web Analytics --><script type='module' src='https://static.cloudflareinsights.com/beacon.min.js' data-cf-beacon='{"token": "b1f1b3ba538e40b6beb8a89452ebc6e9"}'></script><!-- End Cloudflare Web Analytics -->
 </head>
-
 
 <body>
 
@@ -138,7 +134,6 @@
 
 
 
-
 <main>
 
 <!-- BAND 1: HERO -->
@@ -160,29 +155,30 @@
 <line x1="52" y1="130" x2="66" y2="136"/>
 <line x1="268" y1="130" x2="254" y2="136"/>
 </g>
-<line x1="160" y1="190" x2="163" y2="96" stroke="#0D86E2" stroke-width="5" stroke-linecap="round"/>
+<line x1="160" y1="190" x2="212" y2="112" stroke="#0D86E2" stroke-width="5" stroke-linecap="round"/>
 <circle cx="160" cy="190" r="12" fill="#083058" stroke="#0D86E2" stroke-width="4"/>
 <circle cx="160" cy="190" r="3" fill="#7cc4f5"/>
 </svg></div>
  </div>
 </section>
 
-<!-- BAND 2: BOOK (moved up, book-first) -->
-<section class="ec-band ec-gray" id="book">
+<!-- BAND 2: THE PITFALLS -->
+<section class="ec-band ec-gray">
  <div class="ec-inner">
-  <p class="ec-book-lead">No fee for this one. Pick a time below.</p>
-  <div class="ec-embed-card">
-   <div id="my-cal-inline" style="width:100%;height:100%;min-height:700px;overflow:visible"></div>
+  <div class="ec-head"><span class="ec-eyebrow">The pitfalls</span><h2>Three places next year's number leans on something that won't hold</h2></div>
+  <div class="ec-cards">
+   <div class="ec-card"><svg viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg" aria-hidden="true"><path d="M24 7 L44 41 H4 Z" stroke="#083058" stroke-width="2.5" stroke-linejoin="round"/><line x1="24" y1="20" x2="24" y2="31" stroke="#0D86E2" stroke-width="3" stroke-linecap="round"/><circle cx="24" cy="36" r="1.8" fill="#0D86E2"/></svg><h3>The one-person deals</h3><p>revenue that only closed because the founder was in the room</p></div>
+   <div class="ec-card"><svg viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg" aria-hidden="true"><path d="M24 7 L44 41 H4 Z" stroke="#083058" stroke-width="2.5" stroke-linejoin="round"/><line x1="24" y1="20" x2="24" y2="31" stroke="#0D86E2" stroke-width="3" stroke-linecap="round"/><circle cx="24" cy="36" r="1.8" fill="#0D86E2"/></svg><h3>The one-offs</h3><p>the project that won't repeat</p></div>
+   <div class="ec-card"><svg viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg" aria-hidden="true"><path d="M24 7 L44 41 H4 Z" stroke="#083058" stroke-width="2.5" stroke-linejoin="round"/><line x1="24" y1="20" x2="24" y2="31" stroke="#0D86E2" stroke-width="3" stroke-linecap="round"/><circle cx="24" cy="36" r="1.8" fill="#0D86E2"/></svg><h3>The churn you already know about</h3><p>the account that told you in September</p></div>
   </div>
  </div>
 </section>
 
-<!-- BAND 3: WHAT HAPPENS (learn more, below the calendar) -->
+<!-- BAND 3: WHAT HAPPENS -->
 <section class="ec-band ec-white">
  <div class="ec-inner">
   <div class="ec-head"><span class="ec-eyebrow">What happens</span></div>
   <p class="ec-lead">Most 2027 plans are this year plus a percentage. The number has a cell, a formula and a chart that goes up and to the right. What it doesn't have is a reason.</p>
-  <div class="ec-clock"><svg viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" aria-hidden="true"><circle cx="12" cy="12" r="9" stroke="#185892" stroke-width="2"/><path d="M12 7v5l3 2" stroke="#0D86E2" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg><span>Thirty minutes, start to finish</span></div>
   <div class="ec-time">
    <div class="ec-timeline-rail"></div>
    <div class="ec-step"><div class="dot"></div><div class="mins">0 to 5 min</div><div class="what">Your number</div></div>
@@ -193,7 +189,17 @@
  </div>
 </section>
 
-<!-- BAND 4: PROOF -->
+<!-- BAND 4: BOOK -->
+<section class="ec-band ec-gray" id="book">
+ <div class="ec-inner">
+  <p class="ec-book-lead">No fee for this one. Be thankful. Pick a time below.</p>
+  <div class="ec-embed-card">
+   <div id="my-cal-inline" style="width:100%;height:100%;min-height:700px;overflow:visible"></div>
+  </div>
+ </div>
+</section>
+
+<!-- BAND 5: PROOF -->
 <section class="ec-band ec-navy">
  <div class="ec-inner">
   <div class="ec-proof">
@@ -219,8 +225,9 @@ Cal.ns["2027-engine-check"]("inline", {
   config: {"layout":"month_view","theme":"light"},
   calLink: "jrigolli/2027-engine-check",
 });
-Cal.ns["2027-engine-check"]("ui", {"cssVarsPerTheme":{"light":{"cal-brand":"#083058"}},"hideEventTypeDetails":true,"layout":"month_view"});
+Cal.ns["2027-engine-check"]("ui", {"cssVarsPerTheme":{"light":{"cal-brand":"#083058"}},"hideEventTypeDetails":false,"layout":"month_view"});
 </script>
+
 
 <footer class="site-footer">
  <div class="container">
