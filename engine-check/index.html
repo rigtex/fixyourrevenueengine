@@ -46,7 +46,7 @@
 .ec-head h2{font-size:2rem;color:var(--ec-navy);margin:0;}
 .ec-cards{display:grid;grid-template-columns:repeat(3,1fr);gap:24px;}
 .ec-card{background:#fff;border:1px solid #e6eaef;border-radius:8px;padding:30px 26px;box-shadow:0 2px 10px rgba(8,48,88,.05);}
-.ec-card svg{width:46px;height:46px;margin-bottom:16px;}
+.ec-card .ec-ico{display:flex;align-items:center;height:44px;margin-bottom:16px;}.ec-card .ec-ico svg{width:42px;height:42px;}.ec-card .ec-ico img{height:26px;width:auto;}
 .ec-card h3{font-size:1.2rem;color:var(--ec-navy);margin:0 0 8px;}
 .ec-card p{font-size:1rem;line-height:1.55;color:#4a5560;margin:0;}
 /* TIMELINE */
@@ -185,9 +185,9 @@
  <div class="ec-inner">
   <div class="ec-head"><span class="ec-eyebrow">The pitfalls</span><h2>There are usually three.</h2></div>
   <div class="ec-cards">
-   <div class="ec-card"><svg viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg" aria-hidden="true"><g stroke="#F5820A" stroke-width="2.5" fill="none" stroke-linecap="round"><circle cx="24" cy="24" r="10"/><path d="M11 16 Q7 24 11 32"/><path d="M37 16 Q41 24 37 32"/><line x1="24" y1="18" x2="24" y2="26"/></g><circle cx="24" cy="30" r="1.6" fill="#F5820A"/></svg><p>One you already suspect.</p></div>
-   <div class="ec-card"><img src="/assets/oil-telltale.png" alt="" width="66" style="height:auto;margin-bottom:16px;display:block;" /><p>One you've stopped noticing.</p></div>
-   <div class="ec-card"><svg viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg" aria-hidden="true"><rect x="9" y="18" width="30" height="17" rx="2.5" stroke="#F5820A" stroke-width="2.5"/><rect x="15" y="14" width="5" height="4" fill="#F5820A"/><rect x="28" y="14" width="5" height="4" fill="#F5820A"/><g stroke="#F5820A" stroke-width="2.5" stroke-linecap="round"><line x1="15" y1="26.5" x2="21" y2="26.5"/><line x1="30" y1="23.5" x2="30" y2="29.5"/><line x1="27" y1="26.5" x2="33" y2="26.5"/></g></svg><p>One nobody has told you about.</p></div>
+   <div class="ec-card"><span class="ec-ico"><svg viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg" aria-hidden="true"><g stroke="#F5820A" stroke-width="2.5" fill="none" stroke-linecap="round"><circle cx="24" cy="24" r="10"/><path d="M11 16 Q7 24 11 32"/><path d="M37 16 Q41 24 37 32"/><line x1="24" y1="18" x2="24" y2="26"/></g><circle cx="24" cy="30" r="1.6" fill="#F5820A"/></svg></span><p>One you already suspect.</p></div>
+   <div class="ec-card"><span class="ec-ico"><img src="/assets/oil-telltale.png" alt="" /></span><p>One you've stopped noticing.</p></div>
+   <div class="ec-card"><span class="ec-ico"><svg viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg" aria-hidden="true"><rect x="9" y="18" width="30" height="17" rx="2.5" stroke="#F5820A" stroke-width="2.5"/><rect x="15" y="14" width="5" height="4" fill="#F5820A"/><rect x="28" y="14" width="5" height="4" fill="#F5820A"/><g stroke="#F5820A" stroke-width="2.5" stroke-linecap="round"><line x1="15" y1="26.5" x2="21" y2="26.5"/><line x1="30" y1="23.5" x2="30" y2="29.5"/><line x1="27" y1="26.5" x2="33" y2="26.5"/></g></svg></span><p>One nobody has told you about.</p></div>
   </div>
   <p class="ec-cards-lead">They're different in every business. We find yours together, in your numbers.</p>
  </div>
